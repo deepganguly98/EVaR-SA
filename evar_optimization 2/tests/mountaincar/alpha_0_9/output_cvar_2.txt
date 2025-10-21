@@ -1,0 +1,2006 @@
+alpha =  0.9
+seed =  37
+learning_rate -  0.01
+discount_factor -  0.9
+inside iterator
+Iteration [  0  ]
+ obj. val :  -25.165309158784183
+Iteration [  1  ]
+ obj. val :  -13.89542446277184
+Iteration [  2  ]
+ obj. val :  -24.862134338639784
+Iteration [  3  ]
+ obj. val :  -35.87582117583164
+Iteration [  4  ]
+ obj. val :  -41.103816183877896
+Iteration [  5  ]
+ obj. val :  -41.16938252488217
+Iteration [  6  ]
+ obj. val :  -41.15933470893221
+Iteration [  7  ]
+ obj. val :  -35.99074649361916
+Iteration [  8  ]
+ obj. val :  -30.7143620888103
+Iteration [  9  ]
+ obj. val :  -30.825829520977724
+Iteration [  10  ]
+ obj. val :  -23.844827624456933
+Iteration [  11  ]
+ obj. val :  -47.25775973831131
+Iteration [  12  ]
+ obj. val :  -22.95529504010357
+Iteration [  13  ]
+ obj. val :  -30.703638500587928
+Iteration [  14  ]
+ obj. val :  -16.94852135070594
+Iteration [  15  ]
+ obj. val :  -29.21712702304386
+Iteration [  16  ]
+ obj. val :  -35.4696122610692
+Iteration [  17  ]
+ obj. val :  -36.40107629502436
+Iteration [  18  ]
+ obj. val :  -25.007415842175803
+Iteration [  19  ]
+ obj. val :  -31.405798199403637
+Iteration [  20  ]
+ obj. val :  -36.11160228282788
+Iteration [  21  ]
+ obj. val :  -31.15735925703025
+Iteration [  22  ]
+ obj. val :  -36.53108583366651
+Iteration [  23  ]
+ obj. val :  -29.728579204054398
+Iteration [  24  ]
+ obj. val :  -28.785816929558415
+Iteration [  25  ]
+ obj. val :  -35.79380704709575
+Iteration [  26  ]
+ obj. val :  -30.36031143780801
+Iteration [  27  ]
+ obj. val :  -35.669192125471675
+Iteration [  28  ]
+ obj. val :  -30.589074747118353
+Iteration [  29  ]
+ obj. val :  -30.56595832629045
+Iteration [  30  ]
+ obj. val :  -35.81197679600492
+Iteration [  31  ]
+ obj. val :  -36.42745208370766
+Iteration [  32  ]
+ obj. val :  -29.691881050403367
+Iteration [  33  ]
+ obj. val :  -41.21511486310634
+Iteration [  34  ]
+ obj. val :  -35.28504439517621
+Iteration [  35  ]
+ obj. val :  -35.94372100313397
+Iteration [  36  ]
+ obj. val :  -41.78168825482674
+Iteration [  37  ]
+ obj. val :  -34.947807968989075
+Iteration [  38  ]
+ obj. val :  -41.05954638096059
+Iteration [  39  ]
+ obj. val :  -46.78079639474912
+Iteration [  40  ]
+ obj. val :  -35.720108784640985
+Iteration [  41  ]
+ obj. val :  -41.80092163580455
+Iteration [  42  ]
+ obj. val :  -34.510003927749686
+Iteration [  43  ]
+ obj. val :  -35.145616112500065
+Iteration [  44  ]
+ obj. val :  -30.386295421746293
+Iteration [  45  ]
+ obj. val :  -46.4464841320841
+Iteration [  46  ]
+ obj. val :  -41.13089636271648
+Iteration [  47  ]
+ obj. val :  -35.459885415603615
+Iteration [  48  ]
+ obj. val :  -40.71150588981143
+Iteration [  49  ]
+ obj. val :  -34.60373035942388
+Iteration [  50  ]
+ obj. val :  -46.274311738121455
+Iteration [  51  ]
+ obj. val :  -40.53739870741167
+Iteration [  52  ]
+ obj. val :  -40.404913809303274
+Iteration [  53  ]
+ obj. val :  -40.60805949479744
+Iteration [  54  ]
+ obj. val :  -34.44183047762153
+Iteration [  55  ]
+ obj. val :  -45.952196027704304
+Iteration [  56  ]
+ obj. val :  -34.33656317512617
+Iteration [  57  ]
+ obj. val :  -39.88009638355535
+Iteration [  58  ]
+ obj. val :  -40.72010069984082
+Iteration [  59  ]
+ obj. val :  -40.243482015089484
+Iteration [  60  ]
+ obj. val :  -40.68133603436841
+Iteration [  61  ]
+ obj. val :  -40.02006445574566
+Iteration [  62  ]
+ obj. val :  -40.65334687369092
+Iteration [  63  ]
+ obj. val :  -39.082550210665985
+Iteration [  64  ]
+ obj. val :  -40.198889878330654
+Iteration [  65  ]
+ obj. val :  -39.61436060915145
+Iteration [  66  ]
+ obj. val :  -40.06098540453355
+Iteration [  67  ]
+ obj. val :  -45.01513206979794
+Iteration [  68  ]
+ obj. val :  -40.17709085883156
+Iteration [  69  ]
+ obj. val :  -45.31658940578482
+Iteration [  70  ]
+ obj. val :  -45.23300282398906
+Iteration [  71  ]
+ obj. val :  -44.80840112330617
+Iteration [  72  ]
+ obj. val :  -45.30858726268622
+Iteration [  73  ]
+ obj. val :  -44.66304210634076
+Iteration [  74  ]
+ obj. val :  -39.65984612286164
+Iteration [  75  ]
+ obj. val :  -38.8139488456136
+Iteration [  76  ]
+ obj. val :  -44.50329865081178
+Iteration [  77  ]
+ obj. val :  -38.479136455538416
+Iteration [  78  ]
+ obj. val :  -44.65233058386542
+Iteration [  79  ]
+ obj. val :  -44.68970096923539
+Iteration [  80  ]
+ obj. val :  -44.19423833415231
+Iteration [  81  ]
+ obj. val :  -44.50530638941408
+Iteration [  82  ]
+ obj. val :  -44.459139627770355
+Iteration [  83  ]
+ obj. val :  -38.4072694697608
+Iteration [  84  ]
+ obj. val :  -43.77044536233994
+Iteration [  85  ]
+ obj. val :  -44.110107888670186
+Iteration [  86  ]
+ obj. val :  -38.410363697296674
+Iteration [  87  ]
+ obj. val :  -43.9949886132477
+Iteration [  88  ]
+ obj. val :  -43.907651136354495
+Iteration [  89  ]
+ obj. val :  -43.83283812415278
+Iteration [  90  ]
+ obj. val :  -43.73925063011785
+Iteration [  91  ]
+ obj. val :  -43.26015970091031
+Iteration [  92  ]
+ obj. val :  -43.30023009848349
+Iteration [  93  ]
+ obj. val :  -38.10334767353523
+Iteration [  94  ]
+ obj. val :  -43.25725034936371
+Iteration [  95  ]
+ obj. val :  -43.31023971304548
+Iteration [  96  ]
+ obj. val :  -37.31133777097591
+Iteration [  97  ]
+ obj. val :  -37.49409115910092
+Iteration [  98  ]
+ obj. val :  -42.99735402277636
+Iteration [  99  ]
+ obj. val :  -42.670643991513096
+Iteration [  100  ]
+ obj. val :  -42.59847429181224
+Iteration [  101  ]
+ obj. val :  -42.57011099052863
+Iteration [  102  ]
+ obj. val :  -42.641602454864845
+Iteration [  103  ]
+ obj. val :  -36.51825154583589
+Iteration [  104  ]
+ obj. val :  -42.59003119438842
+Iteration [  105  ]
+ obj. val :  -42.08369787818831
+Iteration [  106  ]
+ obj. val :  -42.33285339190406
+Iteration [  107  ]
+ obj. val :  -42.34016512269951
+Iteration [  108  ]
+ obj. val :  -41.80297481882158
+Iteration [  109  ]
+ obj. val :  -42.0273240881211
+Iteration [  110  ]
+ obj. val :  -41.90754260778372
+Iteration [  111  ]
+ obj. val :  -35.745623353709554
+Iteration [  112  ]
+ obj. val :  -41.794029162046236
+Iteration [  113  ]
+ obj. val :  -41.30845045285758
+Iteration [  114  ]
+ obj. val :  -41.679665451551195
+Iteration [  115  ]
+ obj. val :  -41.276659018949566
+Iteration [  116  ]
+ obj. val :  -41.44479751541874
+Iteration [  117  ]
+ obj. val :  -41.28869717573404
+Iteration [  118  ]
+ obj. val :  -41.18049639297553
+Iteration [  119  ]
+ obj. val :  -40.71181026332653
+Iteration [  120  ]
+ obj. val :  -41.24443605515315
+Iteration [  121  ]
+ obj. val :  -40.55293425768816
+Iteration [  122  ]
+ obj. val :  -40.49561856289624
+Iteration [  123  ]
+ obj. val :  -40.67412021515466
+Iteration [  124  ]
+ obj. val :  -40.45195287344275
+Iteration [  125  ]
+ obj. val :  -40.37058533946507
+Iteration [  126  ]
+ obj. val :  -40.05402807094668
+Iteration [  127  ]
+ obj. val :  -40.16960466422132
+Iteration [  128  ]
+ obj. val :  -40.07967077815565
+Iteration [  129  ]
+ obj. val :  -40.17008305781604
+Iteration [  130  ]
+ obj. val :  -39.7668540529177
+Iteration [  131  ]
+ obj. val :  -39.95701115640297
+Iteration [  132  ]
+ obj. val :  -39.918950613620325
+Iteration [  133  ]
+ obj. val :  -33.94621631365649
+Iteration [  134  ]
+ obj. val :  -39.55296217152714
+Iteration [  135  ]
+ obj. val :  -39.09244258077311
+Iteration [  136  ]
+ obj. val :  -33.45594824078459
+Iteration [  137  ]
+ obj. val :  -39.24746536317606
+Iteration [  138  ]
+ obj. val :  -34.069176157214955
+Iteration [  139  ]
+ obj. val :  -39.18197257861175
+Iteration [  140  ]
+ obj. val :  -38.95903886176255
+Iteration [  141  ]
+ obj. val :  -38.48394230709707
+Iteration [  142  ]
+ obj. val :  -38.672708444375445
+Iteration [  143  ]
+ obj. val :  -38.57749905567394
+Iteration [  144  ]
+ obj. val :  -38.646542528666124
+Iteration [  145  ]
+ obj. val :  -38.60276276632076
+Iteration [  146  ]
+ obj. val :  -38.17296575207593
+Iteration [  147  ]
+ obj. val :  -32.745638638072926
+Iteration [  148  ]
+ obj. val :  -38.331677207512
+Iteration [  149  ]
+ obj. val :  -38.05162419017736
+Iteration [  150  ]
+ obj. val :  -37.686072808113316
+Iteration [  151  ]
+ obj. val :  -37.80363119180422
+Iteration [  152  ]
+ obj. val :  -37.55824575201988
+Iteration [  153  ]
+ obj. val :  -32.289023952935494
+Iteration [  154  ]
+ obj. val :  -37.4566080476957
+Iteration [  155  ]
+ obj. val :  -37.44464923565332
+Iteration [  156  ]
+ obj. val :  -32.04949175983665
+Iteration [  157  ]
+ obj. val :  -36.972488862234485
+Iteration [  158  ]
+ obj. val :  -37.1566467344634
+Iteration [  159  ]
+ obj. val :  -36.938874501665715
+Iteration [  160  ]
+ obj. val :  -36.62768987176693
+Iteration [  161  ]
+ obj. val :  -36.87734522544798
+Iteration [  162  ]
+ obj. val :  -36.7602903640956
+Iteration [  163  ]
+ obj. val :  -36.39034885877695
+Iteration [  164  ]
+ obj. val :  -36.894871869238386
+Iteration [  165  ]
+ obj. val :  -36.57148269781187
+Iteration [  166  ]
+ obj. val :  -36.43713589072281
+Iteration [  167  ]
+ obj. val :  -30.554262635721262
+Iteration [  168  ]
+ obj. val :  -30.86189733320946
+Iteration [  169  ]
+ obj. val :  -36.04628690560514
+Iteration [  170  ]
+ obj. val :  -35.84458306350342
+Iteration [  171  ]
+ obj. val :  -35.835584585295386
+Iteration [  172  ]
+ obj. val :  -35.69584265352154
+Iteration [  173  ]
+ obj. val :  -35.57426318042278
+Iteration [  174  ]
+ obj. val :  -35.49964861389554
+Iteration [  175  ]
+ obj. val :  -35.400572001845646
+Iteration [  176  ]
+ obj. val :  -35.202787860289305
+Iteration [  177  ]
+ obj. val :  -35.10996385306235
+Iteration [  178  ]
+ obj. val :  -35.0716475267714
+Iteration [  179  ]
+ obj. val :  -29.1720695601944
+Iteration [  180  ]
+ obj. val :  -34.93241843801073
+Iteration [  181  ]
+ obj. val :  -34.887695586911285
+Iteration [  182  ]
+ obj. val :  -34.61339943700614
+Iteration [  183  ]
+ obj. val :  -34.429215716643284
+Iteration [  184  ]
+ obj. val :  -34.43561857798062
+Iteration [  185  ]
+ obj. val :  -34.20916384179795
+Iteration [  186  ]
+ obj. val :  -34.16937871584406
+Iteration [  187  ]
+ obj. val :  -34.01791307057554
+Iteration [  188  ]
+ obj. val :  -33.761495700565106
+Iteration [  189  ]
+ obj. val :  -33.70412166302354
+Iteration [  190  ]
+ obj. val :  -33.794612414430816
+Iteration [  191  ]
+ obj. val :  -33.47099148201686
+Iteration [  192  ]
+ obj. val :  -33.56311858670571
+Iteration [  193  ]
+ obj. val :  -33.36240044138814
+Iteration [  194  ]
+ obj. val :  -33.287398008538275
+Iteration [  195  ]
+ obj. val :  -33.026982837376075
+Iteration [  196  ]
+ obj. val :  -33.09897641625266
+Iteration [  197  ]
+ obj. val :  -32.61644346790892
+Iteration [  198  ]
+ obj. val :  -32.999782794705155
+Iteration [  199  ]
+ obj. val :  -32.57524540904326
+Iteration [  200  ]
+ obj. val :  -32.64694971223447
+Iteration [  201  ]
+ obj. val :  -32.416413746481254
+Iteration [  202  ]
+ obj. val :  -32.38978148438232
+Iteration [  203  ]
+ obj. val :  -32.194350755190484
+Iteration [  204  ]
+ obj. val :  -32.135618657830776
+Iteration [  205  ]
+ obj. val :  -31.92334604481315
+Iteration [  206  ]
+ obj. val :  -31.677790638311034
+Iteration [  207  ]
+ obj. val :  -31.7000011237337
+Iteration [  208  ]
+ obj. val :  -31.742008378151912
+Iteration [  209  ]
+ obj. val :  -31.427459042478187
+Iteration [  210  ]
+ obj. val :  -31.47447745705555
+Iteration [  211  ]
+ obj. val :  -31.230862303010422
+Iteration [  212  ]
+ obj. val :  -31.171397351025007
+Iteration [  213  ]
+ obj. val :  -31.30632460291574
+Iteration [  214  ]
+ obj. val :  -31.041046860395856
+Iteration [  215  ]
+ obj. val :  -30.8209349092421
+Iteration [  216  ]
+ obj. val :  -30.614949904757
+Iteration [  217  ]
+ obj. val :  -30.59559002568578
+Iteration [  218  ]
+ obj. val :  -30.658027010295374
+Iteration [  219  ]
+ obj. val :  -30.159666141246003
+Iteration [  220  ]
+ obj. val :  -30.333864070861733
+Iteration [  221  ]
+ obj. val :  -29.861649306274415
+Iteration [  222  ]
+ obj. val :  -30.153165266018288
+Iteration [  223  ]
+ obj. val :  -29.960232340345616
+Iteration [  224  ]
+ obj. val :  -30.022209571175566
+Iteration [  225  ]
+ obj. val :  -29.64778824776975
+Iteration [  226  ]
+ obj. val :  -29.770250092979698
+Iteration [  227  ]
+ obj. val :  -29.83393924878301
+Iteration [  228  ]
+ obj. val :  -29.550312913800763
+Iteration [  229  ]
+ obj. val :  -29.318534124463326
+Iteration [  230  ]
+ obj. val :  -29.515803935566826
+Iteration [  231  ]
+ obj. val :  -29.08391814144636
+Iteration [  232  ]
+ obj. val :  -28.889068328166513
+Iteration [  233  ]
+ obj. val :  -28.8442300569131
+Iteration [  234  ]
+ obj. val :  -28.875219821590075
+Iteration [  235  ]
+ obj. val :  -28.89106890835327
+Iteration [  236  ]
+ obj. val :  -28.662261810998153
+Iteration [  237  ]
+ obj. val :  -28.605800991778604
+Iteration [  238  ]
+ obj. val :  -28.668161925134
+Iteration [  239  ]
+ obj. val :  -28.466881090261484
+Iteration [  240  ]
+ obj. val :  -28.0263324284487
+Iteration [  241  ]
+ obj. val :  -27.964968294340554
+Iteration [  242  ]
+ obj. val :  -27.970807166226404
+Iteration [  243  ]
+ obj. val :  -28.05499215803823
+Iteration [  244  ]
+ obj. val :  -27.936672686616475
+Iteration [  245  ]
+ obj. val :  -27.836395346952287
+Iteration [  246  ]
+ obj. val :  -27.751723830448782
+Iteration [  247  ]
+ obj. val :  -27.533573556521333
+Iteration [  248  ]
+ obj. val :  -22.487624456516663
+Iteration [  249  ]
+ obj. val :  -27.74554601308258
+Iteration [  250  ]
+ obj. val :  -27.352556690788017
+Iteration [  251  ]
+ obj. val :  -27.29301981736807
+Iteration [  252  ]
+ obj. val :  -27.292746988700717
+Iteration [  253  ]
+ obj. val :  -26.826944401415695
+Iteration [  254  ]
+ obj. val :  -26.924543315442843
+Iteration [  255  ]
+ obj. val :  -26.820520989707944
+Iteration [  256  ]
+ obj. val :  -26.764140960510055
+Iteration [  257  ]
+ obj. val :  -26.62493080143227
+Iteration [  258  ]
+ obj. val :  -26.455855082121225
+Iteration [  259  ]
+ obj. val :  -26.36574280353853
+Iteration [  260  ]
+ obj. val :  -26.37404071387108
+Iteration [  261  ]
+ obj. val :  -26.436245873370524
+Iteration [  262  ]
+ obj. val :  -26.250278223155675
+Iteration [  263  ]
+ obj. val :  -26.303836931823817
+Iteration [  264  ]
+ obj. val :  -25.986453704477977
+Iteration [  265  ]
+ obj. val :  -26.166979608549692
+Iteration [  266  ]
+ obj. val :  -25.949166760254858
+Iteration [  267  ]
+ obj. val :  -25.936240887688516
+Iteration [  268  ]
+ obj. val :  -25.93093105259308
+Iteration [  269  ]
+ obj. val :  -26.07440212839923
+Iteration [  270  ]
+ obj. val :  -25.472981033493987
+Iteration [  271  ]
+ obj. val :  -25.571027461404878
+Iteration [  272  ]
+ obj. val :  -25.713041947746802
+Iteration [  273  ]
+ obj. val :  -20.12211562248666
+Iteration [  274  ]
+ obj. val :  -25.549953884393844
+Iteration [  275  ]
+ obj. val :  -25.59884913162544
+Iteration [  276  ]
+ obj. val :  -25.541590034271927
+Iteration [  277  ]
+ obj. val :  -25.07592337853161
+Iteration [  278  ]
+ obj. val :  -25.30955785377803
+Iteration [  279  ]
+ obj. val :  -25.33604334403184
+Iteration [  280  ]
+ obj. val :  -25.425507293388378
+Iteration [  281  ]
+ obj. val :  -19.763477898665684
+Iteration [  282  ]
+ obj. val :  -25.06033512182726
+Iteration [  283  ]
+ obj. val :  -25.243451756709483
+Iteration [  284  ]
+ obj. val :  -25.204173625072816
+Iteration [  285  ]
+ obj. val :  -19.918386574832766
+Iteration [  286  ]
+ obj. val :  -24.8959057742798
+Iteration [  287  ]
+ obj. val :  -25.094256087387734
+Iteration [  288  ]
+ obj. val :  -24.70995512039783
+Iteration [  289  ]
+ obj. val :  -24.915274254283272
+Iteration [  290  ]
+ obj. val :  -24.736977661001692
+Iteration [  291  ]
+ obj. val :  -24.669622436601202
+Iteration [  292  ]
+ obj. val :  -24.64016112177461
+Iteration [  293  ]
+ obj. val :  -24.874774299051495
+Iteration [  294  ]
+ obj. val :  -24.67702294754377
+Iteration [  295  ]
+ obj. val :  -24.861838678344647
+Iteration [  296  ]
+ obj. val :  -14.102570403637891
+Iteration [  297  ]
+ obj. val :  -18.805617886945317
+Iteration [  298  ]
+ obj. val :  -24.44526112527792
+Iteration [  299  ]
+ obj. val :  -19.096073174716185
+Iteration [  300  ]
+ obj. val :  -24.786022239411654
+Iteration [  301  ]
+ obj. val :  -18.957189456364908
+Iteration [  302  ]
+ obj. val :  -24.563290685836826
+Iteration [  303  ]
+ obj. val :  -19.382059701724348
+Iteration [  304  ]
+ obj. val :  -19.620426006270115
+Iteration [  305  ]
+ obj. val :  -19.571070174016462
+Iteration [  306  ]
+ obj. val :  -19.540124227444995
+Iteration [  307  ]
+ obj. val :  -13.812022855924086
+Iteration [  308  ]
+ obj. val :  -18.8773239113329
+Iteration [  309  ]
+ obj. val :  -24.546669536719964
+Iteration [  310  ]
+ obj. val :  -24.64603687157577
+Iteration [  311  ]
+ obj. val :  -19.621413730714334
+Iteration [  312  ]
+ obj. val :  -24.48899783018827
+Iteration [  313  ]
+ obj. val :  -19.346292081103265
+Iteration [  314  ]
+ obj. val :  -18.92407604121405
+Iteration [  315  ]
+ obj. val :  -19.202850362228666
+Iteration [  316  ]
+ obj. val :  -19.211980979588457
+Iteration [  317  ]
+ obj. val :  -18.634610184599534
+Iteration [  318  ]
+ obj. val :  -24.633826253591458
+Iteration [  319  ]
+ obj. val :  -8.666928525649588
+Iteration [  320  ]
+ obj. val :  -9.103486949978214
+Iteration [  321  ]
+ obj. val :  -19.56180799697954
+Iteration [  322  ]
+ obj. val :  -8.202973821831167
+Iteration [  323  ]
+ obj. val :  -14.15742986962622
+Iteration [  324  ]
+ obj. val :  -3.1667217606320612
+Iteration [  325  ]
+ obj. val :  1.7884364343782102
+Iteration [  326  ]
+ obj. val :  -3.87934763854578
+Iteration [  327  ]
+ obj. val :  -8.851114611222467
+Iteration [  328  ]
+ obj. val :  -9.018168585190761
+Iteration [  329  ]
+ obj. val :  -8.93994589020175
+Iteration [  330  ]
+ obj. val :  -9.07449986853279
+Iteration [  331  ]
+ obj. val :  -3.4827357450028873
+Iteration [  332  ]
+ obj. val :  -8.951127944440794
+Iteration [  333  ]
+ obj. val :  6.49615529240475
+Iteration [  334  ]
+ obj. val :  -8.77338413632966
+Iteration [  335  ]
+ obj. val :  12.521175923796045
+Iteration [  336  ]
+ obj. val :  -3.9113767600059637
+Iteration [  337  ]
+ obj. val :  23.51556179285099
+Iteration [  338  ]
+ obj. val :  6.618824769505316
+Iteration [  339  ]
+ obj. val :  17.735011136660102
+Iteration [  340  ]
+ obj. val :  16.282991735472162
+Iteration [  341  ]
+ obj. val :  6.747209560558773
+Iteration [  342  ]
+ obj. val :  5.825271293538872
+Iteration [  343  ]
+ obj. val :  -3.3632204233491523
+Iteration [  344  ]
+ obj. val :  32.86495679446786
+Iteration [  345  ]
+ obj. val :  22.637370362007864
+Iteration [  346  ]
+ obj. val :  1.4332496743132213
+Iteration [  347  ]
+ obj. val :  22.47068782724184
+Iteration [  348  ]
+ obj. val :  34.273032948498106
+Iteration [  349  ]
+ obj. val :  11.61585061915876
+Iteration [  350  ]
+ obj. val :  38.931269939923844
+Iteration [  351  ]
+ obj. val :  31.5671658347302
+Iteration [  352  ]
+ obj. val :  37.13419309053473
+Iteration [  353  ]
+ obj. val :  27.254101126867173
+Iteration [  354  ]
+ obj. val :  64.76811112958637
+Iteration [  355  ]
+ obj. val :  33.66529367132788
+Iteration [  356  ]
+ obj. val :  6.802740140516439
+Iteration [  357  ]
+ obj. val :  12.061211382669088
+Iteration [  358  ]
+ obj. val :  11.41491629881536
+Iteration [  359  ]
+ obj. val :  26.849663337823987
+Iteration [  360  ]
+ obj. val :  53.52566141297717
+Iteration [  361  ]
+ obj. val :  22.080266086497517
+Iteration [  362  ]
+ obj. val :  38.252875574544994
+Iteration [  363  ]
+ obj. val :  22.027180206892627
+Iteration [  364  ]
+ obj. val :  74.45183645519067
+Iteration [  365  ]
+ obj. val :  17.172434130895425
+Iteration [  366  ]
+ obj. val :  1.4415942664031867
+Iteration [  367  ]
+ obj. val :  37.205320185274324
+Iteration [  368  ]
+ obj. val :  22.689897543457363
+Iteration [  369  ]
+ obj. val :  17.015214768957236
+Iteration [  370  ]
+ obj. val :  49.56810625820721
+Iteration [  371  ]
+ obj. val :  28.039158743211704
+Iteration [  372  ]
+ obj. val :  33.71338206422098
+Iteration [  373  ]
+ obj. val :  75.48270310213952
+Iteration [  374  ]
+ obj. val :  16.9139534085886
+Iteration [  375  ]
+ obj. val :  43.34086435577898
+Iteration [  376  ]
+ obj. val :  64.4373190411972
+Iteration [  377  ]
+ obj. val :  21.757794037595605
+Iteration [  378  ]
+ obj. val :  37.15937449713331
+Iteration [  379  ]
+ obj. val :  43.67480126161572
+Iteration [  380  ]
+ obj. val :  33.2077307151159
+Iteration [  381  ]
+ obj. val :  68.08478076060007
+Iteration [  382  ]
+ obj. val :  73.99743089946767
+Iteration [  383  ]
+ obj. val :  58.466245647853896
+Iteration [  384  ]
+ obj. val :  64.25462582810609
+Iteration [  385  ]
+ obj. val :  52.46045853083344
+Iteration [  386  ]
+ obj. val :  47.21739374860272
+Iteration [  387  ]
+ obj. val :  74.96868268623963
+Iteration [  388  ]
+ obj. val :  75.42104506092693
+Iteration [  389  ]
+ obj. val :  49.39213885455616
+Iteration [  390  ]
+ obj. val :  75.3155730092092
+Iteration [  391  ]
+ obj. val :  48.76895744104841
+Iteration [  392  ]
+ obj. val :  38.34522222315617
+Iteration [  393  ]
+ obj. val :  70.24485219420839
+Iteration [  394  ]
+ obj. val :  33.37830490037995
+Iteration [  395  ]
+ obj. val :  50.03621694271379
+Iteration [  396  ]
+ obj. val :  53.962180909339864
+Iteration [  397  ]
+ obj. val :  73.86281624731744
+Iteration [  398  ]
+ obj. val :  76.94079558705694
+Iteration [  399  ]
+ obj. val :  43.48603282123036
+Iteration [  400  ]
+ obj. val :  77.50325889579689
+Iteration [  401  ]
+ obj. val :  75.6074039706817
+Iteration [  402  ]
+ obj. val :  57.72808223550553
+Iteration [  403  ]
+ obj. val :  51.62827561153524
+Iteration [  404  ]
+ obj. val :  57.73877034512716
+Iteration [  405  ]
+ obj. val :  76.64619137017922
+Iteration [  406  ]
+ obj. val :  28.281435987782
+Iteration [  407  ]
+ obj. val :  75.07524135837916
+Iteration [  408  ]
+ obj. val :  76.84822589660041
+Iteration [  409  ]
+ obj. val :  75.54845444052113
+Iteration [  410  ]
+ obj. val :  53.71933009317275
+Iteration [  411  ]
+ obj. val :  69.32047588719091
+Iteration [  412  ]
+ obj. val :  57.565118430603746
+Iteration [  413  ]
+ obj. val :  75.91794566843716
+Iteration [  414  ]
+ obj. val :  72.82061063845777
+Iteration [  415  ]
+ obj. val :  74.84391110240938
+Iteration [  416  ]
+ obj. val :  73.33109974314162
+Iteration [  417  ]
+ obj. val :  75.18740392764613
+Iteration [  418  ]
+ obj. val :  77.17406568244341
+Iteration [  419  ]
+ obj. val :  63.46329629094928
+Iteration [  420  ]
+ obj. val :  74.44636153556117
+Iteration [  421  ]
+ obj. val :  76.53916198647887
+Iteration [  422  ]
+ obj. val :  74.22111418164577
+Iteration [  423  ]
+ obj. val :  75.77585950721071
+Iteration [  424  ]
+ obj. val :  76.94875974009497
+Iteration [  425  ]
+ obj. val :  76.11605194042686
+Iteration [  426  ]
+ obj. val :  76.85745488751304
+Iteration [  427  ]
+ obj. val :  76.5129130054926
+Iteration [  428  ]
+ obj. val :  77.84111819089011
+Iteration [  429  ]
+ obj. val :  65.25132654481195
+Iteration [  430  ]
+ obj. val :  76.63745765672968
+Iteration [  431  ]
+ obj. val :  75.6428696185544
+Iteration [  432  ]
+ obj. val :  76.3739110916749
+Iteration [  433  ]
+ obj. val :  75.48726288385258
+Iteration [  434  ]
+ obj. val :  75.55418005566783
+Iteration [  435  ]
+ obj. val :  75.81675055976677
+Iteration [  436  ]
+ obj. val :  75.29672159264406
+Iteration [  437  ]
+ obj. val :  75.93710303021496
+Iteration [  438  ]
+ obj. val :  76.67077835901596
+Iteration [  439  ]
+ obj. val :  78.34686019549261
+Iteration [  440  ]
+ obj. val :  76.2352545556804
+Iteration [  441  ]
+ obj. val :  76.62614872142659
+Iteration [  442  ]
+ obj. val :  78.17096138311412
+Iteration [  443  ]
+ obj. val :  78.90341253950221
+Iteration [  444  ]
+ obj. val :  74.69065840210791
+Iteration [  445  ]
+ obj. val :  75.99992186084643
+Iteration [  446  ]
+ obj. val :  76.04573318019514
+Iteration [  447  ]
+ obj. val :  77.04304526194169
+Iteration [  448  ]
+ obj. val :  76.69884803958037
+Iteration [  449  ]
+ obj. val :  76.51399404323959
+Iteration [  450  ]
+ obj. val :  77.61933364188141
+Iteration [  451  ]
+ obj. val :  78.92039775707549
+Iteration [  452  ]
+ obj. val :  76.5200505069328
+Iteration [  453  ]
+ obj. val :  76.88778359774726
+Iteration [  454  ]
+ obj. val :  78.04089458361746
+Iteration [  455  ]
+ obj. val :  78.68987238042713
+Iteration [  456  ]
+ obj. val :  78.41144283315693
+Iteration [  457  ]
+ obj. val :  77.75315485709571
+Iteration [  458  ]
+ obj. val :  78.1591648600524
+Iteration [  459  ]
+ obj. val :  76.92883841830297
+Iteration [  460  ]
+ obj. val :  77.41761512106555
+Iteration [  461  ]
+ obj. val :  78.1655408481983
+Iteration [  462  ]
+ obj. val :  77.07342219848279
+Iteration [  463  ]
+ obj. val :  77.81487347955202
+Iteration [  464  ]
+ obj. val :  78.2447468506543
+Iteration [  465  ]
+ obj. val :  77.82582025178804
+Iteration [  466  ]
+ obj. val :  77.7860724689157
+Iteration [  467  ]
+ obj. val :  78.87900582268986
+Iteration [  468  ]
+ obj. val :  78.94211705279295
+Iteration [  469  ]
+ obj. val :  79.84966683575526
+Iteration [  470  ]
+ obj. val :  78.1863210621865
+Iteration [  471  ]
+ obj. val :  76.65907494683816
+Iteration [  472  ]
+ obj. val :  77.39281972451685
+Iteration [  473  ]
+ obj. val :  78.62574977184727
+Iteration [  474  ]
+ obj. val :  78.80474853503723
+Iteration [  475  ]
+ obj. val :  77.15703843216963
+Iteration [  476  ]
+ obj. val :  76.53610653017917
+Iteration [  477  ]
+ obj. val :  77.68143087931718
+Iteration [  478  ]
+ obj. val :  78.53123230627267
+Iteration [  479  ]
+ obj. val :  79.36605336104073
+Iteration [  480  ]
+ obj. val :  77.89648990330839
+Iteration [  481  ]
+ obj. val :  78.35234067661267
+Iteration [  482  ]
+ obj. val :  79.58947732862926
+Iteration [  483  ]
+ obj. val :  79.35769806242853
+Iteration [  484  ]
+ obj. val :  77.34611331775096
+Iteration [  485  ]
+ obj. val :  78.77190130686839
+Iteration [  486  ]
+ obj. val :  78.76032307563003
+Iteration [  487  ]
+ obj. val :  79.96892647569007
+Iteration [  488  ]
+ obj. val :  79.70631678010588
+Iteration [  489  ]
+ obj. val :  78.28987112983766
+Iteration [  490  ]
+ obj. val :  79.60382809364701
+Iteration [  491  ]
+ obj. val :  79.40487717283153
+Iteration [  492  ]
+ obj. val :  78.83319172168304
+Iteration [  493  ]
+ obj. val :  77.62702821938417
+Iteration [  494  ]
+ obj. val :  77.56149938381081
+Iteration [  495  ]
+ obj. val :  78.05929348304686
+Iteration [  496  ]
+ obj. val :  78.24220308415735
+Iteration [  497  ]
+ obj. val :  80.50761025304425
+Iteration [  498  ]
+ obj. val :  78.75958227930823
+Iteration [  499  ]
+ obj. val :  77.94442059796563
+Iteration [  500  ]
+ obj. val :  78.00076291840442
+Iteration [  501  ]
+ obj. val :  75.75092815650433
+Iteration [  502  ]
+ obj. val :  78.86646667326146
+Iteration [  503  ]
+ obj. val :  80.72773079824157
+Iteration [  504  ]
+ obj. val :  79.59382321699957
+Iteration [  505  ]
+ obj. val :  80.65231446818198
+Iteration [  506  ]
+ obj. val :  80.557082213985
+Iteration [  507  ]
+ obj. val :  79.77328705076924
+Iteration [  508  ]
+ obj. val :  79.99806381223408
+Iteration [  509  ]
+ obj. val :  77.23235797438026
+Iteration [  510  ]
+ obj. val :  78.90382536344252
+Iteration [  511  ]
+ obj. val :  79.79339613296663
+Iteration [  512  ]
+ obj. val :  79.55529577145585
+Iteration [  513  ]
+ obj. val :  79.35545729118773
+Iteration [  514  ]
+ obj. val :  79.59262092323618
+Iteration [  515  ]
+ obj. val :  79.27917922019138
+Iteration [  516  ]
+ obj. val :  78.20002329845745
+Iteration [  517  ]
+ obj. val :  80.339393735956
+Iteration [  518  ]
+ obj. val :  79.47696950789316
+Iteration [  519  ]
+ obj. val :  80.32683096042396
+Iteration [  520  ]
+ obj. val :  78.7730512627423
+Iteration [  521  ]
+ obj. val :  80.57352369744838
+Iteration [  522  ]
+ obj. val :  80.26277875596689
+Iteration [  523  ]
+ obj. val :  79.90578691800441
+Iteration [  524  ]
+ obj. val :  80.19570075983741
+Iteration [  525  ]
+ obj. val :  79.4569948169825
+Iteration [  526  ]
+ obj. val :  79.91452917787134
+Iteration [  527  ]
+ obj. val :  80.84077564379561
+Iteration [  528  ]
+ obj. val :  79.54475348466126
+Iteration [  529  ]
+ obj. val :  80.09570150406024
+Iteration [  530  ]
+ obj. val :  80.61773864475585
+Iteration [  531  ]
+ obj. val :  80.02802498429605
+Iteration [  532  ]
+ obj. val :  80.85455319869024
+Iteration [  533  ]
+ obj. val :  79.27299986622822
+Iteration [  534  ]
+ obj. val :  81.00198000840929
+Iteration [  535  ]
+ obj. val :  79.16187804126211
+Iteration [  536  ]
+ obj. val :  80.11728446134602
+Iteration [  537  ]
+ obj. val :  79.91704359320562
+Iteration [  538  ]
+ obj. val :  78.18128573473552
+Iteration [  539  ]
+ obj. val :  79.90260151836458
+Iteration [  540  ]
+ obj. val :  81.00835581004772
+Iteration [  541  ]
+ obj. val :  80.50914381754862
+Iteration [  542  ]
+ obj. val :  80.6720805715294
+Iteration [  543  ]
+ obj. val :  80.79089744951838
+Iteration [  544  ]
+ obj. val :  79.0747805341941
+Iteration [  545  ]
+ obj. val :  81.11850891955362
+Iteration [  546  ]
+ obj. val :  79.44883230085995
+Iteration [  547  ]
+ obj. val :  81.60977967654408
+Iteration [  548  ]
+ obj. val :  81.6480919649321
+Iteration [  549  ]
+ obj. val :  79.71338892438018
+Iteration [  550  ]
+ obj. val :  81.31941752202219
+Iteration [  551  ]
+ obj. val :  80.04480579394958
+Iteration [  552  ]
+ obj. val :  79.84758887471615
+Iteration [  553  ]
+ obj. val :  79.8451695696938
+Iteration [  554  ]
+ obj. val :  81.45125110567261
+Iteration [  555  ]
+ obj. val :  79.86122074614448
+Iteration [  556  ]
+ obj. val :  80.12982954741899
+Iteration [  557  ]
+ obj. val :  80.60879026022967
+Iteration [  558  ]
+ obj. val :  81.18695823699234
+Iteration [  559  ]
+ obj. val :  81.05050600532363
+Iteration [  560  ]
+ obj. val :  79.78089243705135
+Iteration [  561  ]
+ obj. val :  80.35933135516079
+Iteration [  562  ]
+ obj. val :  81.07031384930644
+Iteration [  563  ]
+ obj. val :  81.81010904285728
+Iteration [  564  ]
+ obj. val :  80.74580129791605
+Iteration [  565  ]
+ obj. val :  80.1750296120354
+Iteration [  566  ]
+ obj. val :  80.97124485708089
+Iteration [  567  ]
+ obj. val :  81.12582461451974
+Iteration [  568  ]
+ obj. val :  81.20971144204867
+Iteration [  569  ]
+ obj. val :  81.001481993115
+Iteration [  570  ]
+ obj. val :  81.96536464895851
+Iteration [  571  ]
+ obj. val :  82.15505691906098
+Iteration [  572  ]
+ obj. val :  81.46081160472882
+Iteration [  573  ]
+ obj. val :  80.87695199492521
+Iteration [  574  ]
+ obj. val :  80.59375807636235
+Iteration [  575  ]
+ obj. val :  81.20964251703514
+Iteration [  576  ]
+ obj. val :  82.42236980757887
+Iteration [  577  ]
+ obj. val :  80.7928679230866
+Iteration [  578  ]
+ obj. val :  81.81873649138709
+Iteration [  579  ]
+ obj. val :  82.3204469623531
+Iteration [  580  ]
+ obj. val :  81.63077613110015
+Iteration [  581  ]
+ obj. val :  81.4273922643783
+Iteration [  582  ]
+ obj. val :  82.04059995821366
+Iteration [  583  ]
+ obj. val :  81.90675323978974
+Iteration [  584  ]
+ obj. val :  82.8645628214121
+Iteration [  585  ]
+ obj. val :  81.63258988386706
+Iteration [  586  ]
+ obj. val :  80.99441918531897
+Iteration [  587  ]
+ obj. val :  82.88904398930681
+Iteration [  588  ]
+ obj. val :  82.4639281340928
+Iteration [  589  ]
+ obj. val :  81.68218985459494
+Iteration [  590  ]
+ obj. val :  82.3291605425498
+Iteration [  591  ]
+ obj. val :  83.22219683944961
+Iteration [  592  ]
+ obj. val :  81.7736986113527
+Iteration [  593  ]
+ obj. val :  82.2692502966585
+Iteration [  594  ]
+ obj. val :  83.26744092546092
+Iteration [  595  ]
+ obj. val :  82.61656609166405
+Iteration [  596  ]
+ obj. val :  82.10159923739535
+Iteration [  597  ]
+ obj. val :  81.49444042469142
+Iteration [  598  ]
+ obj. val :  82.1389643131963
+Iteration [  599  ]
+ obj. val :  82.98841242771766
+Iteration [  600  ]
+ obj. val :  82.062541246835
+Iteration [  601  ]
+ obj. val :  82.17853645891054
+Iteration [  602  ]
+ obj. val :  82.87957359195075
+Iteration [  603  ]
+ obj. val :  82.33706506049502
+Iteration [  604  ]
+ obj. val :  82.23308056794849
+Iteration [  605  ]
+ obj. val :  82.65011729673556
+Iteration [  606  ]
+ obj. val :  81.06090246384133
+Iteration [  607  ]
+ obj. val :  83.33106413230912
+Iteration [  608  ]
+ obj. val :  81.28406802430273
+Iteration [  609  ]
+ obj. val :  82.99853014202706
+Iteration [  610  ]
+ obj. val :  82.27511876154357
+Iteration [  611  ]
+ obj. val :  83.17789392635753
+Iteration [  612  ]
+ obj. val :  83.03726936780227
+Iteration [  613  ]
+ obj. val :  82.43639638323418
+Iteration [  614  ]
+ obj. val :  82.0664658060473
+Iteration [  615  ]
+ obj. val :  81.72276030740056
+Iteration [  616  ]
+ obj. val :  83.16473386404105
+Iteration [  617  ]
+ obj. val :  83.83278348106893
+Iteration [  618  ]
+ obj. val :  81.49614240807783
+Iteration [  619  ]
+ obj. val :  82.55127706067937
+Iteration [  620  ]
+ obj. val :  84.00385603426211
+Iteration [  621  ]
+ obj. val :  82.58600710548083
+Iteration [  622  ]
+ obj. val :  83.216846228855
+Iteration [  623  ]
+ obj. val :  82.50266788686994
+Iteration [  624  ]
+ obj. val :  83.34648007430121
+Iteration [  625  ]
+ obj. val :  82.80501202277551
+Iteration [  626  ]
+ obj. val :  83.14510614171918
+Iteration [  627  ]
+ obj. val :  82.23891964684553
+Iteration [  628  ]
+ obj. val :  82.81850148022156
+Iteration [  629  ]
+ obj. val :  81.89211369542268
+Iteration [  630  ]
+ obj. val :  82.43610403323719
+Iteration [  631  ]
+ obj. val :  82.77685779143766
+Iteration [  632  ]
+ obj. val :  82.42258410012553
+Iteration [  633  ]
+ obj. val :  81.80692295779598
+Iteration [  634  ]
+ obj. val :  82.50300558315571
+Iteration [  635  ]
+ obj. val :  83.72362091970973
+Iteration [  636  ]
+ obj. val :  82.48483793123341
+Iteration [  637  ]
+ obj. val :  84.12704092943328
+Iteration [  638  ]
+ obj. val :  82.87993087490858
+Iteration [  639  ]
+ obj. val :  83.95521888058363
+Iteration [  640  ]
+ obj. val :  83.94988062079119
+Iteration [  641  ]
+ obj. val :  82.85252413044621
+Iteration [  642  ]
+ obj. val :  84.11072276068742
+Iteration [  643  ]
+ obj. val :  82.82859904742786
+Iteration [  644  ]
+ obj. val :  83.39299127840525
+Iteration [  645  ]
+ obj. val :  82.78227542974369
+Iteration [  646  ]
+ obj. val :  83.92838166081047
+Iteration [  647  ]
+ obj. val :  83.55265466718606
+Iteration [  648  ]
+ obj. val :  83.15461401750656
+Iteration [  649  ]
+ obj. val :  84.5232057612805
+Iteration [  650  ]
+ obj. val :  84.73462867272443
+Iteration [  651  ]
+ obj. val :  83.91934089729361
+Iteration [  652  ]
+ obj. val :  83.66293924775623
+Iteration [  653  ]
+ obj. val :  83.94625807763104
+Iteration [  654  ]
+ obj. val :  82.64567535964615
+Iteration [  655  ]
+ obj. val :  82.45535960481772
+Iteration [  656  ]
+ obj. val :  83.84715596896835
+Iteration [  657  ]
+ obj. val :  81.69331188524681
+Iteration [  658  ]
+ obj. val :  83.55599566212065
+Iteration [  659  ]
+ obj. val :  82.29095959992318
+Iteration [  660  ]
+ obj. val :  84.42968044046134
+Iteration [  661  ]
+ obj. val :  83.29027224702403
+Iteration [  662  ]
+ obj. val :  84.04850778465017
+Iteration [  663  ]
+ obj. val :  84.40632472146696
+Iteration [  664  ]
+ obj. val :  83.55837238910185
+Iteration [  665  ]
+ obj. val :  84.22461378202863
+Iteration [  666  ]
+ obj. val :  82.39632259724601
+Iteration [  667  ]
+ obj. val :  82.96165182595327
+Iteration [  668  ]
+ obj. val :  84.26967059192562
+Iteration [  669  ]
+ obj. val :  83.82278400509671
+Iteration [  670  ]
+ obj. val :  85.10386784088207
+Iteration [  671  ]
+ obj. val :  83.07149721399459
+Iteration [  672  ]
+ obj. val :  83.0184093732224
+Iteration [  673  ]
+ obj. val :  83.15991276358707
+Iteration [  674  ]
+ obj. val :  84.72993244872501
+Iteration [  675  ]
+ obj. val :  84.57611189630425
+Iteration [  676  ]
+ obj. val :  82.94915278648261
+Iteration [  677  ]
+ obj. val :  84.00949127161579
+Iteration [  678  ]
+ obj. val :  84.09116926204278
+Iteration [  679  ]
+ obj. val :  83.58448827033602
+Iteration [  680  ]
+ obj. val :  84.19543824346125
+Iteration [  681  ]
+ obj. val :  84.45551812183724
+Iteration [  682  ]
+ obj. val :  83.67190452008407
+Iteration [  683  ]
+ obj. val :  82.5349494057537
+Iteration [  684  ]
+ obj. val :  84.42321179061487
+Iteration [  685  ]
+ obj. val :  84.06489290697289
+Iteration [  686  ]
+ obj. val :  83.95542693058925
+Iteration [  687  ]
+ obj. val :  83.59238427258838
+Iteration [  688  ]
+ obj. val :  84.48787959372537
+Iteration [  689  ]
+ obj. val :  84.85387622720458
+Iteration [  690  ]
+ obj. val :  85.01637509510735
+Iteration [  691  ]
+ obj. val :  83.91806845677064
+Iteration [  692  ]
+ obj. val :  84.00811577155801
+Iteration [  693  ]
+ obj. val :  83.66165458287853
+Iteration [  694  ]
+ obj. val :  83.6122948382141
+Iteration [  695  ]
+ obj. val :  84.06091081684302
+Iteration [  696  ]
+ obj. val :  83.92892911103324
+Iteration [  697  ]
+ obj. val :  83.660478142496
+Iteration [  698  ]
+ obj. val :  84.46369198556684
+Iteration [  699  ]
+ obj. val :  84.05227051666115
+Iteration [  700  ]
+ obj. val :  84.73043526840209
+Iteration [  701  ]
+ obj. val :  83.86999366433471
+Iteration [  702  ]
+ obj. val :  84.62269749422107
+Iteration [  703  ]
+ obj. val :  83.54860657313336
+Iteration [  704  ]
+ obj. val :  84.87327909814671
+Iteration [  705  ]
+ obj. val :  84.04579860593053
+Iteration [  706  ]
+ obj. val :  84.62449602575607
+Iteration [  707  ]
+ obj. val :  83.92412066297716
+Iteration [  708  ]
+ obj. val :  85.07385054877065
+Iteration [  709  ]
+ obj. val :  85.08606519948955
+Iteration [  710  ]
+ obj. val :  84.19730235991062
+Iteration [  711  ]
+ obj. val :  83.88575496431518
+Iteration [  712  ]
+ obj. val :  85.47425205057505
+Iteration [  713  ]
+ obj. val :  85.28814902385486
+Iteration [  714  ]
+ obj. val :  84.50418895859598
+Iteration [  715  ]
+ obj. val :  84.84438019936646
+Iteration [  716  ]
+ obj. val :  84.64670720102009
+Iteration [  717  ]
+ obj. val :  83.60120961217274
+Iteration [  718  ]
+ obj. val :  86.1959647536413
+Iteration [  719  ]
+ obj. val :  83.67551114938847
+Iteration [  720  ]
+ obj. val :  83.5470595348269
+Iteration [  721  ]
+ obj. val :  86.1201996737953
+Iteration [  722  ]
+ obj. val :  84.99027573722933
+Iteration [  723  ]
+ obj. val :  85.08034751905147
+Iteration [  724  ]
+ obj. val :  84.20949278216005
+Iteration [  725  ]
+ obj. val :  85.37655234288292
+Iteration [  726  ]
+ obj. val :  84.14026683251852
+Iteration [  727  ]
+ obj. val :  84.72210317927377
+Iteration [  728  ]
+ obj. val :  83.58996012474933
+Iteration [  729  ]
+ obj. val :  84.92992782304287
+Iteration [  730  ]
+ obj. val :  85.52191853883241
+Iteration [  731  ]
+ obj. val :  85.42136385377682
+Iteration [  732  ]
+ obj. val :  85.67774323191229
+Iteration [  733  ]
+ obj. val :  85.03287335471019
+Iteration [  734  ]
+ obj. val :  84.74517088394914
+Iteration [  735  ]
+ obj. val :  84.17211306074472
+Iteration [  736  ]
+ obj. val :  85.13018231776448
+Iteration [  737  ]
+ obj. val :  86.19934468958141
+Iteration [  738  ]
+ obj. val :  85.27832941032355
+Iteration [  739  ]
+ obj. val :  84.81440445651015
+Iteration [  740  ]
+ obj. val :  85.04837817661223
+Iteration [  741  ]
+ obj. val :  84.68575053418243
+Iteration [  742  ]
+ obj. val :  84.3224665445989
+Iteration [  743  ]
+ obj. val :  85.90213735023345
+Iteration [  744  ]
+ obj. val :  84.15214427613778
+Iteration [  745  ]
+ obj. val :  85.20214269846656
+Iteration [  746  ]
+ obj. val :  84.92163668382538
+Iteration [  747  ]
+ obj. val :  84.70407476850346
+Iteration [  748  ]
+ obj. val :  84.10681766515727
+Iteration [  749  ]
+ obj. val :  84.08199455530038
+Iteration [  750  ]
+ obj. val :  85.33250325920635
+Iteration [  751  ]
+ obj. val :  85.36782464427029
+Iteration [  752  ]
+ obj. val :  85.41467035082641
+Iteration [  753  ]
+ obj. val :  84.99083499426361
+Iteration [  754  ]
+ obj. val :  85.0486674897641
+Iteration [  755  ]
+ obj. val :  85.45974967667745
+Iteration [  756  ]
+ obj. val :  85.30919349766506
+Iteration [  757  ]
+ obj. val :  85.16334582619794
+Iteration [  758  ]
+ obj. val :  85.04931104005831
+Iteration [  759  ]
+ obj. val :  86.55562196869299
+Iteration [  760  ]
+ obj. val :  85.11397279793464
+Iteration [  761  ]
+ obj. val :  86.09532623099717
+Iteration [  762  ]
+ obj. val :  85.41878724908166
+Iteration [  763  ]
+ obj. val :  85.71033470687532
+Iteration [  764  ]
+ obj. val :  85.20991342075037
+Iteration [  765  ]
+ obj. val :  85.09826883954516
+Iteration [  766  ]
+ obj. val :  85.79410201557862
+Iteration [  767  ]
+ obj. val :  85.69372666645287
+Iteration [  768  ]
+ obj. val :  85.73897980504556
+Iteration [  769  ]
+ obj. val :  84.98207903470626
+Iteration [  770  ]
+ obj. val :  86.18525114630411
+Iteration [  771  ]
+ obj. val :  85.18684897052592
+Iteration [  772  ]
+ obj. val :  85.23169773534325
+Iteration [  773  ]
+ obj. val :  85.86437118211975
+Iteration [  774  ]
+ obj. val :  86.42445126558128
+Iteration [  775  ]
+ obj. val :  86.35799736523022
+Iteration [  776  ]
+ obj. val :  86.19346359604423
+Iteration [  777  ]
+ obj. val :  84.66679353712387
+Iteration [  778  ]
+ obj. val :  86.29870803108142
+Iteration [  779  ]
+ obj. val :  85.29395793773163
+Iteration [  780  ]
+ obj. val :  86.38440120629295
+Iteration [  781  ]
+ obj. val :  85.42516983261083
+Iteration [  782  ]
+ obj. val :  85.03733625380761
+Iteration [  783  ]
+ obj. val :  85.61514536739007
+Iteration [  784  ]
+ obj. val :  86.30403417546091
+Iteration [  785  ]
+ obj. val :  85.61537074034344
+Iteration [  786  ]
+ obj. val :  85.17868138136608
+Iteration [  787  ]
+ obj. val :  85.7153875514407
+Iteration [  788  ]
+ obj. val :  85.67073615883619
+Iteration [  789  ]
+ obj. val :  85.22934040198878
+Iteration [  790  ]
+ obj. val :  87.01258919824946
+Iteration [  791  ]
+ obj. val :  86.1584832901574
+Iteration [  792  ]
+ obj. val :  86.236736045979
+Iteration [  793  ]
+ obj. val :  85.44839416792263
+Iteration [  794  ]
+ obj. val :  86.51828804163158
+Iteration [  795  ]
+ obj. val :  86.32002033618369
+Iteration [  796  ]
+ obj. val :  85.33798002375909
+Iteration [  797  ]
+ obj. val :  85.8765074959506
+Iteration [  798  ]
+ obj. val :  86.2856905746857
+Iteration [  799  ]
+ obj. val :  86.26621165363514
+Iteration [  800  ]
+ obj. val :  85.9523323280494
+Iteration [  801  ]
+ obj. val :  86.28301811486733
+Iteration [  802  ]
+ obj. val :  85.43917928787145
+Iteration [  803  ]
+ obj. val :  86.31074416937915
+Iteration [  804  ]
+ obj. val :  86.30105678366611
+Iteration [  805  ]
+ obj. val :  87.46848371937762
+Iteration [  806  ]
+ obj. val :  86.45680241933104
+Iteration [  807  ]
+ obj. val :  85.6652650389235
+Iteration [  808  ]
+ obj. val :  84.5504879731045
+Iteration [  809  ]
+ obj. val :  86.25300454761634
+Iteration [  810  ]
+ obj. val :  85.33206399952869
+Iteration [  811  ]
+ obj. val :  87.01526034820483
+Iteration [  812  ]
+ obj. val :  86.78705747098833
+Iteration [  813  ]
+ obj. val :  85.88070773411776
+Iteration [  814  ]
+ obj. val :  86.57207503433524
+Iteration [  815  ]
+ obj. val :  85.70242748748909
+Iteration [  816  ]
+ obj. val :  86.02690875439178
+Iteration [  817  ]
+ obj. val :  86.72357098347095
+Iteration [  818  ]
+ obj. val :  86.46550881598914
+Iteration [  819  ]
+ obj. val :  86.55886986056433
+Iteration [  820  ]
+ obj. val :  85.85362893953501
+Iteration [  821  ]
+ obj. val :  86.15099774959475
+Iteration [  822  ]
+ obj. val :  86.51135598619157
+Iteration [  823  ]
+ obj. val :  86.32471073010305
+Iteration [  824  ]
+ obj. val :  86.94781066067893
+Iteration [  825  ]
+ obj. val :  86.98378787590632
+Iteration [  826  ]
+ obj. val :  87.51074036437564
+Iteration [  827  ]
+ obj. val :  86.32594599705614
+Iteration [  828  ]
+ obj. val :  86.5557310205284
+Iteration [  829  ]
+ obj. val :  86.21993568891712
+Iteration [  830  ]
+ obj. val :  86.28387209397376
+Iteration [  831  ]
+ obj. val :  85.85704985400825
+Iteration [  832  ]
+ obj. val :  86.4284945650973
+Iteration [  833  ]
+ obj. val :  86.1277334783836
+Iteration [  834  ]
+ obj. val :  87.42892471506693
+Iteration [  835  ]
+ obj. val :  86.58601347426416
+Iteration [  836  ]
+ obj. val :  85.79914135084111
+Iteration [  837  ]
+ obj. val :  87.17107221573104
+Iteration [  838  ]
+ obj. val :  86.60693882623286
+Iteration [  839  ]
+ obj. val :  86.86445768214612
+Iteration [  840  ]
+ obj. val :  86.12919191208512
+Iteration [  841  ]
+ obj. val :  86.6879317481474
+Iteration [  842  ]
+ obj. val :  86.76909128331577
+Iteration [  843  ]
+ obj. val :  86.9729414744488
+Iteration [  844  ]
+ obj. val :  86.77470213910426
+Iteration [  845  ]
+ obj. val :  86.27230699433414
+Iteration [  846  ]
+ obj. val :  86.43342104005954
+Iteration [  847  ]
+ obj. val :  86.58836692312684
+Iteration [  848  ]
+ obj. val :  86.71287386245426
+Iteration [  849  ]
+ obj. val :  86.99760952882953
+Iteration [  850  ]
+ obj. val :  86.49564039909004
+Iteration [  851  ]
+ obj. val :  87.03553025938852
+Iteration [  852  ]
+ obj. val :  86.81924283860899
+Iteration [  853  ]
+ obj. val :  86.78914683610078
+Iteration [  854  ]
+ obj. val :  86.79305383747067
+Iteration [  855  ]
+ obj. val :  86.10146395390952
+Iteration [  856  ]
+ obj. val :  86.91638796601731
+Iteration [  857  ]
+ obj. val :  86.25680435676713
+Iteration [  858  ]
+ obj. val :  86.1230040796866
+Iteration [  859  ]
+ obj. val :  86.79825656520568
+Iteration [  860  ]
+ obj. val :  86.81287090409683
+Iteration [  861  ]
+ obj. val :  86.20384512962947
+Iteration [  862  ]
+ obj. val :  86.38275827466694
+Iteration [  863  ]
+ obj. val :  86.47523765217805
+Iteration [  864  ]
+ obj. val :  86.65510604776514
+Iteration [  865  ]
+ obj. val :  85.27158893468288
+Iteration [  866  ]
+ obj. val :  87.03755393786622
+Iteration [  867  ]
+ obj. val :  86.97821062876861
+Iteration [  868  ]
+ obj. val :  87.02402259665172
+Iteration [  869  ]
+ obj. val :  86.72766246829472
+Iteration [  870  ]
+ obj. val :  86.65502937442244
+Iteration [  871  ]
+ obj. val :  87.28915164336956
+Iteration [  872  ]
+ obj. val :  86.78010138832194
+Iteration [  873  ]
+ obj. val :  86.68657295835361
+Iteration [  874  ]
+ obj. val :  87.03554209052619
+Iteration [  875  ]
+ obj. val :  87.0776348742901
+Iteration [  876  ]
+ obj. val :  86.0047175986521
+Iteration [  877  ]
+ obj. val :  86.99511207133246
+Iteration [  878  ]
+ obj. val :  86.94584069327111
+Iteration [  879  ]
+ obj. val :  87.61836514157639
+Iteration [  880  ]
+ obj. val :  87.65912736078405
+Iteration [  881  ]
+ obj. val :  87.56290561479243
+Iteration [  882  ]
+ obj. val :  87.26284594935677
+Iteration [  883  ]
+ obj. val :  87.09684421850184
+Iteration [  884  ]
+ obj. val :  87.13016588799277
+Iteration [  885  ]
+ obj. val :  86.05493812896053
+Iteration [  886  ]
+ obj. val :  86.69972607900499
+Iteration [  887  ]
+ obj. val :  87.20315395851547
+Iteration [  888  ]
+ obj. val :  86.97267526430034
+Iteration [  889  ]
+ obj. val :  87.3993019254122
+Iteration [  890  ]
+ obj. val :  87.22529269480124
+Iteration [  891  ]
+ obj. val :  87.36441104962356
+Iteration [  892  ]
+ obj. val :  87.16916643796836
+Iteration [  893  ]
+ obj. val :  87.58800326331372
+Iteration [  894  ]
+ obj. val :  86.78019567082325
+Iteration [  895  ]
+ obj. val :  87.40830190411117
+Iteration [  896  ]
+ obj. val :  88.24694190182852
+Iteration [  897  ]
+ obj. val :  87.73549253926417
+Iteration [  898  ]
+ obj. val :  87.6162316386835
+Iteration [  899  ]
+ obj. val :  87.47070503226601
+Iteration [  900  ]
+ obj. val :  87.86023504076452
+Iteration [  901  ]
+ obj. val :  87.43556271501242
+Iteration [  902  ]
+ obj. val :  87.7754834298712
+Iteration [  903  ]
+ obj. val :  86.6890037774821
+Iteration [  904  ]
+ obj. val :  87.59878152909076
+Iteration [  905  ]
+ obj. val :  87.28697520004972
+Iteration [  906  ]
+ obj. val :  87.7224424821134
+Iteration [  907  ]
+ obj. val :  87.3366138802348
+Iteration [  908  ]
+ obj. val :  87.38600532965391
+Iteration [  909  ]
+ obj. val :  87.17071020595077
+Iteration [  910  ]
+ obj. val :  87.54458333635088
+Iteration [  911  ]
+ obj. val :  87.20721130433212
+Iteration [  912  ]
+ obj. val :  87.55289819046727
+Iteration [  913  ]
+ obj. val :  87.49032090262423
+Iteration [  914  ]
+ obj. val :  87.6723641659288
+Iteration [  915  ]
+ obj. val :  87.76766276374849
+Iteration [  916  ]
+ obj. val :  87.06200130209828
+Iteration [  917  ]
+ obj. val :  86.81912866638486
+Iteration [  918  ]
+ obj. val :  87.7041292487679
+Iteration [  919  ]
+ obj. val :  87.56695635239781
+Iteration [  920  ]
+ obj. val :  87.02696078292509
+Iteration [  921  ]
+ obj. val :  88.31696828757093
+Iteration [  922  ]
+ obj. val :  88.43295687236402
+Iteration [  923  ]
+ obj. val :  87.51731503275525
+Iteration [  924  ]
+ obj. val :  87.54131634133344
+Iteration [  925  ]
+ obj. val :  88.2233178051968
+Iteration [  926  ]
+ obj. val :  88.35041670719279
+Iteration [  927  ]
+ obj. val :  88.13169852970537
+Iteration [  928  ]
+ obj. val :  88.25568640159348
+Iteration [  929  ]
+ obj. val :  88.8344599018983
+Iteration [  930  ]
+ obj. val :  87.39592286278562
+Iteration [  931  ]
+ obj. val :  87.9109457356293
+Iteration [  932  ]
+ obj. val :  88.27116064941548
+Iteration [  933  ]
+ obj. val :  88.36708138074128
+Iteration [  934  ]
+ obj. val :  88.79189948475862
+Iteration [  935  ]
+ obj. val :  88.28220713900983
+Iteration [  936  ]
+ obj. val :  87.89656717824091
+Iteration [  937  ]
+ obj. val :  88.50626640532198
+Iteration [  938  ]
+ obj. val :  87.55568220008327
+Iteration [  939  ]
+ obj. val :  87.48044667724893
+Iteration [  940  ]
+ obj. val :  87.98107363506625
+Iteration [  941  ]
+ obj. val :  87.91377513058806
+Iteration [  942  ]
+ obj. val :  88.5168337757203
+Iteration [  943  ]
+ obj. val :  87.75982459098347
+Iteration [  944  ]
+ obj. val :  87.97028169182663
+Iteration [  945  ]
+ obj. val :  88.33188318223328
+Iteration [  946  ]
+ obj. val :  88.51029918532139
+Iteration [  947  ]
+ obj. val :  87.72948478361585
+Iteration [  948  ]
+ obj. val :  88.11449448279076
+Iteration [  949  ]
+ obj. val :  87.9977586956781
+Iteration [  950  ]
+ obj. val :  88.32088686934772
+Iteration [  951  ]
+ obj. val :  88.48440392567814
+Iteration [  952  ]
+ obj. val :  88.36757178101468
+Iteration [  953  ]
+ obj. val :  88.35305617910798
+Iteration [  954  ]
+ obj. val :  88.15737841909592
+Iteration [  955  ]
+ obj. val :  87.88887107583601
+Iteration [  956  ]
+ obj. val :  88.1887985056436
+Iteration [  957  ]
+ obj. val :  88.43708994547522
+Iteration [  958  ]
+ obj. val :  88.45734438922226
+Iteration [  959  ]
+ obj. val :  88.08528854193688
+Iteration [  960  ]
+ obj. val :  88.1175425366293
+Iteration [  961  ]
+ obj. val :  88.91245464454231
+Iteration [  962  ]
+ obj. val :  87.84064834375025
+Iteration [  963  ]
+ obj. val :  88.15364510463225
+Iteration [  964  ]
+ obj. val :  88.15905560678154
+Iteration [  965  ]
+ obj. val :  87.91985380551681
+Iteration [  966  ]
+ obj. val :  87.76439757700645
+Iteration [  967  ]
+ obj. val :  88.17813535495378
+Iteration [  968  ]
+ obj. val :  88.64989814736663
+Iteration [  969  ]
+ obj. val :  87.93319378680582
+Iteration [  970  ]
+ obj. val :  88.1740295034312
+Iteration [  971  ]
+ obj. val :  89.29861913259064
+Iteration [  972  ]
+ obj. val :  88.75434516627315
+Iteration [  973  ]
+ obj. val :  88.56234311555501
+Iteration [  974  ]
+ obj. val :  88.95950112998493
+Iteration [  975  ]
+ obj. val :  88.8939834751693
+Iteration [  976  ]
+ obj. val :  87.94483463435351
+Iteration [  977  ]
+ obj. val :  87.98749358809948
+Iteration [  978  ]
+ obj. val :  88.44874354365595
+Iteration [  979  ]
+ obj. val :  88.96471705017167
+Iteration [  980  ]
+ obj. val :  87.82256842715951
+Iteration [  981  ]
+ obj. val :  88.28060427899672
+Iteration [  982  ]
+ obj. val :  88.8388167184934
+Iteration [  983  ]
+ obj. val :  88.68377810661904
+Iteration [  984  ]
+ obj. val :  88.44867411239694
+Iteration [  985  ]
+ obj. val :  88.11719019296805
+Iteration [  986  ]
+ obj. val :  88.60290223203137
+Iteration [  987  ]
+ obj. val :  88.32093567065442
+Iteration [  988  ]
+ obj. val :  88.46414234725331
+Iteration [  989  ]
+ obj. val :  88.31053074756292
+Iteration [  990  ]
+ obj. val :  88.81813757427523
+Iteration [  991  ]
+ obj. val :  88.1325884268248
+Iteration [  992  ]
+ obj. val :  89.04168642607966
+Iteration [  993  ]
+ obj. val :  87.45233443509153
+Iteration [  994  ]
+ obj. val :  88.3579454056042
+Iteration [  995  ]
+ obj. val :  88.58796238818265
+Iteration [  996  ]
+ obj. val :  88.52879970760982
+Iteration [  997  ]
+ obj. val :  89.60760926966495
+Iteration [  998  ]
+ obj. val :  89.11208472196628
+Iteration [  999  ]
+ obj. val :  88.5312665416943
+objective values stored in csv file -  ./tests/mountaincar/alpha_0_9/ cvar2.csv
