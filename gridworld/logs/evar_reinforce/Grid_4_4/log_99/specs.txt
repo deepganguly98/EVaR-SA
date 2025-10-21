@@ -1,0 +1,13 @@
+n_rows = 4
+n_columns = 4
+obstacles = [(1,1), (2,3)]
+s_size=1, a_size=4,h_size=32
+lr=1e-2
+n_training_episodes=1500, max_t=200, gamma=0.99
+batches=20
+alpha = 0.99
+
+RESULT - 
+10/20 converged
+2/10 converged late
+keeping the good cases and getting rid of others (keeping all)
