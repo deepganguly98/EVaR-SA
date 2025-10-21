@@ -1,0 +1,4056 @@
+Seed: 42
+Alpha Value: 0.1
+Learning Rate: [0.01, 0.1, 0.2, 0.5]
+Discount Factor: 0.9
+Number of Episodes: 50
+Max Iterations: 500
+Number of Batches: 4
+Directory Path ./tests/invpenddouble/alpha_0_1/
+batch = 1
+inside iterator
+Iteration [  0  ]
+Obj. val : 126.26828269772224, Avg. Ret : 51.80615551834981
+Iteration [  1  ]
+Obj. val : 98.10929654173653, Avg. Ret : 50.63966845246074
+Iteration [  2  ]
+Obj. val : 104.71243055962657, Avg. Ret : 54.718778638678465
+Iteration [  3  ]
+Obj. val : 106.68886446905839, Avg. Ret : 56.587940595340015
+Iteration [  4  ]
+Obj. val : 82.63966290141342, Avg. Ret : 53.25555701997781
+Iteration [  5  ]
+Obj. val : 84.33407610733443, Avg. Ret : 54.912784940651065
+Iteration [  6  ]
+Obj. val : 124.67661267785437, Avg. Ret : 51.24609515725238
+Iteration [  7  ]
+Obj. val : 103.08762513519979, Avg. Ret : 52.46528264012213
+Iteration [  8  ]
+Obj. val : 81.96187629670344, Avg. Ret : 55.13371194829535
+Iteration [  9  ]
+Obj. val : 80.10598603226023, Avg. Ret : 55.71548065214861
+Iteration [  10  ]
+Obj. val : 102.37717310734686, Avg. Ret : 54.76250420999662
+Iteration [  11  ]
+Obj. val : 102.15424901397722, Avg. Ret : 51.736730959009876
+Iteration [  12  ]
+Obj. val : 106.50453007411555, Avg. Ret : 54.75189952285621
+Iteration [  13  ]
+Obj. val : 103.5683142565721, Avg. Ret : 51.06730205809336
+Iteration [  14  ]
+Obj. val : 98.05527800456632, Avg. Ret : 54.38334503113605
+Iteration [  15  ]
+Obj. val : 112.72114502946603, Avg. Ret : 54.059361169549575
+Iteration [  16  ]
+Obj. val : 107.96991124450945, Avg. Ret : 57.507412352092416
+Iteration [  17  ]
+Obj. val : 92.73750630645475, Avg. Ret : 54.428880388501675
+Iteration [  18  ]
+Obj. val : 95.15449827935333, Avg. Ret : 59.309919482400836
+Iteration [  19  ]
+Obj. val : 111.78181241048613, Avg. Ret : 50.88513620665844
+Iteration [  20  ]
+Obj. val : 119.77829574254815, Avg. Ret : 50.96803305545105
+Iteration [  21  ]
+Obj. val : 109.06894350328562, Avg. Ret : 52.95082095369077
+Iteration [  22  ]
+Obj. val : 85.8437970568271, Avg. Ret : 47.439060281317545
+Iteration [  23  ]
+Obj. val : 111.67731876516076, Avg. Ret : 44.765587540943905
+Iteration [  24  ]
+Obj. val : 112.80596482089805, Avg. Ret : 32.30858184315554
+Iteration [  25  ]
+Obj. val : 105.39048502062897, Avg. Ret : 58.90428172586758
+Iteration [  26  ]
+Obj. val : 94.67905710847164, Avg. Ret : 61.65375366938528
+Iteration [  27  ]
+Obj. val : 104.038790002134, Avg. Ret : 46.581533574987944
+Iteration [  28  ]
+Obj. val : 103.04466030676326, Avg. Ret : 67.59333138387032
+Iteration [  29  ]
+Obj. val : 95.50152164722414, Avg. Ret : 44.8461522914358
+Iteration [  30  ]
+Obj. val : 123.46042576460934, Avg. Ret : 58.30041783483206
+Iteration [  31  ]
+Obj. val : 112.54687690762375, Avg. Ret : 37.61678788086883
+Iteration [  32  ]
+Obj. val : 118.15736776892537, Avg. Ret : 64.19553916933685
+Iteration [  33  ]
+Obj. val : 107.22858413242786, Avg. Ret : 45.532420529676216
+Iteration [  34  ]
+Obj. val : 97.72736525622636, Avg. Ret : 51.650305672798716
+Iteration [  35  ]
+Obj. val : 115.83912375556525, Avg. Ret : 60.36557822648271
+Iteration [  36  ]
+Obj. val : 92.47142614816272, Avg. Ret : 39.21991413917722
+Iteration [  37  ]
+Obj. val : 95.31616061175134, Avg. Ret : 86.11717669053891
+Iteration [  38  ]
+Obj. val : 107.49596417380674, Avg. Ret : 47.132689234919184
+Iteration [  39  ]
+Obj. val : 129.81499137809953, Avg. Ret : 64.51368937694328
+Iteration [  40  ]
+Obj. val : 97.29622024096187, Avg. Ret : 68.38754160373841
+Iteration [  41  ]
+Obj. val : 103.47297627106173, Avg. Ret : 45.2315075847976
+Iteration [  42  ]
+Obj. val : 104.67238855707708, Avg. Ret : 42.38394870972625
+Iteration [  43  ]
+Obj. val : 138.36285370833443, Avg. Ret : 67.82022971903817
+Iteration [  44  ]
+Obj. val : 102.5521071764764, Avg. Ret : 57.09414850919241
+Iteration [  45  ]
+Obj. val : 136.82462975095763, Avg. Ret : 50.91801018993423
+Iteration [  46  ]
+Obj. val : 116.01679278170292, Avg. Ret : 59.1471447807259
+Iteration [  47  ]
+Obj. val : 112.89821057137578, Avg. Ret : 52.7901528610558
+Iteration [  48  ]
+Obj. val : 147.0854644996904, Avg. Ret : 65.67870329716546
+Iteration [  49  ]
+Obj. val : 139.11673213427005, Avg. Ret : 52.55017913590038
+Iteration [  50  ]
+Obj. val : 97.27965073049327, Avg. Ret : 55.22588357000405
+Iteration [  51  ]
+Obj. val : 139.72439323764888, Avg. Ret : 60.147740355380684
+Iteration [  52  ]
+Obj. val : 106.95654734264197, Avg. Ret : 55.662840889348466
+Iteration [  53  ]
+Obj. val : 110.31197603057578, Avg. Ret : 55.7538879422357
+Iteration [  54  ]
+Obj. val : 109.32813310470102, Avg. Ret : 59.74181904174914
+Iteration [  55  ]
+Obj. val : 105.06167526057871, Avg. Ret : 60.35614595304537
+Iteration [  56  ]
+Obj. val : 119.38183051751791, Avg. Ret : 54.085987897690494
+Iteration [  57  ]
+Obj. val : 107.83381807441293, Avg. Ret : 64.92459888651469
+Iteration [  58  ]
+Obj. val : 122.3391040886896, Avg. Ret : 64.24439145955765
+Iteration [  59  ]
+Obj. val : 111.44844460428475, Avg. Ret : 49.81464586464239
+Iteration [  60  ]
+Obj. val : 111.95762832426286, Avg. Ret : 64.38688041051108
+Iteration [  61  ]
+Obj. val : 114.89045279293188, Avg. Ret : 63.537918322726725
+Iteration [  62  ]
+Obj. val : 134.99873074917426, Avg. Ret : 55.57291828080447
+Iteration [  63  ]
+Obj. val : 118.6246303864148, Avg. Ret : 57.05070313813128
+Iteration [  64  ]
+Obj. val : 122.35017121322373, Avg. Ret : 67.92485058489592
+Iteration [  65  ]
+Obj. val : 116.87008516390233, Avg. Ret : 51.527934140083524
+Iteration [  66  ]
+Obj. val : 119.65106843699023, Avg. Ret : 69.06650517180951
+Iteration [  67  ]
+Obj. val : 129.47808541654192, Avg. Ret : 64.41510286588831
+Iteration [  68  ]
+Obj. val : 107.639331628096, Avg. Ret : 52.23266197627201
+Iteration [  69  ]
+Obj. val : 133.10864701784402, Avg. Ret : 63.562680462288284
+Iteration [  70  ]
+Obj. val : 111.46307018859315, Avg. Ret : 65.70410850648491
+Iteration [  71  ]
+Obj. val : 112.76022236866817, Avg. Ret : 54.664425309191465
+Iteration [  72  ]
+Obj. val : 96.91556717806422, Avg. Ret : 67.03233927723429
+Iteration [  73  ]
+Obj. val : 142.33739047841976, Avg. Ret : 67.21853027263205
+Iteration [  74  ]
+Obj. val : 132.62590092894817, Avg. Ret : 56.32063789563913
+Iteration [  75  ]
+Obj. val : 104.81333165406404, Avg. Ret : 70.55198005900988
+Iteration [  76  ]
+Obj. val : 125.71719264845298, Avg. Ret : 66.63932396849368
+Iteration [  77  ]
+Obj. val : 130.09156594357742, Avg. Ret : 54.58604138721878
+Iteration [  78  ]
+Obj. val : 125.42903035540292, Avg. Ret : 74.62863362518537
+Iteration [  79  ]
+Obj. val : 135.7426473758722, Avg. Ret : 69.1647394585667
+Iteration [  80  ]
+Obj. val : 152.12186376399524, Avg. Ret : 56.46828947687608
+Iteration [  81  ]
+Obj. val : 143.26357722632548, Avg. Ret : 67.45615830507673
+Iteration [  82  ]
+Obj. val : 108.36844811656024, Avg. Ret : 71.48968415420144
+Iteration [  83  ]
+Obj. val : 128.38572914455185, Avg. Ret : 60.73575175522205
+Iteration [  84  ]
+Obj. val : 125.46678837603733, Avg. Ret : 70.12048411880106
+Iteration [  85  ]
+Obj. val : 136.2431060952562, Avg. Ret : 73.72687326721541
+Iteration [  86  ]
+Obj. val : 142.77487623550257, Avg. Ret : 52.197978944289076
+Iteration [  87  ]
+Obj. val : 139.00645172640915, Avg. Ret : 71.04216207406049
+Iteration [  88  ]
+Obj. val : 131.59067053946006, Avg. Ret : 65.89123139922397
+Iteration [  89  ]
+Obj. val : 118.58404550674248, Avg. Ret : 55.29741162942455
+Iteration [  90  ]
+Obj. val : 110.89526389729873, Avg. Ret : 74.52115491063893
+Iteration [  91  ]
+Obj. val : 124.78726249087485, Avg. Ret : 69.39458963676702
+Iteration [  92  ]
+Obj. val : 132.95092457017014, Avg. Ret : 55.9129183337242
+Iteration [  93  ]
+Obj. val : 124.57120044487277, Avg. Ret : 68.42052776399123
+Iteration [  94  ]
+Obj. val : 135.6892945449079, Avg. Ret : 71.10621018114003
+Iteration [  95  ]
+Obj. val : 147.48326397220495, Avg. Ret : 55.80360156631185
+Iteration [  96  ]
+Obj. val : 121.40033757619999, Avg. Ret : 72.5450126391036
+Iteration [  97  ]
+Obj. val : 155.1039961789356, Avg. Ret : 70.55272914840822
+Iteration [  98  ]
+Obj. val : 101.26214249112466, Avg. Ret : 58.343929641586676
+Iteration [  99  ]
+Obj. val : 129.37155550394394, Avg. Ret : 70.18928584620258
+checkpoint for objective values, iteration: 100. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_1.csv
+checkpoint for avg return values, iteration: 100. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_1.csv
+Iteration [  100  ]
+Obj. val : 158.94322896590813, Avg. Ret : 74.03942743131732
+Iteration [  101  ]
+Obj. val : 138.65332578173522, Avg. Ret : 61.16768193612188
+Iteration [  102  ]
+Obj. val : 113.14580981445297, Avg. Ret : 72.8187135647917
+Iteration [  103  ]
+Obj. val : 107.37841159370221, Avg. Ret : 71.00043545633855
+Iteration [  104  ]
+Obj. val : 135.13722584062893, Avg. Ret : 61.51351697517355
+Iteration [  105  ]
+Obj. val : 136.7112256610524, Avg. Ret : 70.2400653043883
+Iteration [  106  ]
+Obj. val : 152.15127991775836, Avg. Ret : 74.7386311480119
+Iteration [  107  ]
+Obj. val : 147.92411046924647, Avg. Ret : 61.13479176046757
+Iteration [  108  ]
+Obj. val : 135.80777540448457, Avg. Ret : 72.98828567028437
+Iteration [  109  ]
+Obj. val : 123.97543327567111, Avg. Ret : 72.55124342834365
+Iteration [  110  ]
+Obj. val : 125.98008170443124, Avg. Ret : 54.28702699135084
+Iteration [  111  ]
+Obj. val : 194.90698852198508, Avg. Ret : 71.35823357097536
+Iteration [  112  ]
+Obj. val : 139.99574398231658, Avg. Ret : 74.69913709762572
+Iteration [  113  ]
+Obj. val : 158.34405233841557, Avg. Ret : 58.91929140721799
+Iteration [  114  ]
+Obj. val : 151.53666506728774, Avg. Ret : 72.10633461458005
+Iteration [  115  ]
+Obj. val : 145.9437535803213, Avg. Ret : 73.57508347098005
+Iteration [  116  ]
+Obj. val : 152.5876128690579, Avg. Ret : 63.765046820537584
+Iteration [  117  ]
+Obj. val : 156.08641840405693, Avg. Ret : 77.69347122230668
+Iteration [  118  ]
+Obj. val : 130.54309014748773, Avg. Ret : 79.92998386949667
+Iteration [  119  ]
+Obj. val : 189.06320782762424, Avg. Ret : 56.52252136649609
+Iteration [  120  ]
+Obj. val : 127.04104930680967, Avg. Ret : 77.73136717725852
+Iteration [  121  ]
+Obj. val : 149.64057054819347, Avg. Ret : 70.37342495995026
+Iteration [  122  ]
+Obj. val : 115.98071837979302, Avg. Ret : 56.189587385770636
+Iteration [  123  ]
+Obj. val : 159.06183357616553, Avg. Ret : 73.42513778006789
+Iteration [  124  ]
+Obj. val : 119.05513490249608, Avg. Ret : 76.9940421997501
+Iteration [  125  ]
+Obj. val : 141.8471150421896, Avg. Ret : 59.56838336575298
+Iteration [  126  ]
+Obj. val : 132.11167884253763, Avg. Ret : 76.77118208037507
+Iteration [  127  ]
+Obj. val : 140.58786978355718, Avg. Ret : 76.97311031607285
+Iteration [  128  ]
+Obj. val : 137.8793081782553, Avg. Ret : 59.801691514625844
+Iteration [  129  ]
+Obj. val : 138.23562699871084, Avg. Ret : 75.61885157419523
+Iteration [  130  ]
+Obj. val : 138.58134140647886, Avg. Ret : 71.02352672190368
+Iteration [  131  ]
+Obj. val : 123.0145815002295, Avg. Ret : 60.73987192166321
+Iteration [  132  ]
+Obj. val : 164.1817313801127, Avg. Ret : 75.92653452609255
+Iteration [  133  ]
+Obj. val : 142.55065068463142, Avg. Ret : 70.26235339324246
+Iteration [  134  ]
+Obj. val : 170.1292933743968, Avg. Ret : 61.08298392355202
+Iteration [  135  ]
+Obj. val : 203.31713330814688, Avg. Ret : 75.13791878108213
+Iteration [  136  ]
+Obj. val : 154.02615946431942, Avg. Ret : 71.43353743016442
+Iteration [  137  ]
+Obj. val : 141.0203446397932, Avg. Ret : 62.75056945172565
+Iteration [  138  ]
+Obj. val : 132.39829758522887, Avg. Ret : 72.17953906488547
+Iteration [  139  ]
+Obj. val : 187.4572470027365, Avg. Ret : 72.82697544884313
+Iteration [  140  ]
+Obj. val : 189.22886758965728, Avg. Ret : 65.81009588707754
+Iteration [  141  ]
+Obj. val : 195.14032589001891, Avg. Ret : 72.03710338197625
+Iteration [  142  ]
+Obj. val : 126.69350269023712, Avg. Ret : 70.87426367004939
+Iteration [  143  ]
+Obj. val : 157.9269484020501, Avg. Ret : 64.26506211999157
+Iteration [  144  ]
+Obj. val : 131.73088262532815, Avg. Ret : 74.51218938445969
+Iteration [  145  ]
+Obj. val : 173.01541788343138, Avg. Ret : 75.25969369522971
+Iteration [  146  ]
+Obj. val : 153.4354031514921, Avg. Ret : 61.52165498427368
+Iteration [  147  ]
+Obj. val : 175.26759881950358, Avg. Ret : 76.91834492612827
+Iteration [  148  ]
+Obj. val : 176.71257789234073, Avg. Ret : 71.35911156243745
+Iteration [  149  ]
+Obj. val : 142.03346096312717, Avg. Ret : 63.34992783001696
+Iteration [  150  ]
+Obj. val : 187.40239120942272, Avg. Ret : 74.33025044707621
+Iteration [  151  ]
+Obj. val : 166.66575308526225, Avg. Ret : 68.58790718867702
+Iteration [  152  ]
+Obj. val : 152.28286824302862, Avg. Ret : 56.076115252787474
+Iteration [  153  ]
+Obj. val : 163.998457452004, Avg. Ret : 71.95371666597512
+Iteration [  154  ]
+Obj. val : 118.94583225171321, Avg. Ret : 73.06931716920515
+Iteration [  155  ]
+Obj. val : 129.4712249737319, Avg. Ret : 62.362021515556805
+Iteration [  156  ]
+Obj. val : 193.11392202314457, Avg. Ret : 67.86933817187078
+Iteration [  157  ]
+Obj. val : 167.5237712537218, Avg. Ret : 75.65726365112042
+Iteration [  158  ]
+Obj. val : 143.64705228064744, Avg. Ret : 63.78126144257957
+Iteration [  159  ]
+Obj. val : 178.21311523249264, Avg. Ret : 69.75074668994256
+Iteration [  160  ]
+Obj. val : 217.9367017645597, Avg. Ret : 74.14071364982118
+Iteration [  161  ]
+Obj. val : 148.48971072654012, Avg. Ret : 60.71711358004857
+Iteration [  162  ]
+Obj. val : 206.57519882613332, Avg. Ret : 72.5179318383995
+Iteration [  163  ]
+Obj. val : 168.22774810975704, Avg. Ret : 70.73096094574149
+Iteration [  164  ]
+Obj. val : 237.69430401854297, Avg. Ret : 61.30905198105465
+Iteration [  165  ]
+Obj. val : 150.48511920068628, Avg. Ret : 66.3601879152012
+Iteration [  166  ]
+Obj. val : 168.5630815325607, Avg. Ret : 70.68683810436943
+Iteration [  167  ]
+Obj. val : 162.85781716338846, Avg. Ret : 59.62215172512149
+Iteration [  168  ]
+Obj. val : 198.34966065229924, Avg. Ret : 77.31332413447188
+Iteration [  169  ]
+Obj. val : 168.14255106388399, Avg. Ret : 62.312664626062215
+Iteration [  170  ]
+Obj. val : 156.54093060712503, Avg. Ret : 59.44854442801618
+Iteration [  171  ]
+Obj. val : 167.6986995620534, Avg. Ret : 76.6032347594048
+Iteration [  172  ]
+Obj. val : 193.38071874471208, Avg. Ret : 63.01089856634391
+Iteration [  173  ]
+Obj. val : 180.13580804068314, Avg. Ret : 64.84046407596107
+Iteration [  174  ]
+Obj. val : 153.42016873263847, Avg. Ret : 77.15936876531322
+Iteration [  175  ]
+Obj. val : 176.45747563318292, Avg. Ret : 74.40658580956287
+Iteration [  176  ]
+Obj. val : 154.30461142603502, Avg. Ret : 62.99460770423826
+Iteration [  177  ]
+Obj. val : 155.0078127746185, Avg. Ret : 67.44770170758974
+Iteration [  178  ]
+Obj. val : 174.80502741502787, Avg. Ret : 71.90602044191618
+Iteration [  179  ]
+Obj. val : 195.34413957471722, Avg. Ret : 70.79129096197707
+Iteration [  180  ]
+Obj. val : 164.54458637390655, Avg. Ret : 67.81030051149278
+Iteration [  181  ]
+Obj. val : 176.3008984155135, Avg. Ret : 65.11161939813375
+Iteration [  182  ]
+Obj. val : 235.42915488314435, Avg. Ret : 61.50775604365361
+Iteration [  183  ]
+Obj. val : 287.1474548401926, Avg. Ret : 74.8430686920362
+Iteration [  184  ]
+Obj. val : 199.48952573853737, Avg. Ret : 65.59878171943325
+Iteration [  185  ]
+Obj. val : 182.2628428863898, Avg. Ret : 67.04017945652406
+Iteration [  186  ]
+Obj. val : 234.34498680263937, Avg. Ret : 75.95308197869042
+Iteration [  187  ]
+Obj. val : 231.3442387609817, Avg. Ret : 64.3501093436045
+Iteration [  188  ]
+Obj. val : 203.75765699552642, Avg. Ret : 64.28943618848218
+Iteration [  189  ]
+Obj. val : 196.8217661978888, Avg. Ret : 70.32040223232576
+Iteration [  190  ]
+Obj. val : 194.64155621190076, Avg. Ret : 68.85056103130616
+Iteration [  191  ]
+Obj. val : 229.47183880187654, Avg. Ret : 71.3091226068952
+Iteration [  192  ]
+Obj. val : 235.66436557385848, Avg. Ret : 66.72794965024721
+Iteration [  193  ]
+Obj. val : 198.92679265811654, Avg. Ret : 70.43202494869695
+Iteration [  194  ]
+Obj. val : 224.38713716046814, Avg. Ret : 61.98984506827291
+Iteration [  195  ]
+Obj. val : 244.7952745894201, Avg. Ret : 67.22025260837368
+Iteration [  196  ]
+Obj. val : 187.00693895636437, Avg. Ret : 77.34353067444492
+Iteration [  197  ]
+Obj. val : 184.9306150249411, Avg. Ret : 62.548845198424836
+Iteration [  198  ]
+Obj. val : 180.43438493060893, Avg. Ret : 75.9277147173252
+Iteration [  199  ]
+Obj. val : 233.04239229083856, Avg. Ret : 63.68987835930338
+checkpoint for objective values, iteration: 200. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_1.csv
+checkpoint for avg return values, iteration: 200. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_1.csv
+Iteration [  200  ]
+Obj. val : 229.8952248974807, Avg. Ret : 67.17681455228923
+Iteration [  201  ]
+Obj. val : 234.49536996109822, Avg. Ret : 71.32213473281966
+Iteration [  202  ]
+Obj. val : 189.83065639238862, Avg. Ret : 72.99608398950564
+Iteration [  203  ]
+Obj. val : 168.68180485932655, Avg. Ret : 63.71110068741239
+Iteration [  204  ]
+Obj. val : 216.52483536734968, Avg. Ret : 66.59243666248562
+Iteration [  205  ]
+Obj. val : 194.0757963345861, Avg. Ret : 72.2166373603944
+Iteration [  206  ]
+Obj. val : 227.9461552384519, Avg. Ret : 64.82822989440622
+Iteration [  207  ]
+Obj. val : 212.21596243814957, Avg. Ret : 63.012668047462704
+Iteration [  208  ]
+Obj. val : 213.37813767130888, Avg. Ret : 90.41550801546248
+Iteration [  209  ]
+Obj. val : 199.22492013724892, Avg. Ret : 65.38800732246546
+Iteration [  210  ]
+Obj. val : 214.4698772796055, Avg. Ret : 64.16958117730722
+Iteration [  211  ]
+Obj. val : 253.40547040286668, Avg. Ret : 78.64476728178808
+Iteration [  212  ]
+Obj. val : 199.8247069772253, Avg. Ret : 64.11651522814284
+Iteration [  213  ]
+Obj. val : 157.14062627042082, Avg. Ret : 73.07118314800553
+Iteration [  214  ]
+Obj. val : 204.69783865453635, Avg. Ret : 81.2480318068526
+Iteration [  215  ]
+Obj. val : 258.3264722307467, Avg. Ret : 65.05756957278408
+Iteration [  216  ]
+Obj. val : 260.35975290226656, Avg. Ret : 83.76072721382712
+Iteration [  217  ]
+Obj. val : 187.96116484923724, Avg. Ret : 74.06160902915386
+Iteration [  218  ]
+Obj. val : 161.34017196412682, Avg. Ret : 63.95715357217448
+Iteration [  219  ]
+Obj. val : 194.86268806443158, Avg. Ret : 82.63838662946004
+Iteration [  220  ]
+Obj. val : 178.78057838156687, Avg. Ret : 76.77351673252973
+Iteration [  221  ]
+Obj. val : 231.5978667352153, Avg. Ret : 66.35325571648363
+Iteration [  222  ]
+Obj. val : 217.95191302734167, Avg. Ret : 86.22013228206966
+Iteration [  223  ]
+Obj. val : 204.97761134076478, Avg. Ret : 73.23763305062164
+Iteration [  224  ]
+Obj. val : 236.93607938873214, Avg. Ret : 71.54743542905027
+Iteration [  225  ]
+Obj. val : 216.31549176301107, Avg. Ret : 80.86391740742866
+Iteration [  226  ]
+Obj. val : 202.39983490937402, Avg. Ret : 73.28160060866509
+Iteration [  227  ]
+Obj. val : 219.34033574796985, Avg. Ret : 69.68509658784672
+Iteration [  228  ]
+Obj. val : 183.03886356166583, Avg. Ret : 90.74672969781706
+Iteration [  229  ]
+Obj. val : 214.87898878661508, Avg. Ret : 73.41212872416035
+Iteration [  230  ]
+Obj. val : 190.28054853844696, Avg. Ret : 67.51513073867653
+Iteration [  231  ]
+Obj. val : 197.48201827674526, Avg. Ret : 79.02730502260965
+Iteration [  232  ]
+Obj. val : 251.84958348852416, Avg. Ret : 82.82494633698843
+Iteration [  233  ]
+Obj. val : 203.4664452502141, Avg. Ret : 69.16891534618648
+Iteration [  234  ]
+Obj. val : 215.7940223368661, Avg. Ret : 85.24319267325815
+Iteration [  235  ]
+Obj. val : 203.8805298574, Avg. Ret : 90.87947527245048
+Iteration [  236  ]
+Obj. val : 244.541924913527, Avg. Ret : 66.09338763774595
+Iteration [  237  ]
+Obj. val : 198.48412978843515, Avg. Ret : 90.31243739087509
+Iteration [  238  ]
+Obj. val : 225.03729470310478, Avg. Ret : 83.03034205076419
+Iteration [  239  ]
+Obj. val : 194.71406570499246, Avg. Ret : 67.73592778129677
+Iteration [  240  ]
+Obj. val : 191.12131651634377, Avg. Ret : 79.64887152151745
+Iteration [  241  ]
+Obj. val : 285.96927717274303, Avg. Ret : 80.50414927972874
+Iteration [  242  ]
+Obj. val : 201.79441505906195, Avg. Ret : 73.59830145491001
+Iteration [  243  ]
+Obj. val : 237.97202322371385, Avg. Ret : 84.37619689442059
+Iteration [  244  ]
+Obj. val : 307.805226710166, Avg. Ret : 78.61250548668687
+Iteration [  245  ]
+Obj. val : 207.80447503140468, Avg. Ret : 68.75583233093788
+Iteration [  246  ]
+Obj. val : 209.7645643831828, Avg. Ret : 82.86779661852766
+Iteration [  247  ]
+Obj. val : 266.7996415671306, Avg. Ret : 75.39997439986566
+Iteration [  248  ]
+Obj. val : 187.9996955267624, Avg. Ret : 61.84385012841726
+Iteration [  249  ]
+Obj. val : 211.78473575180436, Avg. Ret : 93.3045799153646
+Iteration [  250  ]
+Obj. val : 249.0833448012513, Avg. Ret : 78.92116752827934
+Iteration [  251  ]
+Obj. val : 230.37516398898669, Avg. Ret : 69.54389821540305
+Iteration [  252  ]
+Obj. val : 213.19623941458582, Avg. Ret : 82.66707046308633
+Iteration [  253  ]
+Obj. val : 252.32109665977808, Avg. Ret : 83.34195151607334
+Iteration [  254  ]
+Obj. val : 231.82414364229868, Avg. Ret : 70.29035474092937
+Iteration [  255  ]
+Obj. val : 202.1942076726162, Avg. Ret : 90.49709340835614
+Iteration [  256  ]
+Obj. val : 206.4034701872336, Avg. Ret : 78.56636061896309
+Iteration [  257  ]
+Obj. val : 202.84002511414758, Avg. Ret : 67.40554503126432
+Iteration [  258  ]
+Obj. val : 253.27401948489415, Avg. Ret : 82.71246738317234
+Iteration [  259  ]
+Obj. val : 196.15243484114185, Avg. Ret : 91.45948999457856
+Iteration [  260  ]
+Obj. val : 245.37841055106827, Avg. Ret : 63.19611806566136
+Iteration [  261  ]
+Obj. val : 247.1266144482397, Avg. Ret : 85.07615704569291
+Iteration [  262  ]
+Obj. val : 229.46171077617007, Avg. Ret : 85.68477952262862
+Iteration [  263  ]
+Obj. val : 232.14220192715806, Avg. Ret : 67.42973587625923
+Iteration [  264  ]
+Obj. val : 195.11357348944466, Avg. Ret : 87.53340798316174
+Iteration [  265  ]
+Obj. val : 257.4957351987601, Avg. Ret : 81.45426514910243
+Iteration [  266  ]
+Obj. val : 274.45738266571504, Avg. Ret : 73.61423370169072
+Iteration [  267  ]
+Obj. val : 201.68341800709868, Avg. Ret : 79.916177068359
+Iteration [  268  ]
+Obj. val : 251.30139135229106, Avg. Ret : 84.8592733748732
+Iteration [  269  ]
+Obj. val : 230.50436589883878, Avg. Ret : 71.79314274806099
+Iteration [  270  ]
+Obj. val : 225.0987317484739, Avg. Ret : 77.45626509223953
+Iteration [  271  ]
+Obj. val : 271.71829816102235, Avg. Ret : 95.93537176360083
+Iteration [  272  ]
+Obj. val : 195.3562457073771, Avg. Ret : 73.28557801761042
+Iteration [  273  ]
+Obj. val : 244.893663420916, Avg. Ret : 92.96233840608018
+Iteration [  274  ]
+Obj. val : 232.75565968190688, Avg. Ret : 93.29475703247351
+Iteration [  275  ]
+Obj. val : 163.6143013360569, Avg. Ret : 66.93002736710397
+Iteration [  276  ]
+Obj. val : 211.73242386223075, Avg. Ret : 100.05731894323125
+Iteration [  277  ]
+Obj. val : 223.07692666471002, Avg. Ret : 85.97741317654034
+Iteration [  278  ]
+Obj. val : 228.3679609746908, Avg. Ret : 69.54968897510994
+Iteration [  279  ]
+Obj. val : 253.07276752738179, Avg. Ret : 97.3917759446736
+Iteration [  280  ]
+Obj. val : 225.1525284776436, Avg. Ret : 88.32805990702798
+Iteration [  281  ]
+Obj. val : 203.80690016647122, Avg. Ret : 69.14281085933031
+Iteration [  282  ]
+Obj. val : 268.3563458106461, Avg. Ret : 90.64989892255272
+Iteration [  283  ]
+Obj. val : 267.5712094135579, Avg. Ret : 87.70726894397744
+Iteration [  284  ]
+Obj. val : 249.15607869439174, Avg. Ret : 73.97584233090585
+Iteration [  285  ]
+Obj. val : 222.2789574955069, Avg. Ret : 89.36949917914866
+Iteration [  286  ]
+Obj. val : 227.7982099827038, Avg. Ret : 91.18650263710857
+Iteration [  287  ]
+Obj. val : 230.37725330210893, Avg. Ret : 71.89734303138422
+Iteration [  288  ]
+Obj. val : 200.78009597659772, Avg. Ret : 82.6656149428603
+Iteration [  289  ]
+Obj. val : 279.35216431882293, Avg. Ret : 90.80960717832542
+Iteration [  290  ]
+Obj. val : 237.8941536688228, Avg. Ret : 71.9631276004041
+Iteration [  291  ]
+Obj. val : 273.51756947133214, Avg. Ret : 103.87748797728298
+Iteration [  292  ]
+Obj. val : 242.1135839805156, Avg. Ret : 77.33326500927984
+Iteration [  293  ]
+Obj. val : 322.0332376988624, Avg. Ret : 74.08058858281373
+Iteration [  294  ]
+Obj. val : 234.81347706479824, Avg. Ret : 93.79260597749845
+Iteration [  295  ]
+Obj. val : 306.2563115816499, Avg. Ret : 96.40293407569989
+Iteration [  296  ]
+Obj. val : 225.29596607423264, Avg. Ret : 73.46164827941512
+Iteration [  297  ]
+Obj. val : 234.20804512864208, Avg. Ret : 92.41668952922703
+Iteration [  298  ]
+Obj. val : 213.16726402335235, Avg. Ret : 87.722757447743
+Iteration [  299  ]
+Obj. val : 255.64985874613282, Avg. Ret : 71.71163925138895
+checkpoint for objective values, iteration: 300. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_1.csv
+checkpoint for avg return values, iteration: 300. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_1.csv
+Iteration [  300  ]
+Obj. val : 289.0385991543643, Avg. Ret : 108.1460037147894
+Iteration [  301  ]
+Obj. val : 346.19589886261406, Avg. Ret : 90.14263184691437
+Iteration [  302  ]
+Obj. val : 252.90262268581964, Avg. Ret : 74.16923197584408
+Iteration [  303  ]
+Obj. val : 220.24021602597824, Avg. Ret : 85.54553559988541
+Iteration [  304  ]
+Obj. val : 235.87276589781007, Avg. Ret : 94.63951187877042
+Iteration [  305  ]
+Obj. val : 236.85464351255493, Avg. Ret : 74.09458752533627
+Iteration [  306  ]
+Obj. val : 294.26170413900877, Avg. Ret : 87.62668311186103
+Iteration [  307  ]
+Obj. val : 281.4856255845845, Avg. Ret : 85.63126044640636
+Iteration [  308  ]
+Obj. val : 330.0836943187244, Avg. Ret : 72.52405365764906
+Iteration [  309  ]
+Obj. val : 214.0710391599179, Avg. Ret : 95.05107288303029
+Iteration [  310  ]
+Obj. val : 317.0096126136573, Avg. Ret : 96.6003868851025
+Iteration [  311  ]
+Obj. val : 277.52603217382756, Avg. Ret : 71.20536229931399
+Iteration [  312  ]
+Obj. val : 265.8108300477007, Avg. Ret : 89.5517625938217
+Iteration [  313  ]
+Obj. val : 376.6912473799474, Avg. Ret : 80.22024133924768
+Iteration [  314  ]
+Obj. val : 252.89738114036555, Avg. Ret : 69.21840906220079
+Iteration [  315  ]
+Obj. val : 244.97048973096935, Avg. Ret : 84.72205763392405
+Iteration [  316  ]
+Obj. val : 260.42631249911216, Avg. Ret : 100.29231418156968
+Iteration [  317  ]
+Obj. val : 299.4637321695371, Avg. Ret : 71.59199528907853
+Iteration [  318  ]
+Obj. val : 284.3943351206624, Avg. Ret : 95.6610753864572
+Iteration [  319  ]
+Obj. val : 236.80648676601155, Avg. Ret : 89.33206092456275
+Iteration [  320  ]
+Obj. val : 258.9147064630816, Avg. Ret : 77.56713260161581
+Iteration [  321  ]
+Obj. val : 238.11618905483627, Avg. Ret : 90.4412968322205
+Iteration [  322  ]
+Obj. val : 254.40403852609847, Avg. Ret : 69.56223033791741
+Iteration [  323  ]
+Obj. val : 296.41941708688915, Avg. Ret : 75.15894799273588
+Iteration [  324  ]
+Obj. val : 257.3801220621192, Avg. Ret : 83.19178281283331
+Iteration [  325  ]
+Obj. val : 315.00867661824475, Avg. Ret : 95.60616393808829
+Iteration [  326  ]
+Obj. val : 242.69873578305499, Avg. Ret : 72.00532425796789
+Iteration [  327  ]
+Obj. val : 240.66198177581538, Avg. Ret : 77.06128588907127
+Iteration [  328  ]
+Obj. val : 264.6853755862891, Avg. Ret : 96.07903692410174
+Iteration [  329  ]
+Obj. val : 276.22039767143076, Avg. Ret : 80.29332962293677
+Iteration [  330  ]
+Obj. val : 317.9873847134022, Avg. Ret : 88.39578090568942
+Iteration [  331  ]
+Obj. val : 255.50125269290288, Avg. Ret : 83.47313925620237
+Iteration [  332  ]
+Obj. val : 272.8126481315971, Avg. Ret : 77.19021656017719
+Iteration [  333  ]
+Obj. val : 270.33619282858183, Avg. Ret : 83.42805409365708
+Iteration [  334  ]
+Obj. val : 212.24753842425784, Avg. Ret : 86.58405750670967
+Iteration [  335  ]
+Obj. val : 249.50065751653202, Avg. Ret : 77.87091418207844
+Iteration [  336  ]
+Obj. val : 262.2392838107621, Avg. Ret : 94.78157941235784
+Iteration [  337  ]
+Obj. val : 304.9381590052408, Avg. Ret : 92.12230101673077
+Iteration [  338  ]
+Obj. val : 260.7798228903226, Avg. Ret : 72.80184780916525
+Iteration [  339  ]
+Obj. val : 275.0768513234337, Avg. Ret : 84.17979317552135
+Iteration [  340  ]
+Obj. val : 282.59692645152666, Avg. Ret : 95.80497631666532
+Iteration [  341  ]
+Obj. val : 262.5803035805921, Avg. Ret : 71.04401238085683
+Iteration [  342  ]
+Obj. val : 260.8266710433066, Avg. Ret : 91.27551425133484
+Iteration [  343  ]
+Obj. val : 228.34954800603123, Avg. Ret : 78.87001955975255
+Iteration [  344  ]
+Obj. val : 277.9851295371252, Avg. Ret : 78.97802261337792
+Iteration [  345  ]
+Obj. val : 237.35027306521673, Avg. Ret : 87.42681924609109
+Iteration [  346  ]
+Obj. val : 352.59231544310705, Avg. Ret : 93.33587311907169
+Iteration [  347  ]
+Obj. val : 269.20725169027486, Avg. Ret : 73.49976691724741
+Iteration [  348  ]
+Obj. val : 238.25091395785947, Avg. Ret : 72.46092587976705
+Iteration [  349  ]
+Obj. val : 283.1753536968067, Avg. Ret : 102.79508384219396
+Iteration [  350  ]
+Obj. val : 245.11794059232247, Avg. Ret : 73.67021719586151
+Iteration [  351  ]
+Obj. val : 340.6386421826711, Avg. Ret : 82.67598466677892
+Iteration [  352  ]
+Obj. val : 352.36301507509233, Avg. Ret : 88.78268183960918
+Iteration [  353  ]
+Obj. val : 281.9985761752, Avg. Ret : 69.53817148250666
+Iteration [  354  ]
+Obj. val : 291.156008640359, Avg. Ret : 86.67224444224561
+Iteration [  355  ]
+Obj. val : 258.00664317849294, Avg. Ret : 82.76488000217302
+Iteration [  356  ]
+Obj. val : 237.78827818675072, Avg. Ret : 77.40560639467007
+Iteration [  357  ]
+Obj. val : 281.26548632764667, Avg. Ret : 85.31048462577346
+Iteration [  358  ]
+Obj. val : 253.93815105932333, Avg. Ret : 88.54529703361908
+Iteration [  359  ]
+Obj. val : 329.38761571276876, Avg. Ret : 77.37895068856301
+Iteration [  360  ]
+Obj. val : 268.37396043724783, Avg. Ret : 104.26200367600866
+Iteration [  361  ]
+Obj. val : 339.93045845073436, Avg. Ret : 71.30075189648754
+Iteration [  362  ]
+Obj. val : 277.21110337682313, Avg. Ret : 80.15517542471882
+Iteration [  363  ]
+Obj. val : 283.967201156758, Avg. Ret : 68.14161750963343
+Iteration [  364  ]
+Obj. val : 267.65393254085177, Avg. Ret : 100.18004604901587
+Iteration [  365  ]
+Obj. val : 271.58114988688243, Avg. Ret : 79.8014737166141
+Iteration [  366  ]
+Obj. val : 276.9996267926074, Avg. Ret : 86.99090854948
+Iteration [  367  ]
+Obj. val : 340.0349080581812, Avg. Ret : 102.92775259697764
+Iteration [  368  ]
+Obj. val : 307.40453691655983, Avg. Ret : 82.60012351151316
+Iteration [  369  ]
+Obj. val : 273.4056234610787, Avg. Ret : 89.27324753625265
+Iteration [  370  ]
+Obj. val : 268.70094722757244, Avg. Ret : 98.9034738389618
+Iteration [  371  ]
+Obj. val : 237.76322453026108, Avg. Ret : 72.90772703113277
+Iteration [  372  ]
+Obj. val : 297.2676541606838, Avg. Ret : 99.56534996724889
+Iteration [  373  ]
+Obj. val : 340.8011621667483, Avg. Ret : 80.69276933968352
+Iteration [  374  ]
+Obj. val : 324.07571860432455, Avg. Ret : 73.64405111244993
+Iteration [  375  ]
+Obj. val : 312.9367658016274, Avg. Ret : 98.11862545961283
+Iteration [  376  ]
+Obj. val : 235.66653437106368, Avg. Ret : 76.32090922130065
+Iteration [  377  ]
+Obj. val : 269.95389764144744, Avg. Ret : 85.47613776382619
+Iteration [  378  ]
+Obj. val : 378.9813064400242, Avg. Ret : 96.86830913628724
+Iteration [  379  ]
+Obj. val : 238.65723151632116, Avg. Ret : 88.68811601321632
+Iteration [  380  ]
+Obj. val : 302.6841697974115, Avg. Ret : 80.57434745751523
+Iteration [  381  ]
+Obj. val : 247.24414390383123, Avg. Ret : 78.43004366221045
+Iteration [  382  ]
+Obj. val : 265.9752796075664, Avg. Ret : 108.82426720766975
+Iteration [  383  ]
+Obj. val : 282.5280577515122, Avg. Ret : 79.60041730138565
+Iteration [  384  ]
+Obj. val : 267.5275551340262, Avg. Ret : 103.21630030578561
+Iteration [  385  ]
+Obj. val : 261.4480373599222, Avg. Ret : 109.71431256853104
+Iteration [  386  ]
+Obj. val : 228.5373524217544, Avg. Ret : 82.27202114571973
+Iteration [  387  ]
+Obj. val : 318.14176169480623, Avg. Ret : 89.02342560371602
+Iteration [  388  ]
+Obj. val : 311.6215486566277, Avg. Ret : 96.75676459904598
+Iteration [  389  ]
+Obj. val : 288.84844183010716, Avg. Ret : 76.69645454859983
+Iteration [  390  ]
+Obj. val : 288.98763839872726, Avg. Ret : 95.47925087869523
+Iteration [  391  ]
+Obj. val : 379.000947353775, Avg. Ret : 92.14530598993456
+Iteration [  392  ]
+Obj. val : 297.08007702554147, Avg. Ret : 81.21315876129776
+Iteration [  393  ]
+Obj. val : 292.2731020713496, Avg. Ret : 94.87567546914464
+Iteration [  394  ]
+Obj. val : 329.1809753878524, Avg. Ret : 104.98546570145163
+Iteration [  395  ]
+Obj. val : 255.04521996853714, Avg. Ret : 80.4714873923977
+Iteration [  396  ]
+Obj. val : 249.20479946559448, Avg. Ret : 109.03231504648714
+Iteration [  397  ]
+Obj. val : 258.9931957703618, Avg. Ret : 88.52646164296742
+Iteration [  398  ]
+Obj. val : 276.4002330978183, Avg. Ret : 80.56805629225767
+Iteration [  399  ]
+Obj. val : 304.28068748826735, Avg. Ret : 99.17941059372275
+checkpoint for objective values, iteration: 400. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_1.csv
+checkpoint for avg return values, iteration: 400. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_1.csv
+Iteration [  400  ]
+Obj. val : 319.21103609930134, Avg. Ret : 93.27133861781749
+Iteration [  401  ]
+Obj. val : 353.2063620411521, Avg. Ret : 82.7930252354642
+Iteration [  402  ]
+Obj. val : 286.6371682689264, Avg. Ret : 92.98619424345699
+Iteration [  403  ]
+Obj. val : 250.21232507930767, Avg. Ret : 92.0183709747016
+Iteration [  404  ]
+Obj. val : 316.409451897616, Avg. Ret : 75.73211534137322
+Iteration [  405  ]
+Obj. val : 274.61514690566827, Avg. Ret : 101.40245033137587
+Iteration [  406  ]
+Obj. val : 355.58521513722735, Avg. Ret : 102.63017735755538
+Iteration [  407  ]
+Obj. val : 332.13473019438, Avg. Ret : 81.86813704183706
+Iteration [  408  ]
+Obj. val : 267.00545229859057, Avg. Ret : 107.44224376523425
+Iteration [  409  ]
+Obj. val : 289.18555066045946, Avg. Ret : 95.45406494438436
+Iteration [  410  ]
+Obj. val : 289.58385569254506, Avg. Ret : 79.31127235990385
+Iteration [  411  ]
+Obj. val : 326.26594658005655, Avg. Ret : 105.10024861132914
+Iteration [  412  ]
+Obj. val : 323.5992109382534, Avg. Ret : 84.86039116591316
+Iteration [  413  ]
+Obj. val : 301.0711541194265, Avg. Ret : 82.02332729418517
+Iteration [  414  ]
+Obj. val : 266.70603306468445, Avg. Ret : 92.99325059341896
+Iteration [  415  ]
+Obj. val : 298.07709424733093, Avg. Ret : 107.01496855158703
+Iteration [  416  ]
+Obj. val : 263.06099410143145, Avg. Ret : 73.53635061873725
+Iteration [  417  ]
+Obj. val : 330.3676404357341, Avg. Ret : 107.28195242959126
+Iteration [  418  ]
+Obj. val : 330.31871451334837, Avg. Ret : 91.97423877380066
+Iteration [  419  ]
+Obj. val : 279.8843923414604, Avg. Ret : 82.79921376514547
+Iteration [  420  ]
+Obj. val : 251.0536677673997, Avg. Ret : 104.56309430742716
+Iteration [  421  ]
+Obj. val : 317.7274813749285, Avg. Ret : 107.05293688834635
+Iteration [  422  ]
+Obj. val : 320.47777405625, Avg. Ret : 77.2004041997417
+Iteration [  423  ]
+Obj. val : 286.10123703087356, Avg. Ret : 82.68054906629973
+Iteration [  424  ]
+Obj. val : 313.6865746763686, Avg. Ret : 111.09682196597424
+Iteration [  425  ]
+Obj. val : 288.1760094498726, Avg. Ret : 80.0791702617736
+Iteration [  426  ]
+Obj. val : 329.0181138586431, Avg. Ret : 95.82331823440629
+Iteration [  427  ]
+Obj. val : 248.83477200085343, Avg. Ret : 99.49694905640996
+Iteration [  428  ]
+Obj. val : 343.41978291377046, Avg. Ret : 75.02500306734602
+Iteration [  429  ]
+Obj. val : 278.7856229032175, Avg. Ret : 103.84705092933429
+Iteration [  430  ]
+Obj. val : 283.6420256694451, Avg. Ret : 90.1719340507876
+Iteration [  431  ]
+Obj. val : 350.98202034936105, Avg. Ret : 80.391541659577
+Iteration [  432  ]
+Obj. val : 342.4076314885194, Avg. Ret : 95.4455002922287
+Iteration [  433  ]
+Obj. val : 254.55336802010646, Avg. Ret : 87.41189519941211
+Iteration [  434  ]
+Obj. val : 334.53618473818324, Avg. Ret : 79.79411890173166
+Iteration [  435  ]
+Obj. val : 272.40217551071044, Avg. Ret : 102.0561448937206
+Iteration [  436  ]
+Obj. val : 307.0907887740122, Avg. Ret : 103.69605446485939
+Iteration [  437  ]
+Obj. val : 294.1784239412379, Avg. Ret : 74.19810377056714
+Iteration [  438  ]
+Obj. val : 326.89197866467543, Avg. Ret : 102.51898126665179
+Iteration [  439  ]
+Obj. val : 320.4448026522151, Avg. Ret : 94.63737789282082
+Iteration [  440  ]
+Obj. val : 269.19627964483755, Avg. Ret : 86.9385454949706
+Iteration [  441  ]
+Obj. val : 359.2234956715632, Avg. Ret : 105.46988290611976
+Iteration [  442  ]
+Obj. val : 358.33378950167946, Avg. Ret : 90.0099007917589
+Iteration [  443  ]
+Obj. val : 339.00016588441093, Avg. Ret : 87.46747861057347
+Iteration [  444  ]
+Obj. val : 313.09104885896437, Avg. Ret : 113.5775303682893
+Iteration [  445  ]
+Obj. val : 286.3018561054473, Avg. Ret : 91.6622265314772
+Iteration [  446  ]
+Obj. val : 282.15625050748207, Avg. Ret : 90.67456071468335
+Iteration [  447  ]
+Obj. val : 347.23896356671634, Avg. Ret : 106.21446017187074
+Iteration [  448  ]
+Obj. val : 300.10509164096544, Avg. Ret : 91.48858462822372
+Iteration [  449  ]
+Obj. val : 414.1363198609451, Avg. Ret : 91.1420228566174
+Iteration [  450  ]
+Obj. val : 280.8241160878895, Avg. Ret : 85.73024681052257
+Iteration [  451  ]
+Obj. val : 319.47204115428934, Avg. Ret : 109.62662127068346
+Iteration [  452  ]
+Obj. val : 282.54592059895504, Avg. Ret : 83.39953871416766
+Iteration [  453  ]
+Obj. val : 337.75171630516064, Avg. Ret : 113.99220248263933
+Iteration [  454  ]
+Obj. val : 412.10551420747817, Avg. Ret : 93.3327364131888
+Iteration [  455  ]
+Obj. val : 331.7909824718049, Avg. Ret : 83.61683330537434
+Iteration [  456  ]
+Obj. val : 376.0927252413521, Avg. Ret : 96.3946790824889
+Iteration [  457  ]
+Obj. val : 342.41645413560803, Avg. Ret : 94.36205938232587
+Iteration [  458  ]
+Obj. val : 319.46109127625715, Avg. Ret : 76.24908566250818
+Iteration [  459  ]
+Obj. val : 335.98491656201946, Avg. Ret : 90.06531750235771
+Iteration [  460  ]
+Obj. val : 297.13458972025666, Avg. Ret : 110.53658833194204
+Iteration [  461  ]
+Obj. val : 317.57427760400975, Avg. Ret : 86.12527132406129
+Iteration [  462  ]
+Obj. val : 347.25495311648103, Avg. Ret : 114.03108494880638
+Iteration [  463  ]
+Obj. val : 341.5285810652793, Avg. Ret : 93.26259526362642
+Iteration [  464  ]
+Obj. val : 273.05638878280513, Avg. Ret : 91.23056820924971
+Iteration [  465  ]
+Obj. val : 258.9360327682302, Avg. Ret : 96.19013898912586
+Iteration [  466  ]
+Obj. val : 367.7651374446052, Avg. Ret : 118.96115744731149
+Iteration [  467  ]
+Obj. val : 320.7524172415649, Avg. Ret : 92.89283964448822
+Iteration [  468  ]
+Obj. val : 369.7698087065831, Avg. Ret : 100.47830763049701
+Iteration [  469  ]
+Obj. val : 303.75964017171657, Avg. Ret : 98.43618501704765
+Iteration [  470  ]
+Obj. val : 300.4853278218805, Avg. Ret : 79.65425698730435
+Iteration [  471  ]
+Obj. val : 320.35466991086605, Avg. Ret : 104.85171911128963
+Iteration [  472  ]
+Obj. val : 293.10498149565, Avg. Ret : 105.52805960681685
+Iteration [  473  ]
+Obj. val : 321.31807291775254, Avg. Ret : 83.54446126974717
+Iteration [  474  ]
+Obj. val : 330.61007551104586, Avg. Ret : 110.32231065665115
+Iteration [  475  ]
+Obj. val : 401.84754825976484, Avg. Ret : 103.10162327915344
+Iteration [  476  ]
+Obj. val : 265.0999926277671, Avg. Ret : 79.06486967369976
+Iteration [  477  ]
+Obj. val : 325.43682309352715, Avg. Ret : 115.72170519443398
+Iteration [  478  ]
+Obj. val : 331.55678792707306, Avg. Ret : 104.08719900599148
+Iteration [  479  ]
+Obj. val : 367.5471471427608, Avg. Ret : 88.09766942468988
+Iteration [  480  ]
+Obj. val : 297.32115102250634, Avg. Ret : 122.31007733805929
+Iteration [  481  ]
+Obj. val : 272.12139393331506, Avg. Ret : 102.39818297046803
+Iteration [  482  ]
+Obj. val : 297.8373977924432, Avg. Ret : 84.9306396232159
+Iteration [  483  ]
+Obj. val : 340.31575199658744, Avg. Ret : 87.15820862966228
+Iteration [  484  ]
+Obj. val : 355.89406371598045, Avg. Ret : 118.82569602752237
+Iteration [  485  ]
+Obj. val : 397.31737473158375, Avg. Ret : 82.96631076804964
+Iteration [  486  ]
+Obj. val : 394.10695699209805, Avg. Ret : 116.13437615674093
+Iteration [  487  ]
+Obj. val : 344.3857745828998, Avg. Ret : 104.03635710772869
+Iteration [  488  ]
+Obj. val : 345.06865088502434, Avg. Ret : 89.10534190403393
+Iteration [  489  ]
+Obj. val : 353.7021958291488, Avg. Ret : 110.54561699201142
+Iteration [  490  ]
+Obj. val : 459.62630852499564, Avg. Ret : 118.01118927290136
+Iteration [  491  ]
+Obj. val : 306.1492406148477, Avg. Ret : 83.01564888624365
+Iteration [  492  ]
+Obj. val : 286.43700292488757, Avg. Ret : 100.51372332256702
+Iteration [  493  ]
+Obj. val : 381.9083248598736, Avg. Ret : 116.48468300589286
+Iteration [  494  ]
+Obj. val : 397.1753184528131, Avg. Ret : 85.68415651217
+Iteration [  495  ]
+Obj. val : 357.0437316909725, Avg. Ret : 120.9109595966882
+Iteration [  496  ]
+Obj. val : 350.33469382533775, Avg. Ret : 123.08955761598992
+Iteration [  497  ]
+Obj. val : 303.34007702630055, Avg. Ret : 82.4374156527063
+Iteration [  498  ]
+Obj. val : 296.8461984831748, Avg. Ret : 115.95751148338651
+Iteration [  499  ]
+Obj. val : 368.34014390400654, Avg. Ret : 96.82622001291979
+checkpoint for objective values, iteration: 500. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_1.csv
+checkpoint for objective values, iteration: 500. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_1.csv
+batch = 2
+inside iterator
+Iteration [  0  ]
+Obj. val : 94.45269757024347, Avg. Ret : 51.80408460759155
+Iteration [  1  ]
+Obj. val : 95.87723642956763, Avg. Ret : 49.79444728323022
+Iteration [  2  ]
+Obj. val : 104.48194769302907, Avg. Ret : 56.02748680291471
+Iteration [  3  ]
+Obj. val : 95.13711539353008, Avg. Ret : 54.18753242194813
+Iteration [  4  ]
+Obj. val : 84.74912056044589, Avg. Ret : 50.708225880937405
+Iteration [  5  ]
+Obj. val : 79.89658855415584, Avg. Ret : 55.29400377060948
+Iteration [  6  ]
+Obj. val : 106.72085584684714, Avg. Ret : 49.89008671573714
+Iteration [  7  ]
+Obj. val : 101.04080244910656, Avg. Ret : 54.50646685104124
+Iteration [  8  ]
+Obj. val : 95.03339744719997, Avg. Ret : 53.79434598621829
+Iteration [  9  ]
+Obj. val : 120.2888384928221, Avg. Ret : 59.036206416231195
+Iteration [  10  ]
+Obj. val : 98.00459255435429, Avg. Ret : 53.33812937185505
+Iteration [  11  ]
+Obj. val : 113.7283247868292, Avg. Ret : 53.822796430252
+Iteration [  12  ]
+Obj. val : 109.03620889840609, Avg. Ret : 52.158449577544154
+Iteration [  13  ]
+Obj. val : 147.91380673295936, Avg. Ret : 49.37358816385239
+Iteration [  14  ]
+Obj. val : 105.64943167135797, Avg. Ret : 50.41987536125846
+Iteration [  15  ]
+Obj. val : 130.35790004503207, Avg. Ret : 51.763488464763476
+Iteration [  16  ]
+Obj. val : 196.08456982457022, Avg. Ret : 53.998041132305154
+Iteration [  17  ]
+Obj. val : 121.6682456986605, Avg. Ret : 49.76426570911093
+Iteration [  18  ]
+Obj. val : 148.84827839049336, Avg. Ret : 54.208192968742885
+Iteration [  19  ]
+Obj. val : 103.74977863038981, Avg. Ret : 51.75364204625734
+Iteration [  20  ]
+Obj. val : 148.7208800964002, Avg. Ret : 53.827460641115614
+Iteration [  21  ]
+Obj. val : 109.02222518171575, Avg. Ret : 56.61735399462047
+Iteration [  22  ]
+Obj. val : 121.10992290090725, Avg. Ret : 36.116747902783395
+Iteration [  23  ]
+Obj. val : 106.53856806728535, Avg. Ret : 63.51418679569587
+Iteration [  24  ]
+Obj. val : 152.0381305708943, Avg. Ret : 43.68349725173434
+Iteration [  25  ]
+Obj. val : 112.45905144801456, Avg. Ret : 79.23442727075883
+Iteration [  26  ]
+Obj. val : 121.14379026827376, Avg. Ret : 33.63867303490669
+Iteration [  27  ]
+Obj. val : 120.8384629456557, Avg. Ret : 83.07841917253393
+Iteration [  28  ]
+Obj. val : 112.58656136083576, Avg. Ret : 45.494383921836345
+Iteration [  29  ]
+Obj. val : 124.07884518784898, Avg. Ret : 54.22802732212089
+Iteration [  30  ]
+Obj. val : 126.21161919970018, Avg. Ret : 50.6489144644499
+Iteration [  31  ]
+Obj. val : 141.77857618126555, Avg. Ret : 44.10102507294534
+Iteration [  32  ]
+Obj. val : 132.53811131394366, Avg. Ret : 39.79504284463796
+Iteration [  33  ]
+Obj. val : 140.29535840434596, Avg. Ret : 49.3895120066034
+Iteration [  34  ]
+Obj. val : 120.37587828355926, Avg. Ret : 57.54507413442282
+Iteration [  35  ]
+Obj. val : 129.6757617101086, Avg. Ret : 45.879786376404375
+Iteration [  36  ]
+Obj. val : 122.788830146446, Avg. Ret : 59.742519546920356
+Iteration [  37  ]
+Obj. val : 129.6182901110959, Avg. Ret : 51.96273245420802
+Iteration [  38  ]
+Obj. val : 127.77188699999681, Avg. Ret : 62.21642994635734
+Iteration [  39  ]
+Obj. val : 129.10502389264306, Avg. Ret : 35.90640026461887
+Iteration [  40  ]
+Obj. val : 124.82887864079261, Avg. Ret : 64.11276453011469
+Iteration [  41  ]
+Obj. val : 152.72517068382373, Avg. Ret : 45.50868445850325
+Iteration [  42  ]
+Obj. val : 135.35035891170642, Avg. Ret : 51.633414254807576
+Iteration [  43  ]
+Obj. val : 132.85416599537103, Avg. Ret : 51.89750859651535
+Iteration [  44  ]
+Obj. val : 146.9282514987162, Avg. Ret : 51.42715951958543
+Iteration [  45  ]
+Obj. val : 134.63640191749332, Avg. Ret : 50.81884744682023
+Iteration [  46  ]
+Obj. val : 162.51587877215314, Avg. Ret : 73.49632741576178
+Iteration [  47  ]
+Obj. val : 144.37516086000022, Avg. Ret : 57.08071565249351
+Iteration [  48  ]
+Obj. val : 198.16858364422328, Avg. Ret : 59.74411028719571
+Iteration [  49  ]
+Obj. val : 126.28209120420453, Avg. Ret : 51.713933729738876
+Iteration [  50  ]
+Obj. val : 152.25417160112073, Avg. Ret : 53.35008398212747
+Iteration [  51  ]
+Obj. val : 139.8267458778065, Avg. Ret : 61.27209261821284
+Iteration [  52  ]
+Obj. val : 145.34993925442865, Avg. Ret : 52.31257559227011
+Iteration [  53  ]
+Obj. val : 132.58150201632054, Avg. Ret : 57.2252148147566
+Iteration [  54  ]
+Obj. val : 124.75147067610936, Avg. Ret : 53.778539516886205
+Iteration [  55  ]
+Obj. val : 163.92257115403638, Avg. Ret : 79.14369927481951
+Iteration [  56  ]
+Obj. val : 139.85157569014137, Avg. Ret : 51.33366737677235
+Iteration [  57  ]
+Obj. val : 167.27482268993592, Avg. Ret : 54.79649573870289
+Iteration [  58  ]
+Obj. val : 178.61353778568667, Avg. Ret : 63.30676313353063
+Iteration [  59  ]
+Obj. val : 172.87314821935453, Avg. Ret : 56.67724045234949
+Iteration [  60  ]
+Obj. val : 194.3590469346416, Avg. Ret : 56.305606228671856
+Iteration [  61  ]
+Obj. val : 147.6018773014948, Avg. Ret : 71.02431389326416
+Iteration [  62  ]
+Obj. val : 143.9589612071467, Avg. Ret : 58.173799894716105
+Iteration [  63  ]
+Obj. val : 162.25033072753646, Avg. Ret : 67.23122290103835
+Iteration [  64  ]
+Obj. val : 195.05189722645008, Avg. Ret : 52.13375427312453
+Iteration [  65  ]
+Obj. val : 184.6428926051541, Avg. Ret : 58.758486487280585
+Iteration [  66  ]
+Obj. val : 143.68245233753203, Avg. Ret : 55.42337356859287
+Iteration [  67  ]
+Obj. val : 223.6692936631439, Avg. Ret : 63.83798262068377
+Iteration [  68  ]
+Obj. val : 182.27233071784937, Avg. Ret : 57.750577022431614
+Iteration [  69  ]
+Obj. val : 171.65071580611385, Avg. Ret : 57.42370287317829
+Iteration [  70  ]
+Obj. val : 176.6531873917529, Avg. Ret : 61.80846938271312
+Iteration [  71  ]
+Obj. val : 158.14766486360844, Avg. Ret : 60.118075853864774
+Iteration [  72  ]
+Obj. val : 178.0989817616753, Avg. Ret : 56.02768019974106
+Iteration [  73  ]
+Obj. val : 159.66238657769821, Avg. Ret : 67.11996249476873
+Iteration [  74  ]
+Obj. val : 126.34992374958202, Avg. Ret : 61.88222563110906
+Iteration [  75  ]
+Obj. val : 189.78647175769038, Avg. Ret : 61.4718892386248
+Iteration [  76  ]
+Obj. val : 151.46754680974627, Avg. Ret : 61.85237971555555
+Iteration [  77  ]
+Obj. val : 179.94996575748206, Avg. Ret : 59.11042539233741
+Iteration [  78  ]
+Obj. val : 213.09158103514503, Avg. Ret : 58.82164539240804
+Iteration [  79  ]
+Obj. val : 189.10789530073163, Avg. Ret : 63.96783240364827
+Iteration [  80  ]
+Obj. val : 161.22670109556765, Avg. Ret : 60.60825401082955
+Iteration [  81  ]
+Obj. val : 187.05313599461957, Avg. Ret : 62.13463760878604
+Iteration [  82  ]
+Obj. val : 187.41032640631323, Avg. Ret : 58.505529342311895
+Iteration [  83  ]
+Obj. val : 178.68624739958818, Avg. Ret : 65.03936521158677
+Iteration [  84  ]
+Obj. val : 185.11573216194935, Avg. Ret : 56.427106913131084
+Iteration [  85  ]
+Obj. val : 184.91763828768282, Avg. Ret : 61.357633907497714
+Iteration [  86  ]
+Obj. val : 173.14438615539484, Avg. Ret : 61.89678876877613
+Iteration [  87  ]
+Obj. val : 171.36132203353586, Avg. Ret : 57.690536578974545
+Iteration [  88  ]
+Obj. val : 171.1266263937106, Avg. Ret : 59.457826488733616
+Iteration [  89  ]
+Obj. val : 177.23979063934172, Avg. Ret : 64.50334858468787
+Iteration [  90  ]
+Obj. val : 230.69240669493502, Avg. Ret : 62.33143243451624
+Iteration [  91  ]
+Obj. val : 199.20399431860167, Avg. Ret : 61.41371013713484
+Iteration [  92  ]
+Obj. val : 201.33600647294372, Avg. Ret : 67.41620526832102
+Iteration [  93  ]
+Obj. val : 191.35415970455077, Avg. Ret : 63.16404242371957
+Iteration [  94  ]
+Obj. val : 184.2108162656306, Avg. Ret : 56.658622154960796
+Iteration [  95  ]
+Obj. val : 188.03621971882683, Avg. Ret : 65.99782912711626
+Iteration [  96  ]
+Obj. val : 176.97689886423512, Avg. Ret : 69.62313749459959
+Iteration [  97  ]
+Obj. val : 199.58787717199039, Avg. Ret : 52.90116068786346
+Iteration [  98  ]
+Obj. val : 151.7021345052164, Avg. Ret : 64.1150456200757
+Iteration [  99  ]
+Obj. val : 169.68617425160733, Avg. Ret : 61.474942634893296
+checkpoint for objective values, iteration: 100. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_2.csv
+checkpoint for avg return values, iteration: 100. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_2.csv
+Iteration [  100  ]
+Obj. val : 197.5186260649443, Avg. Ret : 67.29699316413839
+Iteration [  101  ]
+Obj. val : 183.09222019183548, Avg. Ret : 67.27683082795711
+Iteration [  102  ]
+Obj. val : 166.54706484279944, Avg. Ret : 63.44661479050443
+Iteration [  103  ]
+Obj. val : 169.987839765334, Avg. Ret : 75.0303755703983
+Iteration [  104  ]
+Obj. val : 160.61552173997075, Avg. Ret : 68.06372139183046
+Iteration [  105  ]
+Obj. val : 169.897128674689, Avg. Ret : 76.85424044668683
+Iteration [  106  ]
+Obj. val : 186.3394180901612, Avg. Ret : 62.43375506477627
+Iteration [  107  ]
+Obj. val : 186.9198025632561, Avg. Ret : 68.38398070217549
+Iteration [  108  ]
+Obj. val : 174.79776439619044, Avg. Ret : 72.6942432369646
+Iteration [  109  ]
+Obj. val : 176.9446487020126, Avg. Ret : 58.60430722789
+Iteration [  110  ]
+Obj. val : 204.56025376816024, Avg. Ret : 65.45421744996024
+Iteration [  111  ]
+Obj. val : 182.9957341038715, Avg. Ret : 67.05700526306346
+Iteration [  112  ]
+Obj. val : 153.09179848591788, Avg. Ret : 92.35504506432062
+Iteration [  113  ]
+Obj. val : 155.27067426516498, Avg. Ret : 66.16300993611362
+Iteration [  114  ]
+Obj. val : 138.6306536821649, Avg. Ret : 82.080501217471
+Iteration [  115  ]
+Obj. val : 164.52464352498936, Avg. Ret : 77.61971652418607
+Iteration [  116  ]
+Obj. val : 168.90507305782123, Avg. Ret : 71.73546401960192
+Iteration [  117  ]
+Obj. val : 178.3371518608888, Avg. Ret : 80.50011063959688
+Iteration [  118  ]
+Obj. val : 170.8290187748973, Avg. Ret : 73.98979336861574
+Iteration [  119  ]
+Obj. val : 178.55114197045165, Avg. Ret : 69.9611801707815
+Iteration [  120  ]
+Obj. val : 210.47138981437718, Avg. Ret : 90.04197128123728
+Iteration [  121  ]
+Obj. val : 231.16331548280814, Avg. Ret : 65.13979918123631
+Iteration [  122  ]
+Obj. val : 169.68331042051426, Avg. Ret : 68.6332524748389
+Iteration [  123  ]
+Obj. val : 169.9804370571859, Avg. Ret : 82.62376787187111
+Iteration [  124  ]
+Obj. val : 201.43035883238116, Avg. Ret : 69.37039805386722
+Iteration [  125  ]
+Obj. val : 185.22489526609417, Avg. Ret : 72.34284525393268
+Iteration [  126  ]
+Obj. val : 164.04434706697936, Avg. Ret : 93.04819621435291
+Iteration [  127  ]
+Obj. val : 199.42481125571828, Avg. Ret : 79.19490134054533
+Iteration [  128  ]
+Obj. val : 167.02351937035854, Avg. Ret : 72.95471164542252
+Iteration [  129  ]
+Obj. val : 174.65853906915092, Avg. Ret : 92.27046436659194
+Iteration [  130  ]
+Obj. val : 188.1874531124413, Avg. Ret : 83.77647203289378
+Iteration [  131  ]
+Obj. val : 198.206386526648, Avg. Ret : 73.95713997435426
+Iteration [  132  ]
+Obj. val : 185.57116728399063, Avg. Ret : 75.4203439404178
+Iteration [  133  ]
+Obj. val : 193.97284207211015, Avg. Ret : 86.93211319324975
+Iteration [  134  ]
+Obj. val : 171.15461715352387, Avg. Ret : 74.38676181966098
+Iteration [  135  ]
+Obj. val : 189.08830482889678, Avg. Ret : 82.7509110518524
+Iteration [  136  ]
+Obj. val : 163.399437439703, Avg. Ret : 97.83697836794359
+Iteration [  137  ]
+Obj. val : 185.15467809709196, Avg. Ret : 77.67871856370202
+Iteration [  138  ]
+Obj. val : 195.11445039325753, Avg. Ret : 85.25116206158178
+Iteration [  139  ]
+Obj. val : 212.6802402583512, Avg. Ret : 74.7840870410902
+Iteration [  140  ]
+Obj. val : 173.8285884708398, Avg. Ret : 74.18267931813918
+Iteration [  141  ]
+Obj. val : 165.27024743496332, Avg. Ret : 82.3844236242011
+Iteration [  142  ]
+Obj. val : 195.17088626608296, Avg. Ret : 86.56605792718457
+Iteration [  143  ]
+Obj. val : 187.4130054297828, Avg. Ret : 75.8288518168711
+Iteration [  144  ]
+Obj. val : 217.9242634884517, Avg. Ret : 95.82694093426866
+Iteration [  145  ]
+Obj. val : 191.32889533521833, Avg. Ret : 87.85057834804238
+Iteration [  146  ]
+Obj. val : 168.16248236374608, Avg. Ret : 70.89323553282333
+Iteration [  147  ]
+Obj. val : 192.4554846104908, Avg. Ret : 79.1874399856374
+Iteration [  148  ]
+Obj. val : 159.35487087612154, Avg. Ret : 96.81195732755225
+Iteration [  149  ]
+Obj. val : 191.39537709665123, Avg. Ret : 75.80538230178321
+Iteration [  150  ]
+Obj. val : 168.1538363153024, Avg. Ret : 93.46731885003135
+Iteration [  151  ]
+Obj. val : 167.21553129104828, Avg. Ret : 88.79685330255177
+Iteration [  152  ]
+Obj. val : 177.32618073122484, Avg. Ret : 76.59327134128966
+Iteration [  153  ]
+Obj. val : 203.52402433163743, Avg. Ret : 94.20244979669472
+Iteration [  154  ]
+Obj. val : 181.77821450699042, Avg. Ret : 82.72530099586702
+Iteration [  155  ]
+Obj. val : 177.00981976342672, Avg. Ret : 71.98373166293828
+Iteration [  156  ]
+Obj. val : 156.83384516049773, Avg. Ret : 61.535169812738985
+Iteration [  157  ]
+Obj. val : 187.6927982694332, Avg. Ret : 104.26119292414937
+Iteration [  158  ]
+Obj. val : 211.79527284049942, Avg. Ret : 76.8668903596145
+Iteration [  159  ]
+Obj. val : 175.472120988654, Avg. Ret : 104.80570349772182
+Iteration [  160  ]
+Obj. val : 171.05468335055292, Avg. Ret : 93.45714935493132
+Iteration [  161  ]
+Obj. val : 186.00370546085972, Avg. Ret : 77.11246772176021
+Iteration [  162  ]
+Obj. val : 173.79871280247804, Avg. Ret : 77.86168495942276
+Iteration [  163  ]
+Obj. val : 169.99979154536405, Avg. Ret : 93.87622421585117
+Iteration [  164  ]
+Obj. val : 206.1973723763585, Avg. Ret : 80.02511138195702
+Iteration [  165  ]
+Obj. val : 202.01919346868794, Avg. Ret : 102.18555471086627
+Iteration [  166  ]
+Obj. val : 285.30537420845593, Avg. Ret : 89.92282691571054
+Iteration [  167  ]
+Obj. val : 214.63698674016837, Avg. Ret : 77.11938039499285
+Iteration [  168  ]
+Obj. val : 183.25619358306366, Avg. Ret : 109.79400380381502
+Iteration [  169  ]
+Obj. val : 192.8091921487686, Avg. Ret : 85.07733668634346
+Iteration [  170  ]
+Obj. val : 222.06504768740334, Avg. Ret : 81.8549136284069
+Iteration [  171  ]
+Obj. val : 223.90163386204566, Avg. Ret : 98.11711236758484
+Iteration [  172  ]
+Obj. val : 184.38045512299828, Avg. Ret : 89.76257430060643
+Iteration [  173  ]
+Obj. val : 195.86930610161798, Avg. Ret : 77.94124562655792
+Iteration [  174  ]
+Obj. val : 174.28701445258395, Avg. Ret : 83.0677318311986
+Iteration [  175  ]
+Obj. val : 167.65577982279325, Avg. Ret : 73.100040833132
+Iteration [  176  ]
+Obj. val : 195.89430523350694, Avg. Ret : 79.50415622993563
+Iteration [  177  ]
+Obj. val : 179.0732055797283, Avg. Ret : 77.01904104570337
+Iteration [  178  ]
+Obj. val : 178.73476953027878, Avg. Ret : 71.63303115738532
+Iteration [  179  ]
+Obj. val : 194.52646117309536, Avg. Ret : 76.39730252555721
+Iteration [  180  ]
+Obj. val : 224.95550773195146, Avg. Ret : 102.91310134951237
+Iteration [  181  ]
+Obj. val : 183.3732471282728, Avg. Ret : 92.53194269955665
+Iteration [  182  ]
+Obj. val : 195.3940295646036, Avg. Ret : 84.12778317863238
+Iteration [  183  ]
+Obj. val : 162.15323602089538, Avg. Ret : 77.59775352443243
+Iteration [  184  ]
+Obj. val : 199.40745051182014, Avg. Ret : 83.75586132133225
+Iteration [  185  ]
+Obj. val : 198.46364202140023, Avg. Ret : 80.43122358527637
+Iteration [  186  ]
+Obj. val : 214.11502811581005, Avg. Ret : 100.16166349120228
+Iteration [  187  ]
+Obj. val : 179.49739070270144, Avg. Ret : 98.1172781639451
+Iteration [  188  ]
+Obj. val : 225.05344101137172, Avg. Ret : 91.44137839717901
+Iteration [  189  ]
+Obj. val : 140.43926947133193, Avg. Ret : 83.25956518734522
+Iteration [  190  ]
+Obj. val : 180.89205413795145, Avg. Ret : 101.29391624801194
+Iteration [  191  ]
+Obj. val : 189.1246785141524, Avg. Ret : 79.358352151434
+Iteration [  192  ]
+Obj. val : 218.24210558083362, Avg. Ret : 105.47594231511862
+Iteration [  193  ]
+Obj. val : 170.31695266036184, Avg. Ret : 104.65758141078418
+Iteration [  194  ]
+Obj. val : 219.2074655513983, Avg. Ret : 79.24645797941434
+Iteration [  195  ]
+Obj. val : 211.76201388141234, Avg. Ret : 78.93475263974184
+Iteration [  196  ]
+Obj. val : 184.91499129526127, Avg. Ret : 81.07330248747247
+Iteration [  197  ]
+Obj. val : 156.08146203357384, Avg. Ret : 82.87404797259609
+Iteration [  198  ]
+Obj. val : 191.65279207903438, Avg. Ret : 112.13590763425526
+Iteration [  199  ]
+Obj. val : 190.63190564435465, Avg. Ret : 80.23183994370989
+checkpoint for objective values, iteration: 200. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_2.csv
+checkpoint for avg return values, iteration: 200. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_2.csv
+Iteration [  200  ]
+Obj. val : 209.47380979647403, Avg. Ret : 88.30323226294327
+Iteration [  201  ]
+Obj. val : 175.54777428261826, Avg. Ret : 75.53161576457138
+Iteration [  202  ]
+Obj. val : 153.7664034927803, Avg. Ret : 81.53076233584524
+Iteration [  203  ]
+Obj. val : 184.8108028783159, Avg. Ret : 81.71117908361477
+Iteration [  204  ]
+Obj. val : 191.14354388744593, Avg. Ret : 78.89985341151316
+Iteration [  205  ]
+Obj. val : 185.17809558461175, Avg. Ret : 83.14063505365891
+Iteration [  206  ]
+Obj. val : 194.80694326281798, Avg. Ret : 81.5448447825567
+Iteration [  207  ]
+Obj. val : 220.42692514679882, Avg. Ret : 91.02357204460506
+Iteration [  208  ]
+Obj. val : 157.98462229170772, Avg. Ret : 97.07607754509867
+Iteration [  209  ]
+Obj. val : 168.1377110263533, Avg. Ret : 90.49859013713673
+Iteration [  210  ]
+Obj. val : 217.34084226815597, Avg. Ret : 71.40801808883279
+Iteration [  211  ]
+Obj. val : 193.97648909832213, Avg. Ret : 89.17309635190958
+Iteration [  212  ]
+Obj. val : 200.95111491977667, Avg. Ret : 87.15542649542965
+Iteration [  213  ]
+Obj. val : 173.37102109576475, Avg. Ret : 79.31749235226918
+Iteration [  214  ]
+Obj. val : 190.0311116389614, Avg. Ret : 90.3819109747937
+Iteration [  215  ]
+Obj. val : 205.1425019531684, Avg. Ret : 87.35225908357675
+Iteration [  216  ]
+Obj. val : 207.50304229915275, Avg. Ret : 76.91408580927654
+Iteration [  217  ]
+Obj. val : 227.33657939390798, Avg. Ret : 109.2457722386771
+Iteration [  218  ]
+Obj. val : 208.02665326963188, Avg. Ret : 95.10239811876822
+Iteration [  219  ]
+Obj. val : 190.1462949576893, Avg. Ret : 109.60806058021853
+Iteration [  220  ]
+Obj. val : 202.72690531723836, Avg. Ret : 92.63918644900906
+Iteration [  221  ]
+Obj. val : 208.48188355591358, Avg. Ret : 89.418837362873
+Iteration [  222  ]
+Obj. val : 248.79788064471842, Avg. Ret : 107.77467192934091
+Iteration [  223  ]
+Obj. val : 193.30307176050266, Avg. Ret : 93.50038617620132
+Iteration [  224  ]
+Obj. val : 226.62954690129177, Avg. Ret : 93.48693705993074
+Iteration [  225  ]
+Obj. val : 224.2630466348413, Avg. Ret : 98.68573953818688
+Iteration [  226  ]
+Obj. val : 226.138922646647, Avg. Ret : 96.72929092257424
+Iteration [  227  ]
+Obj. val : 194.1594156336102, Avg. Ret : 93.1483676521968
+Iteration [  228  ]
+Obj. val : 190.73087624746864, Avg. Ret : 69.09250620022162
+Iteration [  229  ]
+Obj. val : 212.98027215635042, Avg. Ret : 93.73765294521957
+Iteration [  230  ]
+Obj. val : 235.9725470497144, Avg. Ret : 93.16691112607013
+Iteration [  231  ]
+Obj. val : 254.02571189482063, Avg. Ret : 88.71952966908133
+Iteration [  232  ]
+Obj. val : 203.44665994708015, Avg. Ret : 92.4851501402131
+Iteration [  233  ]
+Obj. val : 187.22748111119432, Avg. Ret : 89.61942231172993
+Iteration [  234  ]
+Obj. val : 203.04449831330197, Avg. Ret : 71.19551167305784
+Iteration [  235  ]
+Obj. val : 269.2712595382243, Avg. Ret : 82.7814649408163
+Iteration [  236  ]
+Obj. val : 198.1663600949152, Avg. Ret : 92.72733087271172
+Iteration [  237  ]
+Obj. val : 205.92208142462303, Avg. Ret : 78.44646953689684
+Iteration [  238  ]
+Obj. val : 219.17345511188785, Avg. Ret : 71.04067584105637
+Iteration [  239  ]
+Obj. val : 231.4752666380287, Avg. Ret : 97.06479503510016
+Iteration [  240  ]
+Obj. val : 216.10958219873936, Avg. Ret : 86.86465964569719
+Iteration [  241  ]
+Obj. val : 204.65467103762148, Avg. Ret : 53.59452233441412
+Iteration [  242  ]
+Obj. val : 242.8591744836554, Avg. Ret : 94.45238623135377
+Iteration [  243  ]
+Obj. val : 234.66895870299675, Avg. Ret : 68.48606940340977
+Iteration [  244  ]
+Obj. val : 266.50381000940115, Avg. Ret : 80.03367149575578
+Iteration [  245  ]
+Obj. val : 232.684137559744, Avg. Ret : 97.4012052634445
+Iteration [  246  ]
+Obj. val : 256.1460620231626, Avg. Ret : 96.79852067855559
+Iteration [  247  ]
+Obj. val : 245.93335889371272, Avg. Ret : 103.76204234578036
+Iteration [  248  ]
+Obj. val : 275.00203751455655, Avg. Ret : 100.1600501329358
+Iteration [  249  ]
+Obj. val : 228.45584144635524, Avg. Ret : 99.23232724135113
+Iteration [  250  ]
+Obj. val : 210.2039404910989, Avg. Ret : 107.6848344656053
+Iteration [  251  ]
+Obj. val : 293.0834493814682, Avg. Ret : 99.10293652520082
+Iteration [  252  ]
+Obj. val : 271.28599698152266, Avg. Ret : 86.8689414291477
+Iteration [  253  ]
+Obj. val : 224.71903817198788, Avg. Ret : 73.89735251728632
+Iteration [  254  ]
+Obj. val : 247.0220446518377, Avg. Ret : 98.09548397243842
+Iteration [  255  ]
+Obj. val : 224.86740565444228, Avg. Ret : 103.1700076386354
+Iteration [  256  ]
+Obj. val : 240.00503953160444, Avg. Ret : 105.29460380436313
+Iteration [  257  ]
+Obj. val : 202.50327820742797, Avg. Ret : 92.98518050590528
+Iteration [  258  ]
+Obj. val : 209.79781386035253, Avg. Ret : 74.6603421388812
+Iteration [  259  ]
+Obj. val : 226.9700826919132, Avg. Ret : 85.00718902936089
+Iteration [  260  ]
+Obj. val : 241.4815214598914, Avg. Ret : 101.11714438535631
+Iteration [  261  ]
+Obj. val : 261.24672944346213, Avg. Ret : 101.86642342716316
+Iteration [  262  ]
+Obj. val : 288.03350800930684, Avg. Ret : 102.67898219511646
+Iteration [  263  ]
+Obj. val : 210.915768293284, Avg. Ret : 93.60507288036257
+Iteration [  264  ]
+Obj. val : 228.87257964915673, Avg. Ret : 80.96609158347225
+Iteration [  265  ]
+Obj. val : 250.8094333239336, Avg. Ret : 73.80951036995796
+Iteration [  266  ]
+Obj. val : 231.37179712390727, Avg. Ret : 92.17887952339315
+Iteration [  267  ]
+Obj. val : 223.72925957652345, Avg. Ret : 100.86302162247247
+Iteration [  268  ]
+Obj. val : 221.79229832265835, Avg. Ret : 99.57377802808735
+Iteration [  269  ]
+Obj. val : 229.7107094467391, Avg. Ret : 109.69419171583979
+Iteration [  270  ]
+Obj. val : 205.6906333995277, Avg. Ret : 84.12658713613092
+Iteration [  271  ]
+Obj. val : 176.48426136359092, Avg. Ret : 99.9317141223759
+Iteration [  272  ]
+Obj. val : 215.684990071936, Avg. Ret : 97.7569590468327
+Iteration [  273  ]
+Obj. val : 270.7567882785661, Avg. Ret : 72.73614419748111
+Iteration [  274  ]
+Obj. val : 240.76112966983953, Avg. Ret : 80.39536873753399
+Iteration [  275  ]
+Obj. val : 230.8731776648157, Avg. Ret : 103.9651749359273
+Iteration [  276  ]
+Obj. val : 221.57916863941446, Avg. Ret : 77.3343258515303
+Iteration [  277  ]
+Obj. val : 188.25151735017053, Avg. Ret : 78.79598172435914
+Iteration [  278  ]
+Obj. val : 209.97168713051224, Avg. Ret : 110.08480633729889
+Iteration [  279  ]
+Obj. val : 207.16848778665738, Avg. Ret : 103.67201479617637
+Iteration [  280  ]
+Obj. val : 204.32647404992713, Avg. Ret : 101.28821637657518
+Iteration [  281  ]
+Obj. val : 251.6680676084225, Avg. Ret : 112.11133031789026
+Iteration [  282  ]
+Obj. val : 253.92044243428694, Avg. Ret : 100.31121027791949
+Iteration [  283  ]
+Obj. val : 262.4285304321987, Avg. Ret : 99.62395058875408
+Iteration [  284  ]
+Obj. val : 225.1898755847941, Avg. Ret : 101.08086964927865
+Iteration [  285  ]
+Obj. val : 302.6527092616692, Avg. Ret : 104.4168592908633
+Iteration [  286  ]
+Obj. val : 220.44349032026884, Avg. Ret : 104.39879696930781
+Iteration [  287  ]
+Obj. val : 257.55377798848974, Avg. Ret : 105.4738680164189
+Iteration [  288  ]
+Obj. val : 234.6749286092855, Avg. Ret : 82.30360249923622
+Iteration [  289  ]
+Obj. val : 224.26194917465685, Avg. Ret : 79.96320683089374
+Iteration [  290  ]
+Obj. val : 242.26879290297407, Avg. Ret : 100.87382605431992
+Iteration [  291  ]
+Obj. val : 288.8427129093766, Avg. Ret : 79.58737834356536
+Iteration [  292  ]
+Obj. val : 281.5144233002829, Avg. Ret : 94.94905025762165
+Iteration [  293  ]
+Obj. val : 297.1988698291752, Avg. Ret : 104.66542838507874
+Iteration [  294  ]
+Obj. val : 210.13695236978742, Avg. Ret : 96.1931676207435
+Iteration [  295  ]
+Obj. val : 217.71625599030747, Avg. Ret : 101.52145755495565
+Iteration [  296  ]
+Obj. val : 220.12291455707793, Avg. Ret : 103.58805918597511
+Iteration [  297  ]
+Obj. val : 275.25963497740906, Avg. Ret : 77.98300947873457
+Iteration [  298  ]
+Obj. val : 281.0223065374986, Avg. Ret : 99.05041002125309
+Iteration [  299  ]
+Obj. val : 183.1730555398428, Avg. Ret : 99.23901650174349
+checkpoint for objective values, iteration: 300. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_2.csv
+checkpoint for avg return values, iteration: 300. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_2.csv
+Iteration [  300  ]
+Obj. val : 286.0861812971875, Avg. Ret : 98.47054411475341
+Iteration [  301  ]
+Obj. val : 253.2113744710431, Avg. Ret : 80.20237854412609
+Iteration [  302  ]
+Obj. val : 237.15744579437805, Avg. Ret : 99.49759915825943
+Iteration [  303  ]
+Obj. val : 218.50814011149177, Avg. Ret : 108.9568363045893
+Iteration [  304  ]
+Obj. val : 269.3748600762111, Avg. Ret : 98.66298952664697
+Iteration [  305  ]
+Obj. val : 234.00727604693392, Avg. Ret : 99.07929407863232
+Iteration [  306  ]
+Obj. val : 274.7536038347601, Avg. Ret : 110.95757182946654
+Iteration [  307  ]
+Obj. val : 318.02888073155395, Avg. Ret : 94.67185165189278
+Iteration [  308  ]
+Obj. val : 232.14397904092476, Avg. Ret : 99.97539159088873
+Iteration [  309  ]
+Obj. val : 223.24179992603737, Avg. Ret : 101.69049407461412
+Iteration [  310  ]
+Obj. val : 242.25291241149873, Avg. Ret : 97.01384105873441
+Iteration [  311  ]
+Obj. val : 210.2125666773188, Avg. Ret : 100.9459209520992
+Iteration [  312  ]
+Obj. val : 316.4979845700607, Avg. Ret : 101.67247021220062
+Iteration [  313  ]
+Obj. val : 243.41729327761988, Avg. Ret : 90.69348153955187
+Iteration [  314  ]
+Obj. val : 247.97204063618122, Avg. Ret : 101.31808527852803
+Iteration [  315  ]
+Obj. val : 186.32305302721622, Avg. Ret : 74.65733125034588
+Iteration [  316  ]
+Obj. val : 217.62292311053756, Avg. Ret : 78.64558711757962
+Iteration [  317  ]
+Obj. val : 194.65749631708226, Avg. Ret : 107.28238416827169
+Iteration [  318  ]
+Obj. val : 239.93948990002053, Avg. Ret : 68.5154417650749
+Iteration [  319  ]
+Obj. val : 210.21185545958417, Avg. Ret : 77.48756498001438
+Iteration [  320  ]
+Obj. val : 226.3302690216492, Avg. Ret : 106.38652435869534
+Iteration [  321  ]
+Obj. val : 298.4131243581185, Avg. Ret : 85.77219057507557
+Iteration [  322  ]
+Obj. val : 218.63182878253838, Avg. Ret : 98.07573877085687
+Iteration [  323  ]
+Obj. val : 237.33612403418482, Avg. Ret : 104.52025985538369
+Iteration [  324  ]
+Obj. val : 283.0610946875788, Avg. Ret : 104.5422228427472
+Iteration [  325  ]
+Obj. val : 235.63782634340265, Avg. Ret : 102.77399804188272
+Iteration [  326  ]
+Obj. val : 235.90051484462617, Avg. Ret : 103.35591417946748
+Iteration [  327  ]
+Obj. val : 189.24401506185288, Avg. Ret : 95.47779616225151
+Iteration [  328  ]
+Obj. val : 297.23714466570425, Avg. Ret : 102.734860470211
+Iteration [  329  ]
+Obj. val : 292.2440347098076, Avg. Ret : 95.5463709336008
+Iteration [  330  ]
+Obj. val : 209.06388514407644, Avg. Ret : 112.32037666337368
+Iteration [  331  ]
+Obj. val : 238.39916275484174, Avg. Ret : 99.87023045604239
+Iteration [  332  ]
+Obj. val : 227.63381819591677, Avg. Ret : 102.77425354681705
+Iteration [  333  ]
+Obj. val : 326.91798551652664, Avg. Ret : 76.55158943967989
+Iteration [  334  ]
+Obj. val : 242.92930437016298, Avg. Ret : 81.34757944842059
+Iteration [  335  ]
+Obj. val : 227.77068884407234, Avg. Ret : 99.40821040243007
+Iteration [  336  ]
+Obj. val : 264.4784956347608, Avg. Ret : 75.39032459568337
+Iteration [  337  ]
+Obj. val : 258.76472528546765, Avg. Ret : 79.55338149276967
+Iteration [  338  ]
+Obj. val : 206.0851300932561, Avg. Ret : 99.27664264808783
+Iteration [  339  ]
+Obj. val : 274.94325921223776, Avg. Ret : 84.64242078573038
+Iteration [  340  ]
+Obj. val : 223.89275062913347, Avg. Ret : 79.27245672732107
+Iteration [  341  ]
+Obj. val : 292.5654875711414, Avg. Ret : 103.55059526484295
+Iteration [  342  ]
+Obj. val : 234.3424558339397, Avg. Ret : 110.00091800936269
+Iteration [  343  ]
+Obj. val : 211.39768695480896, Avg. Ret : 114.46957310657416
+Iteration [  344  ]
+Obj. val : 213.48153320336345, Avg. Ret : 111.74710772802588
+Iteration [  345  ]
+Obj. val : 272.01708189166584, Avg. Ret : 112.04982562286277
+Iteration [  346  ]
+Obj. val : 280.48978850622467, Avg. Ret : 109.89606986779741
+Iteration [  347  ]
+Obj. val : 224.56029109867836, Avg. Ret : 109.03626197423162
+Iteration [  348  ]
+Obj. val : 267.1436433737285, Avg. Ret : 88.92834730551374
+Iteration [  349  ]
+Obj. val : 208.22668115279976, Avg. Ret : 86.50774334833159
+Iteration [  350  ]
+Obj. val : 220.83319976963836, Avg. Ret : 105.44759441285008
+Iteration [  351  ]
+Obj. val : 226.85306868225155, Avg. Ret : 109.84877701648524
+Iteration [  352  ]
+Obj. val : 256.3089477179586, Avg. Ret : 111.12532662682315
+Iteration [  353  ]
+Obj. val : 228.11423327880806, Avg. Ret : 105.61917331456232
+Iteration [  354  ]
+Obj. val : 229.92672178662474, Avg. Ret : 109.87048667586558
+Iteration [  355  ]
+Obj. val : 221.669386230825, Avg. Ret : 111.7766029529294
+Iteration [  356  ]
+Obj. val : 239.52806734654357, Avg. Ret : 107.48037002826244
+Iteration [  357  ]
+Obj. val : 224.64263231753156, Avg. Ret : 103.4832756151475
+Iteration [  358  ]
+Obj. val : 235.73861707948237, Avg. Ret : 116.47271713766081
+Iteration [  359  ]
+Obj. val : 273.11295022219235, Avg. Ret : 106.67743619871257
+Iteration [  360  ]
+Obj. val : 263.71276436964996, Avg. Ret : 99.87369360455004
+Iteration [  361  ]
+Obj. val : 190.41319873355116, Avg. Ret : 97.47220406488955
+Iteration [  362  ]
+Obj. val : 253.38682665669154, Avg. Ret : 114.35734071298351
+Iteration [  363  ]
+Obj. val : 210.41921317942666, Avg. Ret : 90.57852892690694
+Iteration [  364  ]
+Obj. val : 206.11428268389653, Avg. Ret : 101.36648495781928
+Iteration [  365  ]
+Obj. val : 376.9785848151621, Avg. Ret : 110.00697405824738
+Iteration [  366  ]
+Obj. val : 287.3863584454372, Avg. Ret : 102.6538504582642
+Iteration [  367  ]
+Obj. val : 245.79546314052817, Avg. Ret : 117.42143527022426
+Iteration [  368  ]
+Obj. val : 210.6967176818474, Avg. Ret : 101.93393492339308
+Iteration [  369  ]
+Obj. val : 207.47510101593696, Avg. Ret : 74.29949504255107
+Iteration [  370  ]
+Obj. val : 206.74288335251435, Avg. Ret : 82.26285453829078
+Iteration [  371  ]
+Obj. val : 210.59469398336154, Avg. Ret : 103.42770118363588
+Iteration [  372  ]
+Obj. val : 246.78091777504892, Avg. Ret : 100.16801429035792
+Iteration [  373  ]
+Obj. val : 214.28282472979765, Avg. Ret : 105.23532177612422
+Iteration [  374  ]
+Obj. val : 264.1263773572608, Avg. Ret : 110.86301729300052
+Iteration [  375  ]
+Obj. val : 252.1212635379986, Avg. Ret : 76.52662586655272
+Iteration [  376  ]
+Obj. val : 232.36576974674605, Avg. Ret : 87.45464279492755
+Iteration [  377  ]
+Obj. val : 204.80388083540274, Avg. Ret : 105.24779881994594
+Iteration [  378  ]
+Obj. val : 202.2163259257756, Avg. Ret : 109.91861063051113
+Iteration [  379  ]
+Obj. val : 179.64049284964273, Avg. Ret : 107.50564629055485
+Iteration [  380  ]
+Obj. val : 218.96828840074846, Avg. Ret : 105.98583182958852
+Iteration [  381  ]
+Obj. val : 226.89869267124539, Avg. Ret : 94.73741786377312
+Iteration [  382  ]
+Obj. val : 234.0782115458327, Avg. Ret : 83.52881029531487
+Iteration [  383  ]
+Obj. val : 233.86094441841652, Avg. Ret : 102.44337021403207
+Iteration [  384  ]
+Obj. val : 235.60963052026628, Avg. Ret : 104.59065276154148
+Iteration [  385  ]
+Obj. val : 288.0005906797774, Avg. Ret : 83.16340850768776
+Iteration [  386  ]
+Obj. val : 217.10649911401237, Avg. Ret : 101.49185698066216
+Iteration [  387  ]
+Obj. val : 267.4475462597151, Avg. Ret : 81.1945423861463
+Iteration [  388  ]
+Obj. val : 239.14530750077682, Avg. Ret : 80.93544285808461
+Iteration [  389  ]
+Obj. val : 196.48416910697802, Avg. Ret : 102.46306268089137
+Iteration [  390  ]
+Obj. val : 229.69304870560836, Avg. Ret : 79.3921208593159
+Iteration [  391  ]
+Obj. val : 229.8090294720021, Avg. Ret : 88.63406506486263
+Iteration [  392  ]
+Obj. val : 223.54404808949397, Avg. Ret : 106.8842963499206
+Iteration [  393  ]
+Obj. val : 254.08755514224384, Avg. Ret : 81.35669483059932
+Iteration [  394  ]
+Obj. val : 228.59737121124218, Avg. Ret : 75.90450644122855
+Iteration [  395  ]
+Obj. val : 262.31166811032625, Avg. Ret : 114.58518892262146
+Iteration [  396  ]
+Obj. val : 223.0292742018181, Avg. Ret : 100.50272888910702
+Iteration [  397  ]
+Obj. val : 289.42656766488864, Avg. Ret : 112.40583860061926
+Iteration [  398  ]
+Obj. val : 238.35741527534555, Avg. Ret : 101.10637580567521
+Iteration [  399  ]
+Obj. val : 268.3167700830237, Avg. Ret : 82.07073426939368
+checkpoint for objective values, iteration: 400. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_2.csv
+checkpoint for avg return values, iteration: 400. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_2.csv
+Iteration [  400  ]
+Obj. val : 200.53304426417125, Avg. Ret : 84.66953993564317
+Iteration [  401  ]
+Obj. val : 260.1156547168163, Avg. Ret : 108.98122476544701
+Iteration [  402  ]
+Obj. val : 221.6252337168221, Avg. Ret : 87.84492123715658
+Iteration [  403  ]
+Obj. val : 259.3516561288036, Avg. Ret : 81.15685814008407
+Iteration [  404  ]
+Obj. val : 192.2196716176723, Avg. Ret : 112.71334635379615
+Iteration [  405  ]
+Obj. val : 219.0111642064978, Avg. Ret : 85.80049108796229
+Iteration [  406  ]
+Obj. val : 232.1923540531917, Avg. Ret : 76.69729931903689
+Iteration [  407  ]
+Obj. val : 340.40716814592804, Avg. Ret : 114.31142634925847
+Iteration [  408  ]
+Obj. val : 214.91568134365863, Avg. Ret : 108.30039841982783
+Iteration [  409  ]
+Obj. val : 351.43046675430827, Avg. Ret : 112.2223752040231
+Iteration [  410  ]
+Obj. val : 262.723723091471, Avg. Ret : 108.79027505452618
+Iteration [  411  ]
+Obj. val : 251.64490224691832, Avg. Ret : 112.77275212344492
+Iteration [  412  ]
+Obj. val : 233.95723240639276, Avg. Ret : 84.45861628651055
+Iteration [  413  ]
+Obj. val : 223.16872694902452, Avg. Ret : 107.34646235197873
+Iteration [  414  ]
+Obj. val : 284.57362391234767, Avg. Ret : 93.51242034286557
+Iteration [  415  ]
+Obj. val : 239.03638814639314, Avg. Ret : 113.3460410971815
+Iteration [  416  ]
+Obj. val : 252.3930603634904, Avg. Ret : 111.81124985279953
+Iteration [  417  ]
+Obj. val : 193.92296750555465, Avg. Ret : 81.75065831500572
+Iteration [  418  ]
+Obj. val : 227.1528557202978, Avg. Ret : 75.73467644694443
+Iteration [  419  ]
+Obj. val : 239.73224096945899, Avg. Ret : 114.42399755619648
+Iteration [  420  ]
+Obj. val : 237.03958805990422, Avg. Ret : 81.3051896932935
+Iteration [  421  ]
+Obj. val : 287.83325034013944, Avg. Ret : 68.70225360346028
+Iteration [  422  ]
+Obj. val : 249.77992343584066, Avg. Ret : 103.71138504634466
+Iteration [  423  ]
+Obj. val : 234.9794561310545, Avg. Ret : 100.81865660345844
+Iteration [  424  ]
+Obj. val : 262.18883280528394, Avg. Ret : 123.9247618130686
+Iteration [  425  ]
+Obj. val : 215.73215914770614, Avg. Ret : 103.93748279659538
+Iteration [  426  ]
+Obj. val : 199.18721608733705, Avg. Ret : 86.4351166691893
+Iteration [  427  ]
+Obj. val : 215.66862402322445, Avg. Ret : 75.99046971715318
+Iteration [  428  ]
+Obj. val : 228.05858036613333, Avg. Ret : 106.93352886171681
+Iteration [  429  ]
+Obj. val : 343.61504026418817, Avg. Ret : 81.87120285886407
+Iteration [  430  ]
+Obj. val : 255.11373836450642, Avg. Ret : 88.62641347119012
+Iteration [  431  ]
+Obj. val : 225.045557037393, Avg. Ret : 104.34776374397428
+Iteration [  432  ]
+Obj. val : 206.43422781484148, Avg. Ret : 73.48223222235906
+Iteration [  433  ]
+Obj. val : 244.94089248626648, Avg. Ret : 79.12643517037773
+Iteration [  434  ]
+Obj. val : 250.60892629863656, Avg. Ret : 105.93304983217982
+Iteration [  435  ]
+Obj. val : 233.75592680344187, Avg. Ret : 82.84233764705782
+Iteration [  436  ]
+Obj. val : 196.91320010296985, Avg. Ret : 75.82433364884446
+Iteration [  437  ]
+Obj. val : 303.9257037277327, Avg. Ret : 115.21547038164819
+Iteration [  438  ]
+Obj. val : 211.70019114870558, Avg. Ret : 84.30905394803098
+Iteration [  439  ]
+Obj. val : 223.7992849172391, Avg. Ret : 76.14762396497608
+Iteration [  440  ]
+Obj. val : 185.60007980035058, Avg. Ret : 114.09521240530914
+Iteration [  441  ]
+Obj. val : 215.40225437343753, Avg. Ret : 83.00668499879936
+Iteration [  442  ]
+Obj. val : 193.69802684552474, Avg. Ret : 93.66836771334005
+Iteration [  443  ]
+Obj. val : 243.52979737050947, Avg. Ret : 111.7579750212137
+Iteration [  444  ]
+Obj. val : 233.65356048503565, Avg. Ret : 99.31527497510504
+Iteration [  445  ]
+Obj. val : 308.08917287921344, Avg. Ret : 81.17426630617084
+Iteration [  446  ]
+Obj. val : 260.59716555014774, Avg. Ret : 108.48788925805991
+Iteration [  447  ]
+Obj. val : 298.3148688948725, Avg. Ret : 100.9925125376507
+Iteration [  448  ]
+Obj. val : 285.6734689506701, Avg. Ret : 73.15574621259628
+Iteration [  449  ]
+Obj. val : 244.17477632102234, Avg. Ret : 113.2071007810796
+Iteration [  450  ]
+Obj. val : 238.4523012671786, Avg. Ret : 76.83316284850399
+Iteration [  451  ]
+Obj. val : 238.47347026173014, Avg. Ret : 60.141919674407546
+Iteration [  452  ]
+Obj. val : 197.74941472115881, Avg. Ret : 111.63139163491391
+Iteration [  453  ]
+Obj. val : 232.77018294463008, Avg. Ret : 88.7076546089292
+Iteration [  454  ]
+Obj. val : 271.09171836598176, Avg. Ret : 100.11084258523732
+Iteration [  455  ]
+Obj. val : 255.68281532662996, Avg. Ret : 103.59520627911083
+Iteration [  456  ]
+Obj. val : 203.8534584171951, Avg. Ret : 91.71478684550343
+Iteration [  457  ]
+Obj. val : 271.076678177897, Avg. Ret : 119.32243549474482
+Iteration [  458  ]
+Obj. val : 205.61595878496274, Avg. Ret : 109.29836755058187
+Iteration [  459  ]
+Obj. val : 239.45800624489155, Avg. Ret : 54.562382482065665
+Iteration [  460  ]
+Obj. val : 232.39897582343195, Avg. Ret : 60.22253239436416
+Iteration [  461  ]
+Obj. val : 234.75196460159984, Avg. Ret : 108.406768958921
+Iteration [  462  ]
+Obj. val : 232.53544842515973, Avg. Ret : 76.44420163416926
+Iteration [  463  ]
+Obj. val : 195.81254710307, Avg. Ret : 72.46219480130223
+Iteration [  464  ]
+Obj. val : 272.7045785655389, Avg. Ret : 107.25965799506845
+Iteration [  465  ]
+Obj. val : 224.2331938557392, Avg. Ret : 67.12325113382121
+Iteration [  466  ]
+Obj. val : 234.6776314778553, Avg. Ret : 67.0293467558925
+Iteration [  467  ]
+Obj. val : 214.66360683211198, Avg. Ret : 106.77879242176294
+Iteration [  468  ]
+Obj. val : 264.56586457659324, Avg. Ret : 74.91640378819643
+Iteration [  469  ]
+Obj. val : 210.138374865235, Avg. Ret : 67.85233070069494
+Iteration [  470  ]
+Obj. val : 193.85172240477627, Avg. Ret : 116.89620892096237
+Iteration [  471  ]
+Obj. val : 234.2573779857899, Avg. Ret : 79.81691187577272
+Iteration [  472  ]
+Obj. val : 268.5982647195104, Avg. Ret : 114.84158543187168
+Iteration [  473  ]
+Obj. val : 251.8410278001657, Avg. Ret : 108.00968517460632
+Iteration [  474  ]
+Obj. val : 251.21686277743134, Avg. Ret : 111.9320444525543
+Iteration [  475  ]
+Obj. val : 267.27688357624976, Avg. Ret : 104.46096198841043
+Iteration [  476  ]
+Obj. val : 217.21520569228898, Avg. Ret : 108.44023361799898
+Iteration [  477  ]
+Obj. val : 231.2565279491225, Avg. Ret : 79.6324672423088
+Iteration [  478  ]
+Obj. val : 251.56270507351726, Avg. Ret : 72.57517961045951
+Iteration [  479  ]
+Obj. val : 251.68647316476475, Avg. Ret : 109.57932320153078
+Iteration [  480  ]
+Obj. val : 225.9857457845606, Avg. Ret : 123.1860201871878
+Iteration [  481  ]
+Obj. val : 231.84256439876853, Avg. Ret : 100.1423827329909
+Iteration [  482  ]
+Obj. val : 259.53385906124487, Avg. Ret : 106.57517403331018
+Iteration [  483  ]
+Obj. val : 239.35551774341707, Avg. Ret : 74.0276471686576
+Iteration [  484  ]
+Obj. val : 240.45062016479247, Avg. Ret : 78.70200650236116
+Iteration [  485  ]
+Obj. val : 226.9329552635794, Avg. Ret : 112.03323690672032
+Iteration [  486  ]
+Obj. val : 244.87970272218132, Avg. Ret : 113.21997400901456
+Iteration [  487  ]
+Obj. val : 185.473317887471, Avg. Ret : 93.18074475817397
+Iteration [  488  ]
+Obj. val : 213.18886714344274, Avg. Ret : 103.29144709335722
+Iteration [  489  ]
+Obj. val : 243.8784838520872, Avg. Ret : 76.38254117902987
+Iteration [  490  ]
+Obj. val : 229.07503731416142, Avg. Ret : 58.09911810902148
+Iteration [  491  ]
+Obj. val : 238.9068602701063, Avg. Ret : 112.45519698821643
+Iteration [  492  ]
+Obj. val : 211.31236347091144, Avg. Ret : 99.37129597791359
+Iteration [  493  ]
+Obj. val : 219.87993377122376, Avg. Ret : 100.76241899484798
+Iteration [  494  ]
+Obj. val : 282.13247884909725, Avg. Ret : 104.89875310032117
+Iteration [  495  ]
+Obj. val : 252.1537848098259, Avg. Ret : 105.57552385989975
+Iteration [  496  ]
+Obj. val : 251.30644642374764, Avg. Ret : 109.05845639196204
+Iteration [  497  ]
+Obj. val : 205.32107641089755, Avg. Ret : 107.93194423885714
+Iteration [  498  ]
+Obj. val : 198.65527143418865, Avg. Ret : 103.63032150962297
+Iteration [  499  ]
+Obj. val : 266.6307977587993, Avg. Ret : 105.89365745129258
+checkpoint for objective values, iteration: 500. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_2.csv
+checkpoint for objective values, iteration: 500. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_2.csv
+batch = 3
+inside iterator
+Iteration [  0  ]
+Obj. val : 105.09110422600591, Avg. Ret : 54.0284201750327
+Iteration [  1  ]
+Obj. val : 93.38632183294035, Avg. Ret : 49.78563928672182
+Iteration [  2  ]
+Obj. val : 95.28110303900982, Avg. Ret : 55.18001830915292
+Iteration [  3  ]
+Obj. val : 89.10314814748114, Avg. Ret : 52.685411159499026
+Iteration [  4  ]
+Obj. val : 81.93955659535455, Avg. Ret : 53.063115866279084
+Iteration [  5  ]
+Obj. val : 91.49340388447554, Avg. Ret : 57.9260528492285
+Iteration [  6  ]
+Obj. val : 110.90747877161532, Avg. Ret : 53.10411060832637
+Iteration [  7  ]
+Obj. val : 127.97743898757183, Avg. Ret : 54.3446314177756
+Iteration [  8  ]
+Obj. val : 94.53774323305238, Avg. Ret : 54.59602017503832
+Iteration [  9  ]
+Obj. val : 127.33558391351589, Avg. Ret : 53.07848259168742
+Iteration [  10  ]
+Obj. val : 131.7265586385174, Avg. Ret : 51.48130382472432
+Iteration [  11  ]
+Obj. val : 110.61554846158106, Avg. Ret : 52.945112574420875
+Iteration [  12  ]
+Obj. val : 153.79104197660922, Avg. Ret : 54.37321839544486
+Iteration [  13  ]
+Obj. val : 111.82988925239073, Avg. Ret : 52.33813588661234
+Iteration [  14  ]
+Obj. val : 128.29005262587992, Avg. Ret : 51.4148867996952
+Iteration [  15  ]
+Obj. val : 126.90083881064426, Avg. Ret : 54.03228543351698
+Iteration [  16  ]
+Obj. val : 110.15171654948105, Avg. Ret : 52.52417542945061
+Iteration [  17  ]
+Obj. val : 120.23064486733752, Avg. Ret : 54.35181840506321
+Iteration [  18  ]
+Obj. val : 116.19395205881688, Avg. Ret : 57.38540644233387
+Iteration [  19  ]
+Obj. val : 117.80271167377104, Avg. Ret : 53.62202133142257
+Iteration [  20  ]
+Obj. val : 110.52836636798456, Avg. Ret : 51.22424508252547
+Iteration [  21  ]
+Obj. val : 119.5921933145981, Avg. Ret : 56.058555242495665
+Iteration [  22  ]
+Obj. val : 96.02446975269058, Avg. Ret : 46.610705543483554
+Iteration [  23  ]
+Obj. val : 116.51578288927298, Avg. Ret : 44.3556595947869
+Iteration [  24  ]
+Obj. val : 100.60313242388614, Avg. Ret : 44.14914256465388
+Iteration [  25  ]
+Obj. val : 129.9670967876462, Avg. Ret : 42.237170503239604
+Iteration [  26  ]
+Obj. val : 128.64757317313817, Avg. Ret : 37.13560288496527
+Iteration [  27  ]
+Obj. val : 116.66238040645995, Avg. Ret : 55.64612442588409
+Iteration [  28  ]
+Obj. val : 119.83004579227699, Avg. Ret : 67.32164745580326
+Iteration [  29  ]
+Obj. val : 103.52538214383686, Avg. Ret : 51.77083229881359
+Iteration [  30  ]
+Obj. val : 128.2708562248272, Avg. Ret : 35.36698912445986
+Iteration [  31  ]
+Obj. val : 98.23046842575786, Avg. Ret : 69.65898373617358
+Iteration [  32  ]
+Obj. val : 104.20168078237387, Avg. Ret : 34.26051256347691
+Iteration [  33  ]
+Obj. val : 112.51226459115573, Avg. Ret : 60.65130837454628
+Iteration [  34  ]
+Obj. val : 116.90240977625687, Avg. Ret : 36.48726674025546
+Iteration [  35  ]
+Obj. val : 121.35482794278481, Avg. Ret : 68.70283128419509
+Iteration [  36  ]
+Obj. val : 141.06622479686814, Avg. Ret : 35.958268875069365
+Iteration [  37  ]
+Obj. val : 109.46083008631956, Avg. Ret : 69.95394915045935
+Iteration [  38  ]
+Obj. val : 131.6250008580722, Avg. Ret : 55.17621924772109
+Iteration [  39  ]
+Obj. val : 97.41697100751516, Avg. Ret : 58.3168783134793
+Iteration [  40  ]
+Obj. val : 115.82855245796009, Avg. Ret : 34.7210040337136
+Iteration [  41  ]
+Obj. val : 107.30779209240117, Avg. Ret : 58.77067070402479
+Iteration [  42  ]
+Obj. val : 118.93080802997521, Avg. Ret : 51.964228601569395
+Iteration [  43  ]
+Obj. val : 113.14858415314065, Avg. Ret : 70.80372839979361
+Iteration [  44  ]
+Obj. val : 121.88776092408534, Avg. Ret : 53.89928211128089
+Iteration [  45  ]
+Obj. val : 133.64311673006995, Avg. Ret : 51.18404446040024
+Iteration [  46  ]
+Obj. val : 141.64888345639702, Avg. Ret : 71.33371541495937
+Iteration [  47  ]
+Obj. val : 134.3392232944415, Avg. Ret : 53.70605967029469
+Iteration [  48  ]
+Obj. val : 106.67005198749115, Avg. Ret : 59.02554891008555
+Iteration [  49  ]
+Obj. val : 96.16217993848053, Avg. Ret : 54.494052139385666
+Iteration [  50  ]
+Obj. val : 119.88515469193825, Avg. Ret : 55.42745933572517
+Iteration [  51  ]
+Obj. val : 119.09455695268613, Avg. Ret : 60.20266259940523
+Iteration [  52  ]
+Obj. val : 105.37776228780893, Avg. Ret : 53.45506634300536
+Iteration [  53  ]
+Obj. val : 151.94817172323783, Avg. Ret : 60.01866213459162
+Iteration [  54  ]
+Obj. val : 97.08707351717476, Avg. Ret : 48.07570192067381
+Iteration [  55  ]
+Obj. val : 99.27492278483354, Avg. Ret : 62.671471966908186
+Iteration [  56  ]
+Obj. val : 97.59662507677095, Avg. Ret : 54.277320307751914
+Iteration [  57  ]
+Obj. val : 122.96194998266174, Avg. Ret : 62.41086971379724
+Iteration [  58  ]
+Obj. val : 116.7762976309121, Avg. Ret : 88.79145189857691
+Iteration [  59  ]
+Obj. val : 96.10806792277026, Avg. Ret : 58.72463580961068
+Iteration [  60  ]
+Obj. val : 113.82359193071805, Avg. Ret : 70.30272959657505
+Iteration [  61  ]
+Obj. val : 114.95250554821328, Avg. Ret : 60.1173356953724
+Iteration [  62  ]
+Obj. val : 114.27102512633586, Avg. Ret : 63.61971274880849
+Iteration [  63  ]
+Obj. val : 99.38488515059309, Avg. Ret : 52.707480966510644
+Iteration [  64  ]
+Obj. val : 117.66102705636398, Avg. Ret : 66.47037338602601
+Iteration [  65  ]
+Obj. val : 111.08430015591672, Avg. Ret : 65.97524084965359
+Iteration [  66  ]
+Obj. val : 103.11906061488034, Avg. Ret : 67.44556167840013
+Iteration [  67  ]
+Obj. val : 102.92308076682917, Avg. Ret : 54.51257001817937
+Iteration [  68  ]
+Obj. val : 101.32779389487399, Avg. Ret : 59.28193553324033
+Iteration [  69  ]
+Obj. val : 122.5416380594459, Avg. Ret : 70.2505640640571
+Iteration [  70  ]
+Obj. val : 105.81451300340619, Avg. Ret : 65.62386495384845
+Iteration [  71  ]
+Obj. val : 90.9925873900155, Avg. Ret : 62.5011940427174
+Iteration [  72  ]
+Obj. val : 97.97541385066164, Avg. Ret : 67.61539229200078
+Iteration [  73  ]
+Obj. val : 107.92031637354008, Avg. Ret : 62.19616382795921
+Iteration [  74  ]
+Obj. val : 115.10745864651281, Avg. Ret : 72.44192941247613
+Iteration [  75  ]
+Obj. val : 99.34938142689091, Avg. Ret : 60.83276675779899
+Iteration [  76  ]
+Obj. val : 99.06723564895537, Avg. Ret : 66.45766120175843
+Iteration [  77  ]
+Obj. val : 111.13001172370285, Avg. Ret : 69.26006940868989
+Iteration [  78  ]
+Obj. val : 94.36719337710882, Avg. Ret : 67.72642957833483
+Iteration [  79  ]
+Obj. val : 103.9446716503467, Avg. Ret : 70.75039500991751
+Iteration [  80  ]
+Obj. val : 95.98854728398463, Avg. Ret : 72.3239092699562
+Iteration [  81  ]
+Obj. val : 95.07121572934984, Avg. Ret : 62.44414200626554
+Iteration [  82  ]
+Obj. val : 102.36834347790226, Avg. Ret : 67.3824104541725
+Iteration [  83  ]
+Obj. val : 96.22157918025665, Avg. Ret : 70.35192351322154
+Iteration [  84  ]
+Obj. val : 100.4075508372535, Avg. Ret : 65.35352279025085
+Iteration [  85  ]
+Obj. val : 97.3880191931377, Avg. Ret : 70.90381850426877
+Iteration [  86  ]
+Obj. val : 102.54492853169339, Avg. Ret : 71.57338545095372
+Iteration [  87  ]
+Obj. val : 113.4536885795118, Avg. Ret : 71.40781726137119
+Iteration [  88  ]
+Obj. val : 103.38511185385968, Avg. Ret : 65.72186328929142
+Iteration [  89  ]
+Obj. val : 108.09278341415124, Avg. Ret : 69.32572091108221
+Iteration [  90  ]
+Obj. val : 110.32497484965275, Avg. Ret : 67.24622334217018
+Iteration [  91  ]
+Obj. val : 106.06123170188356, Avg. Ret : 63.82728131975932
+Iteration [  92  ]
+Obj. val : 129.74130869116303, Avg. Ret : 67.06957524284681
+Iteration [  93  ]
+Obj. val : 139.3764244262524, Avg. Ret : 70.00393588444665
+Iteration [  94  ]
+Obj. val : 95.32460985259611, Avg. Ret : 60.388583929155196
+Iteration [  95  ]
+Obj. val : 112.10133788448553, Avg. Ret : 67.6423773773264
+Iteration [  96  ]
+Obj. val : 110.75798438401813, Avg. Ret : 69.58037825495244
+Iteration [  97  ]
+Obj. val : 94.950627315994, Avg. Ret : 72.14339189969661
+Iteration [  98  ]
+Obj. val : 110.22157547229175, Avg. Ret : 65.56337495739731
+Iteration [  99  ]
+Obj. val : 115.83885858156135, Avg. Ret : 70.34317192905245
+checkpoint for objective values, iteration: 100. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_3.csv
+checkpoint for avg return values, iteration: 100. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_3.csv
+Iteration [  100  ]
+Obj. val : 91.64049754896082, Avg. Ret : 64.67565834856369
+Iteration [  101  ]
+Obj. val : 118.7741626530777, Avg. Ret : 68.18025353893884
+Iteration [  102  ]
+Obj. val : 116.6601744803011, Avg. Ret : 68.6829938508566
+Iteration [  103  ]
+Obj. val : 142.0896835102066, Avg. Ret : 70.88028527762569
+Iteration [  104  ]
+Obj. val : 113.54266278208814, Avg. Ret : 70.34262696669492
+Iteration [  105  ]
+Obj. val : 120.24305209573902, Avg. Ret : 65.22774225358543
+Iteration [  106  ]
+Obj. val : 91.87730521524206, Avg. Ret : 69.07248483087695
+Iteration [  107  ]
+Obj. val : 104.74331913218599, Avg. Ret : 75.2842220968497
+Iteration [  108  ]
+Obj. val : 110.94501904469853, Avg. Ret : 69.5543268363927
+Iteration [  109  ]
+Obj. val : 103.43398555396668, Avg. Ret : 68.49096305892857
+Iteration [  110  ]
+Obj. val : 127.37170561309517, Avg. Ret : 65.83127423234366
+Iteration [  111  ]
+Obj. val : 121.13670435955859, Avg. Ret : 68.96739860333889
+Iteration [  112  ]
+Obj. val : 102.07403251956121, Avg. Ret : 68.74825761910175
+Iteration [  113  ]
+Obj. val : 111.99398615684426, Avg. Ret : 67.01829924203759
+Iteration [  114  ]
+Obj. val : 97.89707202566922, Avg. Ret : 72.08572774769505
+Iteration [  115  ]
+Obj. val : 143.30621625576936, Avg. Ret : 69.66053867054613
+Iteration [  116  ]
+Obj. val : 88.1125242612492, Avg. Ret : 65.0248361157327
+Iteration [  117  ]
+Obj. val : 96.70828201770453, Avg. Ret : 73.87565131457025
+Iteration [  118  ]
+Obj. val : 104.28821385943559, Avg. Ret : 73.71198731849701
+Iteration [  119  ]
+Obj. val : 103.64587454374833, Avg. Ret : 69.93445359423696
+Iteration [  120  ]
+Obj. val : 95.8795512264932, Avg. Ret : 68.00626511109338
+Iteration [  121  ]
+Obj. val : 115.38888679149473, Avg. Ret : 71.06004299763114
+Iteration [  122  ]
+Obj. val : 102.00938913316404, Avg. Ret : 68.99137638484311
+Iteration [  123  ]
+Obj. val : 107.34562562617208, Avg. Ret : 69.77441068392876
+Iteration [  124  ]
+Obj. val : 101.96468460119739, Avg. Ret : 65.74898395386033
+Iteration [  125  ]
+Obj. val : 109.5247070163305, Avg. Ret : 68.05161246768567
+Iteration [  126  ]
+Obj. val : 113.07406250071818, Avg. Ret : 70.71151676371522
+Iteration [  127  ]
+Obj. val : 129.71956247453278, Avg. Ret : 69.06566883129284
+Iteration [  128  ]
+Obj. val : 123.8301964650524, Avg. Ret : 72.45493531143693
+Iteration [  129  ]
+Obj. val : 123.44066297780488, Avg. Ret : 64.77857338815575
+Iteration [  130  ]
+Obj. val : 94.82666680653159, Avg. Ret : 71.76870622045017
+Iteration [  131  ]
+Obj. val : 136.44783277635023, Avg. Ret : 68.96818117256652
+Iteration [  132  ]
+Obj. val : 106.08327674921674, Avg. Ret : 65.77287701905553
+Iteration [  133  ]
+Obj. val : 130.90300027186743, Avg. Ret : 64.98737384721578
+Iteration [  134  ]
+Obj. val : 121.59899579608455, Avg. Ret : 68.38825826746019
+Iteration [  135  ]
+Obj. val : 115.37961956668535, Avg. Ret : 70.57042842820356
+Iteration [  136  ]
+Obj. val : 115.5265975530142, Avg. Ret : 66.21426161271057
+Iteration [  137  ]
+Obj. val : 113.11985762516632, Avg. Ret : 66.906470170664
+Iteration [  138  ]
+Obj. val : 115.65398855677611, Avg. Ret : 68.4006635749772
+Iteration [  139  ]
+Obj. val : 102.35124498766456, Avg. Ret : 70.71235697742155
+Iteration [  140  ]
+Obj. val : 101.88039100084227, Avg. Ret : 68.38687472921607
+Iteration [  141  ]
+Obj. val : 117.10401440057156, Avg. Ret : 70.09529455413842
+Iteration [  142  ]
+Obj. val : 96.04840397108582, Avg. Ret : 64.28557558335096
+Iteration [  143  ]
+Obj. val : 103.11608975167941, Avg. Ret : 72.69631184895157
+Iteration [  144  ]
+Obj. val : 103.24959290480334, Avg. Ret : 65.20435574904889
+Iteration [  145  ]
+Obj. val : 116.68313224325144, Avg. Ret : 71.46767948754719
+Iteration [  146  ]
+Obj. val : 134.96565727458247, Avg. Ret : 67.67159729630178
+Iteration [  147  ]
+Obj. val : 108.91718875983301, Avg. Ret : 68.71835238114298
+Iteration [  148  ]
+Obj. val : 110.74142606202015, Avg. Ret : 70.03350097665367
+Iteration [  149  ]
+Obj. val : 103.19353913752623, Avg. Ret : 67.80351345121333
+Iteration [  150  ]
+Obj. val : 90.37902158416603, Avg. Ret : 70.1642348841075
+Iteration [  151  ]
+Obj. val : 99.3590871709003, Avg. Ret : 68.009882941049
+Iteration [  152  ]
+Obj. val : 88.84626149893884, Avg. Ret : 65.93844724368314
+Iteration [  153  ]
+Obj. val : 100.08618445872618, Avg. Ret : 68.28223327075978
+Iteration [  154  ]
+Obj. val : 121.9654764901459, Avg. Ret : 68.29705098701307
+Iteration [  155  ]
+Obj. val : 108.92254039913774, Avg. Ret : 62.03804292477401
+Iteration [  156  ]
+Obj. val : 114.23043455523549, Avg. Ret : 69.2164490965809
+Iteration [  157  ]
+Obj. val : 120.87310912991214, Avg. Ret : 65.9439217356473
+Iteration [  158  ]
+Obj. val : 114.92569702584464, Avg. Ret : 71.75405220453014
+Iteration [  159  ]
+Obj. val : 139.42365958095496, Avg. Ret : 69.2689276103755
+Iteration [  160  ]
+Obj. val : 109.5316496344019, Avg. Ret : 70.80439705835302
+Iteration [  161  ]
+Obj. val : 125.83836500002734, Avg. Ret : 65.00180714938598
+Iteration [  162  ]
+Obj. val : 104.60289894478016, Avg. Ret : 65.69926908883961
+Iteration [  163  ]
+Obj. val : 110.7472554453282, Avg. Ret : 67.45821930073103
+Iteration [  164  ]
+Obj. val : 104.75475238970614, Avg. Ret : 66.37503086302722
+Iteration [  165  ]
+Obj. val : 98.1338518212729, Avg. Ret : 67.1484001639717
+Iteration [  166  ]
+Obj. val : 119.04692794619943, Avg. Ret : 68.66128573327575
+Iteration [  167  ]
+Obj. val : 103.61723825492868, Avg. Ret : 64.47579285184355
+Iteration [  168  ]
+Obj. val : 97.7215010065574, Avg. Ret : 63.91638687334937
+Iteration [  169  ]
+Obj. val : 103.25917769871725, Avg. Ret : 69.73798046684401
+Iteration [  170  ]
+Obj. val : 107.59233063595579, Avg. Ret : 70.40819208266156
+Iteration [  171  ]
+Obj. val : 135.23681118395015, Avg. Ret : 66.13273293469227
+Iteration [  172  ]
+Obj. val : 126.56749927374119, Avg. Ret : 59.4532191036689
+Iteration [  173  ]
+Obj. val : 135.5958935838109, Avg. Ret : 69.04288946508512
+Iteration [  174  ]
+Obj. val : 105.75438460366988, Avg. Ret : 67.92290081829316
+Iteration [  175  ]
+Obj. val : 122.68298896553317, Avg. Ret : 70.32502805535177
+Iteration [  176  ]
+Obj. val : 121.11221393912436, Avg. Ret : 65.38363377501727
+Iteration [  177  ]
+Obj. val : 105.5057956358363, Avg. Ret : 56.13338773305077
+Iteration [  178  ]
+Obj. val : 114.29554686090029, Avg. Ret : 73.76778518723033
+Iteration [  179  ]
+Obj. val : 104.57335788564333, Avg. Ret : 69.87340883691398
+Iteration [  180  ]
+Obj. val : 105.2218528890325, Avg. Ret : 61.088007217172716
+Iteration [  181  ]
+Obj. val : 109.03131831645756, Avg. Ret : 69.59238694076811
+Iteration [  182  ]
+Obj. val : 104.96725810420932, Avg. Ret : 71.14085993610662
+Iteration [  183  ]
+Obj. val : 109.52241226799782, Avg. Ret : 68.74662213332135
+Iteration [  184  ]
+Obj. val : 91.5045862477043, Avg. Ret : 61.90962748863924
+Iteration [  185  ]
+Obj. val : 104.95889828185298, Avg. Ret : 72.01415248578677
+Iteration [  186  ]
+Obj. val : 98.9201109263277, Avg. Ret : 64.31209518541559
+Iteration [  187  ]
+Obj. val : 96.3681369244021, Avg. Ret : 66.1902692175236
+Iteration [  188  ]
+Obj. val : 110.00987796966456, Avg. Ret : 71.27107637886137
+Iteration [  189  ]
+Obj. val : 107.28123123148627, Avg. Ret : 69.92981981212661
+Iteration [  190  ]
+Obj. val : 121.17615489356567, Avg. Ret : 56.08199060551595
+Iteration [  191  ]
+Obj. val : 121.5540592212609, Avg. Ret : 68.5736963066129
+Iteration [  192  ]
+Obj. val : 110.95847358716568, Avg. Ret : 51.848060306872675
+Iteration [  193  ]
+Obj. val : 98.27482675061549, Avg. Ret : 68.85393176330744
+Iteration [  194  ]
+Obj. val : 108.03682018085196, Avg. Ret : 66.63908336933281
+Iteration [  195  ]
+Obj. val : 95.59304158757031, Avg. Ret : 56.828199474705855
+Iteration [  196  ]
+Obj. val : 134.1121697075954, Avg. Ret : 70.16797269024293
+Iteration [  197  ]
+Obj. val : 118.74941284791717, Avg. Ret : 73.00394639226255
+Iteration [  198  ]
+Obj. val : 90.57207945838061, Avg. Ret : 63.292963568676015
+Iteration [  199  ]
+Obj. val : 115.44369108156108, Avg. Ret : 70.37007282147823
+checkpoint for objective values, iteration: 200. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_3.csv
+checkpoint for avg return values, iteration: 200. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_3.csv
+Iteration [  200  ]
+Obj. val : 110.18256689301867, Avg. Ret : 66.73817210338076
+Iteration [  201  ]
+Obj. val : 121.30005749877989, Avg. Ret : 59.942510553485306
+Iteration [  202  ]
+Obj. val : 116.65854404852391, Avg. Ret : 65.43145863094804
+Iteration [  203  ]
+Obj. val : 123.0739094563837, Avg. Ret : 68.84760321898773
+Iteration [  204  ]
+Obj. val : 96.79879115776045, Avg. Ret : 65.95284257715235
+Iteration [  205  ]
+Obj. val : 95.23879713964683, Avg. Ret : 50.41372038431413
+Iteration [  206  ]
+Obj. val : 102.43841203636589, Avg. Ret : 63.83082283220999
+Iteration [  207  ]
+Obj. val : 149.6913214610551, Avg. Ret : 51.31497660285286
+Iteration [  208  ]
+Obj. val : 107.78864192783583, Avg. Ret : 70.56956290849149
+Iteration [  209  ]
+Obj. val : 131.01427989901433, Avg. Ret : 67.57262040957905
+Iteration [  210  ]
+Obj. val : 100.37757833084544, Avg. Ret : 48.62629721694641
+Iteration [  211  ]
+Obj. val : 105.15880272900013, Avg. Ret : 69.73176753776492
+Iteration [  212  ]
+Obj. val : 131.1697154263028, Avg. Ret : 64.99210305657154
+Iteration [  213  ]
+Obj. val : 96.19623531425421, Avg. Ret : 51.62817466007029
+Iteration [  214  ]
+Obj. val : 109.88831107330839, Avg. Ret : 69.85946003624771
+Iteration [  215  ]
+Obj. val : 102.9925005158911, Avg. Ret : 67.49082570976945
+Iteration [  216  ]
+Obj. val : 99.51992632309188, Avg. Ret : 54.03437316956674
+Iteration [  217  ]
+Obj. val : 116.22322709575037, Avg. Ret : 62.52773110636415
+Iteration [  218  ]
+Obj. val : 149.50057963866357, Avg. Ret : 69.57912585550633
+Iteration [  219  ]
+Obj. val : 104.09272707531134, Avg. Ret : 62.92979103357367
+Iteration [  220  ]
+Obj. val : 122.15795600361466, Avg. Ret : 59.77313350413235
+Iteration [  221  ]
+Obj. val : 127.37779278624234, Avg. Ret : 62.78287844676315
+Iteration [  222  ]
+Obj. val : 97.26602333899476, Avg. Ret : 56.62005773637911
+Iteration [  223  ]
+Obj. val : 116.88694191972408, Avg. Ret : 69.03338374293064
+Iteration [  224  ]
+Obj. val : 112.010984082302, Avg. Ret : 70.6078706856897
+Iteration [  225  ]
+Obj. val : 90.79783312053118, Avg. Ret : 55.666830336096346
+Iteration [  226  ]
+Obj. val : 96.19125151141579, Avg. Ret : 69.15740691035417
+Iteration [  227  ]
+Obj. val : 117.06040998968005, Avg. Ret : 67.62308572290043
+Iteration [  228  ]
+Obj. val : 114.07811385426679, Avg. Ret : 60.171894901601064
+Iteration [  229  ]
+Obj. val : 95.6186193279457, Avg. Ret : 66.97791719999435
+Iteration [  230  ]
+Obj. val : 95.9132937225816, Avg. Ret : 68.57685562334487
+Iteration [  231  ]
+Obj. val : 142.70441708769957, Avg. Ret : 62.002921337901064
+Iteration [  232  ]
+Obj. val : 127.66276936174312, Avg. Ret : 61.640508136801074
+Iteration [  233  ]
+Obj. val : 127.0741962744687, Avg. Ret : 66.6620534608096
+Iteration [  234  ]
+Obj. val : 103.41590939726963, Avg. Ret : 53.19393179446704
+Iteration [  235  ]
+Obj. val : 103.8519989442004, Avg. Ret : 65.19992367945784
+Iteration [  236  ]
+Obj. val : 99.01844176602684, Avg. Ret : 69.99535425424665
+Iteration [  237  ]
+Obj. val : 118.67129430969023, Avg. Ret : 48.78526636653373
+Iteration [  238  ]
+Obj. val : 113.69722663771745, Avg. Ret : 70.7675446032077
+Iteration [  239  ]
+Obj. val : 98.24010523511558, Avg. Ret : 66.86318941301694
+Iteration [  240  ]
+Obj. val : 117.83371888445917, Avg. Ret : 48.14852738480061
+Iteration [  241  ]
+Obj. val : 102.28912288868119, Avg. Ret : 72.83092668155508
+Iteration [  242  ]
+Obj. val : 97.936431307793, Avg. Ret : 66.23692835176965
+Iteration [  243  ]
+Obj. val : 125.42572627790533, Avg. Ret : 69.80722915885352
+Iteration [  244  ]
+Obj. val : 97.93088937821936, Avg. Ret : 53.648223962348666
+Iteration [  245  ]
+Obj. val : 109.40463020085922, Avg. Ret : 62.71535500137032
+Iteration [  246  ]
+Obj. val : 91.76244502844729, Avg. Ret : 67.94257069717435
+Iteration [  247  ]
+Obj. val : 109.70542349721384, Avg. Ret : 55.63405593184548
+Iteration [  248  ]
+Obj. val : 102.7392131534601, Avg. Ret : 62.87545103078397
+Iteration [  249  ]
+Obj. val : 110.14903937460022, Avg. Ret : 68.35475568376354
+Iteration [  250  ]
+Obj. val : 95.49258299755165, Avg. Ret : 62.21422190413335
+Iteration [  251  ]
+Obj. val : 125.04712749543062, Avg. Ret : 63.93804189265743
+Iteration [  252  ]
+Obj. val : 103.82059193122561, Avg. Ret : 65.64093256061871
+Iteration [  253  ]
+Obj. val : 116.2140526683516, Avg. Ret : 62.856972276130065
+Iteration [  254  ]
+Obj. val : 111.21292806434013, Avg. Ret : 66.20311788877285
+Iteration [  255  ]
+Obj. val : 105.9110779049216, Avg. Ret : 65.74262918843453
+Iteration [  256  ]
+Obj. val : 106.22614384038062, Avg. Ret : 64.01461717117424
+Iteration [  257  ]
+Obj. val : 110.38183832464368, Avg. Ret : 61.650485237335815
+Iteration [  258  ]
+Obj. val : 96.82969906756755, Avg. Ret : 50.54427686377957
+Iteration [  259  ]
+Obj. val : 105.44903457846269, Avg. Ret : 73.79865337820257
+Iteration [  260  ]
+Obj. val : 135.65696523718407, Avg. Ret : 68.68762210533217
+Iteration [  261  ]
+Obj. val : 121.60760210653962, Avg. Ret : 69.84277918210194
+Iteration [  262  ]
+Obj. val : 116.05465218614779, Avg. Ret : 53.9830480796783
+Iteration [  263  ]
+Obj. val : 93.74513787995144, Avg. Ret : 63.49034132362974
+Iteration [  264  ]
+Obj. val : 95.67395960227596, Avg. Ret : 68.88955807454367
+Iteration [  265  ]
+Obj. val : 110.2954297444433, Avg. Ret : 71.23046300379819
+Iteration [  266  ]
+Obj. val : 103.61695872637094, Avg. Ret : 66.46979608580068
+Iteration [  267  ]
+Obj. val : 105.82173046486344, Avg. Ret : 66.5661866588031
+Iteration [  268  ]
+Obj. val : 110.32823878404177, Avg. Ret : 69.77115158297467
+Iteration [  269  ]
+Obj. val : 98.18200681951188, Avg. Ret : 68.37671010508907
+Iteration [  270  ]
+Obj. val : 103.57724125754736, Avg. Ret : 58.519760267578306
+Iteration [  271  ]
+Obj. val : 109.75124161226891, Avg. Ret : 69.95283893012865
+Iteration [  272  ]
+Obj. val : 111.53243740395443, Avg. Ret : 62.66558868365114
+Iteration [  273  ]
+Obj. val : 119.31266709683976, Avg. Ret : 69.25326450130909
+Iteration [  274  ]
+Obj. val : 110.61918066672801, Avg. Ret : 61.05241807943652
+Iteration [  275  ]
+Obj. val : 89.98021836821495, Avg. Ret : 67.37908468279333
+Iteration [  276  ]
+Obj. val : 91.673993461017, Avg. Ret : 67.502915709826
+Iteration [  277  ]
+Obj. val : 115.93035352299553, Avg. Ret : 58.14255034543778
+Iteration [  278  ]
+Obj. val : 99.78979488222744, Avg. Ret : 64.28652247138622
+Iteration [  279  ]
+Obj. val : 109.65411829852196, Avg. Ret : 60.328481809540044
+Iteration [  280  ]
+Obj. val : 121.53433396581428, Avg. Ret : 70.20233272192613
+Iteration [  281  ]
+Obj. val : 99.38053658208479, Avg. Ret : 64.99261815288853
+Iteration [  282  ]
+Obj. val : 96.45429866517065, Avg. Ret : 66.48449914965722
+Iteration [  283  ]
+Obj. val : 130.58949963850202, Avg. Ret : 70.48122319348914
+Iteration [  284  ]
+Obj. val : 114.92367764800825, Avg. Ret : 64.45287502359326
+Iteration [  285  ]
+Obj. val : 110.07835921838374, Avg. Ret : 65.90408358690587
+Iteration [  286  ]
+Obj. val : 112.32844086447597, Avg. Ret : 70.62861424522926
+Iteration [  287  ]
+Obj. val : 97.82907752351426, Avg. Ret : 65.02157002453667
+Iteration [  288  ]
+Obj. val : 95.59373263460212, Avg. Ret : 72.9799151583966
+Iteration [  289  ]
+Obj. val : 103.44170259774586, Avg. Ret : 63.44999095078625
+Iteration [  290  ]
+Obj. val : 161.9415404490371, Avg. Ret : 66.08063494765898
+Iteration [  291  ]
+Obj. val : 91.06940599989053, Avg. Ret : 70.52296737210244
+Iteration [  292  ]
+Obj. val : 101.86758323613681, Avg. Ret : 70.13862543140088
+Iteration [  293  ]
+Obj. val : 118.31700049528857, Avg. Ret : 66.10116456503863
+Iteration [  294  ]
+Obj. val : 108.82458801925641, Avg. Ret : 74.04600458097076
+Iteration [  295  ]
+Obj. val : 122.82079573032148, Avg. Ret : 61.62341286165419
+Iteration [  296  ]
+Obj. val : 95.24108415555712, Avg. Ret : 68.94986323171882
+Iteration [  297  ]
+Obj. val : 122.57027053770085, Avg. Ret : 66.5257689740937
+Iteration [  298  ]
+Obj. val : 104.12709144271626, Avg. Ret : 70.55865046482886
+Iteration [  299  ]
+Obj. val : 117.71803850123283, Avg. Ret : 65.22268255047773
+checkpoint for objective values, iteration: 300. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_3.csv
+checkpoint for avg return values, iteration: 300. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_3.csv
+Iteration [  300  ]
+Obj. val : 130.16187308233998, Avg. Ret : 68.52304710615603
+Iteration [  301  ]
+Obj. val : 108.48017743543971, Avg. Ret : 71.76687943567842
+Iteration [  302  ]
+Obj. val : 99.67700716328784, Avg. Ret : 65.03182559395562
+Iteration [  303  ]
+Obj. val : 114.23089598569824, Avg. Ret : 70.37717498801067
+Iteration [  304  ]
+Obj. val : 122.67078771619285, Avg. Ret : 68.09027568174963
+Iteration [  305  ]
+Obj. val : 105.88837934351525, Avg. Ret : 68.40311512533134
+Iteration [  306  ]
+Obj. val : 96.45959217525103, Avg. Ret : 68.91652880633607
+Iteration [  307  ]
+Obj. val : 114.85826299707864, Avg. Ret : 60.2267250128148
+Iteration [  308  ]
+Obj. val : 141.73265057976639, Avg. Ret : 66.62123320098364
+Iteration [  309  ]
+Obj. val : 155.47573395533894, Avg. Ret : 71.05788808277302
+Iteration [  310  ]
+Obj. val : 82.68049758931554, Avg. Ret : 64.40972657948164
+Iteration [  311  ]
+Obj. val : 122.62507478811634, Avg. Ret : 68.3294527388129
+Iteration [  312  ]
+Obj. val : 128.348406133717, Avg. Ret : 68.27767626090709
+Iteration [  313  ]
+Obj. val : 104.17005577505577, Avg. Ret : 67.17356213443318
+Iteration [  314  ]
+Obj. val : 95.00693601586433, Avg. Ret : 65.38634563360795
+Iteration [  315  ]
+Obj. val : 121.51064794453956, Avg. Ret : 66.95241920882343
+Iteration [  316  ]
+Obj. val : 108.9806358153307, Avg. Ret : 70.18700992386884
+Iteration [  317  ]
+Obj. val : 120.58904455883182, Avg. Ret : 65.61351623553132
+Iteration [  318  ]
+Obj. val : 116.15595468794696, Avg. Ret : 71.49548223361357
+Iteration [  319  ]
+Obj. val : 107.29101546888954, Avg. Ret : 71.6863380248011
+Iteration [  320  ]
+Obj. val : 109.70864575567958, Avg. Ret : 70.8885476043376
+Iteration [  321  ]
+Obj. val : 95.47586065688105, Avg. Ret : 68.15012906309134
+Iteration [  322  ]
+Obj. val : 95.84457165411145, Avg. Ret : 69.0337928659488
+Iteration [  323  ]
+Obj. val : 128.43459663088566, Avg. Ret : 72.22765667457847
+Iteration [  324  ]
+Obj. val : 102.35873904524553, Avg. Ret : 56.02176332733421
+Iteration [  325  ]
+Obj. val : 102.4381585195963, Avg. Ret : 71.11051013365727
+Iteration [  326  ]
+Obj. val : 102.7566091430382, Avg. Ret : 64.14674481885528
+Iteration [  327  ]
+Obj. val : 120.3503646831418, Avg. Ret : 51.59031707351909
+Iteration [  328  ]
+Obj. val : 110.62151331997293, Avg. Ret : 65.96382061479831
+Iteration [  329  ]
+Obj. val : 91.2282563365541, Avg. Ret : 68.55561105538331
+Iteration [  330  ]
+Obj. val : 103.7397311900016, Avg. Ret : 69.8107766753908
+Iteration [  331  ]
+Obj. val : 120.52492373087006, Avg. Ret : 70.40237832889277
+Iteration [  332  ]
+Obj. val : 107.96381410411789, Avg. Ret : 71.18955212937487
+Iteration [  333  ]
+Obj. val : 108.28370859929859, Avg. Ret : 74.30677443710924
+Iteration [  334  ]
+Obj. val : 103.81205325229318, Avg. Ret : 68.09236660937552
+Iteration [  335  ]
+Obj. val : 134.00423032061963, Avg. Ret : 66.47678834254044
+Iteration [  336  ]
+Obj. val : 102.672508628856, Avg. Ret : 67.39298189950918
+Iteration [  337  ]
+Obj. val : 134.1594424562927, Avg. Ret : 69.5757104098425
+Iteration [  338  ]
+Obj. val : 98.64139898292883, Avg. Ret : 68.86167348395789
+Iteration [  339  ]
+Obj. val : 91.76766210213704, Avg. Ret : 71.6248610655622
+Iteration [  340  ]
+Obj. val : 105.86236585696881, Avg. Ret : 65.57272531339126
+Iteration [  341  ]
+Obj. val : 102.40536510274492, Avg. Ret : 69.6909010645524
+Iteration [  342  ]
+Obj. val : 124.3191992026231, Avg. Ret : 60.15763543329591
+Iteration [  343  ]
+Obj. val : 103.70349912669444, Avg. Ret : 68.27681732460798
+Iteration [  344  ]
+Obj. val : 105.6663590822881, Avg. Ret : 65.37845181701192
+Iteration [  345  ]
+Obj. val : 104.96014536152188, Avg. Ret : 65.10136895393794
+Iteration [  346  ]
+Obj. val : 96.05569196391835, Avg. Ret : 71.81784944091952
+Iteration [  347  ]
+Obj. val : 96.74243199540467, Avg. Ret : 72.08058450062559
+Iteration [  348  ]
+Obj. val : 108.90271744018274, Avg. Ret : 71.3475657945629
+Iteration [  349  ]
+Obj. val : 107.4669921492877, Avg. Ret : 70.56728596505886
+Iteration [  350  ]
+Obj. val : 91.64242340024892, Avg. Ret : 71.28080974022808
+Iteration [  351  ]
+Obj. val : 103.06035004952867, Avg. Ret : 66.35561797950605
+Iteration [  352  ]
+Obj. val : 102.34230296181707, Avg. Ret : 70.3672525752944
+Iteration [  353  ]
+Obj. val : 90.30676177363998, Avg. Ret : 69.31922404979929
+Iteration [  354  ]
+Obj. val : 105.62931611537707, Avg. Ret : 70.35332054075705
+Iteration [  355  ]
+Obj. val : 116.23931336483403, Avg. Ret : 70.48681094874568
+Iteration [  356  ]
+Obj. val : 108.95645569964779, Avg. Ret : 68.86202517143869
+Iteration [  357  ]
+Obj. val : 121.28105779438448, Avg. Ret : 59.45519922891792
+Iteration [  358  ]
+Obj. val : 97.80521070380112, Avg. Ret : 70.66557455323769
+Iteration [  359  ]
+Obj. val : 97.69009266539335, Avg. Ret : 64.79564293819482
+Iteration [  360  ]
+Obj. val : 107.24967158781507, Avg. Ret : 69.03164322770529
+Iteration [  361  ]
+Obj. val : 106.25106451773648, Avg. Ret : 53.82004230336892
+Iteration [  362  ]
+Obj. val : 101.17053268361705, Avg. Ret : 67.75019919828314
+Iteration [  363  ]
+Obj. val : 102.40192364122184, Avg. Ret : 67.77289290369855
+Iteration [  364  ]
+Obj. val : 110.91940921525507, Avg. Ret : 68.88712855525769
+Iteration [  365  ]
+Obj. val : 96.20027348746973, Avg. Ret : 67.4422441605113
+Iteration [  366  ]
+Obj. val : 111.94263210761666, Avg. Ret : 68.9975300052724
+Iteration [  367  ]
+Obj. val : 99.63682538091223, Avg. Ret : 54.51653221128193
+Iteration [  368  ]
+Obj. val : 109.34212719040815, Avg. Ret : 67.89414995147672
+Iteration [  369  ]
+Obj. val : 99.68410677161582, Avg. Ret : 61.81765515543435
+Iteration [  370  ]
+Obj. val : 94.37117019851728, Avg. Ret : 70.33846760772275
+Iteration [  371  ]
+Obj. val : 114.97892546549703, Avg. Ret : 69.8060282086297
+Iteration [  372  ]
+Obj. val : 110.367148478406, Avg. Ret : 71.10591889322956
+Iteration [  373  ]
+Obj. val : 107.95958961521993, Avg. Ret : 51.2282334076029
+Iteration [  374  ]
+Obj. val : 114.69176640948258, Avg. Ret : 65.55217244820017
+Iteration [  375  ]
+Obj. val : 99.19129188349446, Avg. Ret : 67.16997978489273
+Iteration [  376  ]
+Obj. val : 95.72700581012873, Avg. Ret : 66.75906597821243
+Iteration [  377  ]
+Obj. val : 97.60875730248452, Avg. Ret : 65.07783176555449
+Iteration [  378  ]
+Obj. val : 100.39404643028703, Avg. Ret : 52.063572999156406
+Iteration [  379  ]
+Obj. val : 102.10157139108179, Avg. Ret : 67.42920032727474
+Iteration [  380  ]
+Obj. val : 104.89419783906138, Avg. Ret : 67.12757761006105
+Iteration [  381  ]
+Obj. val : 103.90737852637216, Avg. Ret : 70.97126486890683
+Iteration [  382  ]
+Obj. val : 101.48725102235123, Avg. Ret : 64.43785834160943
+Iteration [  383  ]
+Obj. val : 97.64542230444346, Avg. Ret : 69.84506905476137
+Iteration [  384  ]
+Obj. val : 105.18948207375435, Avg. Ret : 53.51193891963345
+Iteration [  385  ]
+Obj. val : 103.7226451194612, Avg. Ret : 69.56157295428777
+Iteration [  386  ]
+Obj. val : 98.11744970524727, Avg. Ret : 67.10045943337836
+Iteration [  387  ]
+Obj. val : 110.58761434492415, Avg. Ret : 66.17098703566546
+Iteration [  388  ]
+Obj. val : 121.96365651621724, Avg. Ret : 68.14034406368097
+Iteration [  389  ]
+Obj. val : 100.95722180113609, Avg. Ret : 70.59378011922372
+Iteration [  390  ]
+Obj. val : 103.27764997298011, Avg. Ret : 70.88454823537938
+Iteration [  391  ]
+Obj. val : 108.41348400202332, Avg. Ret : 70.87869919794312
+Iteration [  392  ]
+Obj. val : 131.25598887462365, Avg. Ret : 66.29844874946362
+Iteration [  393  ]
+Obj. val : 96.23368013213204, Avg. Ret : 53.833632351754176
+Iteration [  394  ]
+Obj. val : 91.25458947559314, Avg. Ret : 68.87657640272623
+Iteration [  395  ]
+Obj. val : 115.88888101359538, Avg. Ret : 63.24213695315667
+Iteration [  396  ]
+Obj. val : 96.5805370046729, Avg. Ret : 72.72415347719394
+Iteration [  397  ]
+Obj. val : 94.66458054118556, Avg. Ret : 68.14507125648393
+Iteration [  398  ]
+Obj. val : 97.50895140176024, Avg. Ret : 72.23100246505089
+Iteration [  399  ]
+Obj. val : 94.83771138663593, Avg. Ret : 68.69775800862875
+checkpoint for objective values, iteration: 400. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_3.csv
+checkpoint for avg return values, iteration: 400. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_3.csv
+Iteration [  400  ]
+Obj. val : 97.91364377982013, Avg. Ret : 63.14755527518325
+Iteration [  401  ]
+Obj. val : 105.0274334147702, Avg. Ret : 61.78559562804935
+Iteration [  402  ]
+Obj. val : 107.71893751614363, Avg. Ret : 76.13140373561417
+Iteration [  403  ]
+Obj. val : 108.53559738782845, Avg. Ret : 54.16098787719927
+Iteration [  404  ]
+Obj. val : 99.24152272780012, Avg. Ret : 66.41813638356678
+Iteration [  405  ]
+Obj. val : 96.30232618962515, Avg. Ret : 70.1364168026176
+Iteration [  406  ]
+Obj. val : 110.32471165121683, Avg. Ret : 60.70371744672932
+Iteration [  407  ]
+Obj. val : 158.9547980014812, Avg. Ret : 71.7723529714205
+Iteration [  408  ]
+Obj. val : 128.7173240774166, Avg. Ret : 74.19705873148885
+Iteration [  409  ]
+Obj. val : 103.93908653887122, Avg. Ret : 67.07483755750053
+Iteration [  410  ]
+Obj. val : 96.09666264342866, Avg. Ret : 67.58877616016889
+Iteration [  411  ]
+Obj. val : 116.9966380380734, Avg. Ret : 56.232778386707906
+Iteration [  412  ]
+Obj. val : 122.50920385270979, Avg. Ret : 70.24612905324864
+Iteration [  413  ]
+Obj. val : 118.67785271742075, Avg. Ret : 66.46385810936806
+Iteration [  414  ]
+Obj. val : 138.08673742684917, Avg. Ret : 61.46290533781127
+Iteration [  415  ]
+Obj. val : 129.68776563768043, Avg. Ret : 70.6642383067998
+Iteration [  416  ]
+Obj. val : 104.85585472536623, Avg. Ret : 65.58210001668573
+Iteration [  417  ]
+Obj. val : 114.99539725428322, Avg. Ret : 65.19755295945615
+Iteration [  418  ]
+Obj. val : 104.09123456092821, Avg. Ret : 71.25769333873171
+Iteration [  419  ]
+Obj. val : 128.53156032014502, Avg. Ret : 69.15855650055614
+Iteration [  420  ]
+Obj. val : 90.97923307780393, Avg. Ret : 55.41223714630867
+Iteration [  421  ]
+Obj. val : 111.01229763925183, Avg. Ret : 71.97738608993659
+Iteration [  422  ]
+Obj. val : 133.58460408438395, Avg. Ret : 67.59372873057369
+Iteration [  423  ]
+Obj. val : 137.1902315743443, Avg. Ret : 68.08544809259162
+Iteration [  424  ]
+Obj. val : 106.75019401929717, Avg. Ret : 59.964191406248936
+Iteration [  425  ]
+Obj. val : 122.87675864815789, Avg. Ret : 73.09186978532819
+Iteration [  426  ]
+Obj. val : 103.7456161225211, Avg. Ret : 70.68319286221148
+Iteration [  427  ]
+Obj. val : 122.62371282381714, Avg. Ret : 59.636378908544174
+Iteration [  428  ]
+Obj. val : 116.0213867339811, Avg. Ret : 69.5249794149737
+Iteration [  429  ]
+Obj. val : 99.2471314941028, Avg. Ret : 73.14427444167302
+Iteration [  430  ]
+Obj. val : 97.96649492122644, Avg. Ret : 67.67632521688839
+Iteration [  431  ]
+Obj. val : 95.57097617236103, Avg. Ret : 68.69957856492378
+Iteration [  432  ]
+Obj. val : 116.71235477745708, Avg. Ret : 70.4640892055106
+Iteration [  433  ]
+Obj. val : 110.62753931294294, Avg. Ret : 63.93431465010297
+Iteration [  434  ]
+Obj. val : 98.33315860244461, Avg. Ret : 64.94824304159597
+Iteration [  435  ]
+Obj. val : 102.92095029053539, Avg. Ret : 59.01551654685367
+Iteration [  436  ]
+Obj. val : 106.67138231630307, Avg. Ret : 68.88586694422025
+Iteration [  437  ]
+Obj. val : 115.8163855116546, Avg. Ret : 69.94177976457166
+Iteration [  438  ]
+Obj. val : 98.68061208792024, Avg. Ret : 62.492709600681316
+Iteration [  439  ]
+Obj. val : 133.60540997032987, Avg. Ret : 71.19466147936679
+Iteration [  440  ]
+Obj. val : 94.28050647906964, Avg. Ret : 70.44237804503508
+Iteration [  441  ]
+Obj. val : 125.36200105557167, Avg. Ret : 71.94235513245906
+Iteration [  442  ]
+Obj. val : 97.78971742558524, Avg. Ret : 62.51335696368483
+Iteration [  443  ]
+Obj. val : 118.25635861251307, Avg. Ret : 74.21099903706747
+Iteration [  444  ]
+Obj. val : 117.46499865470386, Avg. Ret : 65.5914338776017
+Iteration [  445  ]
+Obj. val : 97.62412018458882, Avg. Ret : 69.80629827564738
+Iteration [  446  ]
+Obj. val : 106.99365275659552, Avg. Ret : 68.07154155291546
+Iteration [  447  ]
+Obj. val : 105.92816771421909, Avg. Ret : 48.26829425901642
+Iteration [  448  ]
+Obj. val : 102.79847383143289, Avg. Ret : 68.35983441330865
+Iteration [  449  ]
+Obj. val : 98.26507857592968, Avg. Ret : 68.28587628297086
+Iteration [  450  ]
+Obj. val : 114.61056575690003, Avg. Ret : 67.88338804861651
+Iteration [  451  ]
+Obj. val : 105.35037112704299, Avg. Ret : 54.88775386999623
+Iteration [  452  ]
+Obj. val : 102.30393124954766, Avg. Ret : 66.29557284171989
+Iteration [  453  ]
+Obj. val : 103.14008364362435, Avg. Ret : 59.38330949057279
+Iteration [  454  ]
+Obj. val : 106.48793789457672, Avg. Ret : 68.40908898711946
+Iteration [  455  ]
+Obj. val : 97.63135583375063, Avg. Ret : 70.89086261706174
+Iteration [  456  ]
+Obj. val : 103.701882313602, Avg. Ret : 68.33293291810632
+Iteration [  457  ]
+Obj. val : 100.73378964630847, Avg. Ret : 58.01400508689592
+Iteration [  458  ]
+Obj. val : 135.15043376548917, Avg. Ret : 69.50945863990209
+Iteration [  459  ]
+Obj. val : 103.13664639123331, Avg. Ret : 70.56529580312163
+Iteration [  460  ]
+Obj. val : 128.6295215803915, Avg. Ret : 62.3658417278385
+Iteration [  461  ]
+Obj. val : 128.29236789329647, Avg. Ret : 68.38458127123252
+Iteration [  462  ]
+Obj. val : 96.79012404615219, Avg. Ret : 67.35859114497987
+Iteration [  463  ]
+Obj. val : 120.11878636254659, Avg. Ret : 54.68757906861698
+Iteration [  464  ]
+Obj. val : 95.44304032630578, Avg. Ret : 66.60575124764102
+Iteration [  465  ]
+Obj. val : 125.06319779521596, Avg. Ret : 48.446294949823425
+Iteration [  466  ]
+Obj. val : 90.90876335666547, Avg. Ret : 72.77778014609395
+Iteration [  467  ]
+Obj. val : 102.67140964983545, Avg. Ret : 69.06098695178366
+Iteration [  468  ]
+Obj. val : 91.30648992867387, Avg. Ret : 70.72395894095148
+Iteration [  469  ]
+Obj. val : 116.41949566463376, Avg. Ret : 51.49482945648931
+Iteration [  470  ]
+Obj. val : 104.48264695756339, Avg. Ret : 64.6032137022903
+Iteration [  471  ]
+Obj. val : 91.82716847257967, Avg. Ret : 46.176909743294644
+Iteration [  472  ]
+Obj. val : 122.19486490526259, Avg. Ret : 70.18607192204996
+Iteration [  473  ]
+Obj. val : 102.48614988859427, Avg. Ret : 66.45534025559594
+Iteration [  474  ]
+Obj. val : 117.39433424162475, Avg. Ret : 54.15932129432297
+Iteration [  475  ]
+Obj. val : 130.30456918157037, Avg. Ret : 73.4690090878732
+Iteration [  476  ]
+Obj. val : 99.50115679210401, Avg. Ret : 66.14160874781736
+Iteration [  477  ]
+Obj. val : 99.2310256127812, Avg. Ret : 71.90076328843853
+Iteration [  478  ]
+Obj. val : 115.32249804677241, Avg. Ret : 53.23568439068422
+Iteration [  479  ]
+Obj. val : 100.25716559005004, Avg. Ret : 69.94336646863444
+Iteration [  480  ]
+Obj. val : 103.90091991131351, Avg. Ret : 71.22060060577888
+Iteration [  481  ]
+Obj. val : 104.01598782351525, Avg. Ret : 48.39068802217785
+Iteration [  482  ]
+Obj. val : 113.90520127954883, Avg. Ret : 67.07744033077022
+Iteration [  483  ]
+Obj. val : 100.52761879006455, Avg. Ret : 58.84391443788004
+Iteration [  484  ]
+Obj. val : 135.54291996735105, Avg. Ret : 70.56912347154031
+Iteration [  485  ]
+Obj. val : 115.3971100381246, Avg. Ret : 66.82287599301236
+Iteration [  486  ]
+Obj. val : 106.28000180157215, Avg. Ret : 68.81208062713159
+Iteration [  487  ]
+Obj. val : 94.28180080661132, Avg. Ret : 43.99305088710569
+Iteration [  488  ]
+Obj. val : 127.40871838906563, Avg. Ret : 69.89637651125847
+Iteration [  489  ]
+Obj. val : 107.92383756753628, Avg. Ret : 71.07735413998934
+Iteration [  490  ]
+Obj. val : 101.18118000290313, Avg. Ret : 56.976966288676486
+Iteration [  491  ]
+Obj. val : 121.44367722239308, Avg. Ret : 65.50698648823526
+Iteration [  492  ]
+Obj. val : 95.93980932880275, Avg. Ret : 66.4775378775094
+Iteration [  493  ]
+Obj. val : 112.39769639421078, Avg. Ret : 61.873109117538505
+Iteration [  494  ]
+Obj. val : 94.07417505482759, Avg. Ret : 66.11011505620513
+Iteration [  495  ]
+Obj. val : 109.05998333719286, Avg. Ret : 51.82023840853945
+Iteration [  496  ]
+Obj. val : 122.00373572439128, Avg. Ret : 72.58279537974099
+Iteration [  497  ]
+Obj. val : 108.985566490476, Avg. Ret : 64.99104488007107
+Iteration [  498  ]
+Obj. val : 127.34883923012957, Avg. Ret : 72.11899544849875
+Iteration [  499  ]
+Obj. val : 154.68421089487845, Avg. Ret : 56.20390232365551
+checkpoint for objective values, iteration: 500. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_3.csv
+checkpoint for objective values, iteration: 500. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_3.csv
+batch = 4
+inside iterator
+Iteration [  0  ]
+Obj. val : 88.94364118263596, Avg. Ret : 53.06391108228436
+Iteration [  1  ]
+Obj. val : 97.74375795660399, Avg. Ret : 53.23146236086079
+Iteration [  2  ]
+Obj. val : 118.75679438566436, Avg. Ret : 54.9325584227662
+Iteration [  3  ]
+Obj. val : 85.86914317852124, Avg. Ret : 54.14929890908884
+Iteration [  4  ]
+Obj. val : 100.64027587978197, Avg. Ret : 53.032222058201604
+Iteration [  5  ]
+Obj. val : 130.86392632410448, Avg. Ret : 55.514214715502106
+Iteration [  6  ]
+Obj. val : 133.38410434878344, Avg. Ret : 51.08511849339776
+Iteration [  7  ]
+Obj. val : 113.8549691168502, Avg. Ret : 51.908410576852305
+Iteration [  8  ]
+Obj. val : 132.2569888388318, Avg. Ret : 54.95353979596215
+Iteration [  9  ]
+Obj. val : 130.4024496787276, Avg. Ret : 56.243780514740244
+Iteration [  10  ]
+Obj. val : 95.38631504257803, Avg. Ret : 55.185224346239494
+Iteration [  11  ]
+Obj. val : 104.58927543354383, Avg. Ret : 53.64043106990053
+Iteration [  12  ]
+Obj. val : 114.5533056726953, Avg. Ret : 54.43598423248948
+Iteration [  13  ]
+Obj. val : 131.19489702418232, Avg. Ret : 54.03530373872955
+Iteration [  14  ]
+Obj. val : 110.37923931389199, Avg. Ret : 51.4524539279888
+Iteration [  15  ]
+Obj. val : 121.74549451632586, Avg. Ret : 52.780847988717696
+Iteration [  16  ]
+Obj. val : 89.93796677001737, Avg. Ret : 56.109274919503285
+Iteration [  17  ]
+Obj. val : 115.9725780977987, Avg. Ret : 51.77560214900077
+Iteration [  18  ]
+Obj. val : 96.5171047806127, Avg. Ret : 55.6422652897594
+Iteration [  19  ]
+Obj. val : 109.64265362937684, Avg. Ret : 50.947841921645804
+Iteration [  20  ]
+Obj. val : 94.06396831211802, Avg. Ret : 54.228213725439545
+Iteration [  21  ]
+Obj. val : 101.86142578987736, Avg. Ret : 54.89666258130172
+Iteration [  22  ]
+Obj. val : 93.32623644930186, Avg. Ret : 60.62835686617704
+Iteration [  23  ]
+Obj. val : 100.2407446579825, Avg. Ret : 37.81317677468201
+Iteration [  24  ]
+Obj. val : 87.91076437147876, Avg. Ret : 62.282341522614324
+Iteration [  25  ]
+Obj. val : 118.41290440731152, Avg. Ret : 44.305394724716116
+Iteration [  26  ]
+Obj. val : 103.81353126282522, Avg. Ret : 45.103924387813194
+Iteration [  27  ]
+Obj. val : 104.18011031073861, Avg. Ret : 49.74347930524232
+Iteration [  28  ]
+Obj. val : 86.81470034614726, Avg. Ret : 74.84101083337623
+Iteration [  29  ]
+Obj. val : 122.3172371620766, Avg. Ret : 40.66721570898675
+Iteration [  30  ]
+Obj. val : 101.62357164935968, Avg. Ret : 33.58534842366184
+Iteration [  31  ]
+Obj. val : 105.22992612459922, Avg. Ret : 71.18726480546147
+Iteration [  32  ]
+Obj. val : 97.0862580850999, Avg. Ret : 49.62363071841202
+Iteration [  33  ]
+Obj. val : 98.10940628338994, Avg. Ret : 54.89880976502508
+Iteration [  34  ]
+Obj. val : 125.58495068540034, Avg. Ret : 45.15044089221274
+Iteration [  35  ]
+Obj. val : 130.11310997617002, Avg. Ret : 72.43034134060878
+Iteration [  36  ]
+Obj. val : 127.04730529536162, Avg. Ret : 48.335612524512605
+Iteration [  37  ]
+Obj. val : 106.33512595624401, Avg. Ret : 56.11584555619775
+Iteration [  38  ]
+Obj. val : 86.61257387400357, Avg. Ret : 40.81839954680839
+Iteration [  39  ]
+Obj. val : 89.95989333879464, Avg. Ret : 52.682366610655826
+Iteration [  40  ]
+Obj. val : 87.05732787074248, Avg. Ret : 46.715328951349385
+Iteration [  41  ]
+Obj. val : 105.41349211424449, Avg. Ret : 51.66680502750556
+Iteration [  42  ]
+Obj. val : 92.92267306896258, Avg. Ret : 41.21309976049987
+Iteration [  43  ]
+Obj. val : 97.87845433118298, Avg. Ret : 63.94299089687018
+Iteration [  44  ]
+Obj. val : 112.63664961536982, Avg. Ret : 53.32860517171484
+Iteration [  45  ]
+Obj. val : 99.07131685236371, Avg. Ret : 42.47269369981436
+Iteration [  46  ]
+Obj. val : 100.302080687895, Avg. Ret : 54.0666888303991
+Iteration [  47  ]
+Obj. val : 120.44978044515767, Avg. Ret : 54.96890171640309
+Iteration [  48  ]
+Obj. val : 90.87982768432214, Avg. Ret : 68.71088063417042
+Iteration [  49  ]
+Obj. val : 117.6140965728014, Avg. Ret : 41.4659180574737
+Iteration [  50  ]
+Obj. val : 100.89601965491143, Avg. Ret : 57.25018194328746
+Iteration [  51  ]
+Obj. val : 119.65808424984573, Avg. Ret : 60.13425105779875
+Iteration [  52  ]
+Obj. val : 112.35636752437713, Avg. Ret : 36.54271095379244
+Iteration [  53  ]
+Obj. val : 102.64758953871879, Avg. Ret : 54.77129021080569
+Iteration [  54  ]
+Obj. val : 119.62395837723176, Avg. Ret : 53.09709337260424
+Iteration [  55  ]
+Obj. val : 93.6382406045185, Avg. Ret : 53.6062288552136
+Iteration [  56  ]
+Obj. val : 96.81476277090744, Avg. Ret : 61.46510750244209
+Iteration [  57  ]
+Obj. val : 107.56922356183277, Avg. Ret : 57.21112484828385
+Iteration [  58  ]
+Obj. val : 111.70413061109778, Avg. Ret : 71.4757696790745
+Iteration [  59  ]
+Obj. val : 93.61818580785028, Avg. Ret : 67.56382350029486
+Iteration [  60  ]
+Obj. val : 115.78781921441517, Avg. Ret : 57.38159717486008
+Iteration [  61  ]
+Obj. val : 99.4586767067782, Avg. Ret : 70.69579768090051
+Iteration [  62  ]
+Obj. val : 109.31044617166702, Avg. Ret : 71.708461851142
+Iteration [  63  ]
+Obj. val : 105.5974500992071, Avg. Ret : 51.02526685978777
+Iteration [  64  ]
+Obj. val : 119.09667695069008, Avg. Ret : 67.19430556785723
+Iteration [  65  ]
+Obj. val : 104.63955609522401, Avg. Ret : 66.86101682564343
+Iteration [  66  ]
+Obj. val : 93.10416370211404, Avg. Ret : 46.83899006573968
+Iteration [  67  ]
+Obj. val : 120.69338668163458, Avg. Ret : 55.8362310448593
+Iteration [  68  ]
+Obj. val : 101.84665044031883, Avg. Ret : 69.62973573968024
+Iteration [  69  ]
+Obj. val : 96.80521989015367, Avg. Ret : 57.76257004138901
+Iteration [  70  ]
+Obj. val : 94.36378857719465, Avg. Ret : 65.00858355782785
+Iteration [  71  ]
+Obj. val : 111.95873288613141, Avg. Ret : 72.11359497979362
+Iteration [  72  ]
+Obj. val : 119.07173422997259, Avg. Ret : 63.34490679160806
+Iteration [  73  ]
+Obj. val : 94.46335349174238, Avg. Ret : 58.04827133773685
+Iteration [  74  ]
+Obj. val : 94.049404821398, Avg. Ret : 62.00553914510966
+Iteration [  75  ]
+Obj. val : 92.06984407893576, Avg. Ret : 62.7399919850215
+Iteration [  76  ]
+Obj. val : 93.59310720649125, Avg. Ret : 53.55042862991432
+Iteration [  77  ]
+Obj. val : 111.28174079309807, Avg. Ret : 59.24221412829982
+Iteration [  78  ]
+Obj. val : 105.34601356490779, Avg. Ret : 57.32401186984711
+Iteration [  79  ]
+Obj. val : 119.77205720123055, Avg. Ret : 58.261489958938746
+Iteration [  80  ]
+Obj. val : 101.87945583145094, Avg. Ret : 66.50941515039253
+Iteration [  81  ]
+Obj. val : 102.87369466620946, Avg. Ret : 59.94908435633093
+Iteration [  82  ]
+Obj. val : 110.1950930538189, Avg. Ret : 57.07395341329375
+Iteration [  83  ]
+Obj. val : 103.38574317888538, Avg. Ret : 67.06738757788423
+Iteration [  84  ]
+Obj. val : 82.57794316700648, Avg. Ret : 57.50226200246844
+Iteration [  85  ]
+Obj. val : 100.76485940715573, Avg. Ret : 58.81793352406486
+Iteration [  86  ]
+Obj. val : 107.12127945037868, Avg. Ret : 63.63653894716371
+Iteration [  87  ]
+Obj. val : 101.98323104940809, Avg. Ret : 54.91978497550479
+Iteration [  88  ]
+Obj. val : 109.28170461238443, Avg. Ret : 54.89786152263082
+Iteration [  89  ]
+Obj. val : 99.90789862762642, Avg. Ret : 64.41625638867856
+Iteration [  90  ]
+Obj. val : 90.5144526323014, Avg. Ret : 58.06524884838282
+Iteration [  91  ]
+Obj. val : 88.60345682641966, Avg. Ret : 57.67921980911179
+Iteration [  92  ]
+Obj. val : 90.20646867953783, Avg. Ret : 59.5875719503596
+Iteration [  93  ]
+Obj. val : 88.2729437693345, Avg. Ret : 61.001999075713265
+Iteration [  94  ]
+Obj. val : 108.82390094579726, Avg. Ret : 56.40962475154632
+Iteration [  95  ]
+Obj. val : 85.9229061481521, Avg. Ret : 63.00370673129948
+Iteration [  96  ]
+Obj. val : 119.5317225702932, Avg. Ret : 56.547880412182046
+Iteration [  97  ]
+Obj. val : 99.55683288665904, Avg. Ret : 59.50549925416301
+Iteration [  98  ]
+Obj. val : 94.33800154359469, Avg. Ret : 62.67469289404142
+Iteration [  99  ]
+Obj. val : 81.60977475383831, Avg. Ret : 56.06293070952863
+checkpoint for objective values, iteration: 100. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_4.csv
+checkpoint for avg return values, iteration: 100. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_4.csv
+Iteration [  100  ]
+Obj. val : 85.98403054746794, Avg. Ret : 56.35118226550754
+Iteration [  101  ]
+Obj. val : 88.69755898875529, Avg. Ret : 67.03759195898506
+Iteration [  102  ]
+Obj. val : 95.45483958844639, Avg. Ret : 57.71863033327619
+Iteration [  103  ]
+Obj. val : 92.24609295084078, Avg. Ret : 51.16452990083822
+Iteration [  104  ]
+Obj. val : 93.73584166130331, Avg. Ret : 59.05309813531818
+Iteration [  105  ]
+Obj. val : 106.16786456972974, Avg. Ret : 57.89308247755698
+Iteration [  106  ]
+Obj. val : 119.60521403604066, Avg. Ret : 59.178540252684044
+Iteration [  107  ]
+Obj. val : 95.93281504566752, Avg. Ret : 59.552022124884054
+Iteration [  108  ]
+Obj. val : 111.15615214209029, Avg. Ret : 58.1425969732485
+Iteration [  109  ]
+Obj. val : 94.19938952661899, Avg. Ret : 64.35690710287547
+Iteration [  110  ]
+Obj. val : 95.57291789377615, Avg. Ret : 57.51435189457693
+Iteration [  111  ]
+Obj. val : 88.71953556728481, Avg. Ret : 63.2520672400504
+Iteration [  112  ]
+Obj. val : 86.82309402633344, Avg. Ret : 60.305755160864834
+Iteration [  113  ]
+Obj. val : 100.36745632974515, Avg. Ret : 62.77451761444103
+Iteration [  114  ]
+Obj. val : 85.69159763816722, Avg. Ret : 57.48887617312775
+Iteration [  115  ]
+Obj. val : 112.65388725552341, Avg. Ret : 57.108360207517606
+Iteration [  116  ]
+Obj. val : 86.32180750427109, Avg. Ret : 55.08994225096465
+Iteration [  117  ]
+Obj. val : 88.3062562069311, Avg. Ret : 60.53221037286341
+Iteration [  118  ]
+Obj. val : 105.59925153523392, Avg. Ret : 61.40115088529485
+Iteration [  119  ]
+Obj. val : 105.57078550481815, Avg. Ret : 67.16609022390907
+Iteration [  120  ]
+Obj. val : 94.42235121764737, Avg. Ret : 60.79751768061773
+Iteration [  121  ]
+Obj. val : 81.3952160220793, Avg. Ret : 59.004282905945736
+Iteration [  122  ]
+Obj. val : 96.92939478909686, Avg. Ret : 61.05193528631701
+Iteration [  123  ]
+Obj. val : 132.28481040266814, Avg. Ret : 58.86291149978929
+Iteration [  124  ]
+Obj. val : 100.37280249390214, Avg. Ret : 58.46268576047179
+Iteration [  125  ]
+Obj. val : 95.31550281549382, Avg. Ret : 67.54331707542731
+Iteration [  126  ]
+Obj. val : 85.44089061274082, Avg. Ret : 57.616447970323186
+Iteration [  127  ]
+Obj. val : 114.55718415124161, Avg. Ret : 69.75124339487263
+Iteration [  128  ]
+Obj. val : 94.079334115327, Avg. Ret : 58.959165121582146
+Iteration [  129  ]
+Obj. val : 80.72305153583608, Avg. Ret : 62.13294222738914
+Iteration [  130  ]
+Obj. val : 88.08943107630509, Avg. Ret : 58.28301755452773
+Iteration [  131  ]
+Obj. val : 93.45644901926826, Avg. Ret : 60.45310328572414
+Iteration [  132  ]
+Obj. val : 89.12117885453831, Avg. Ret : 56.34180703714993
+Iteration [  133  ]
+Obj. val : 106.45477792386508, Avg. Ret : 55.67144197315961
+Iteration [  134  ]
+Obj. val : 101.27747784468168, Avg. Ret : 62.73621238230308
+Iteration [  135  ]
+Obj. val : 93.07892445158394, Avg. Ret : 58.39180189426545
+Iteration [  136  ]
+Obj. val : 106.33271674619881, Avg. Ret : 61.430887847503094
+Iteration [  137  ]
+Obj. val : 92.58029918045003, Avg. Ret : 64.05294378187449
+Iteration [  138  ]
+Obj. val : 99.42342235278332, Avg. Ret : 60.062845344644195
+Iteration [  139  ]
+Obj. val : 100.1100253591159, Avg. Ret : 60.03344581656899
+Iteration [  140  ]
+Obj. val : 108.37657623974434, Avg. Ret : 62.54508107303227
+Iteration [  141  ]
+Obj. val : 99.75174341961588, Avg. Ret : 60.90135297585727
+Iteration [  142  ]
+Obj. val : 108.7114551775509, Avg. Ret : 56.93463071275144
+Iteration [  143  ]
+Obj. val : 108.4811241757047, Avg. Ret : 61.971389033335385
+Iteration [  144  ]
+Obj. val : 90.00386866900999, Avg. Ret : 56.51217404789583
+Iteration [  145  ]
+Obj. val : 111.38883058756349, Avg. Ret : 58.72145877649596
+Iteration [  146  ]
+Obj. val : 113.51410883766744, Avg. Ret : 59.8490403131807
+Iteration [  147  ]
+Obj. val : 91.73454175729141, Avg. Ret : 64.55507424613587
+Iteration [  148  ]
+Obj. val : 99.5562597720029, Avg. Ret : 57.492744108154255
+Iteration [  149  ]
+Obj. val : 118.8678548738695, Avg. Ret : 64.50515116224908
+Iteration [  150  ]
+Obj. val : 100.58544921276285, Avg. Ret : 66.03092501117864
+Iteration [  151  ]
+Obj. val : 119.59816959767652, Avg. Ret : 59.0281003997133
+Iteration [  152  ]
+Obj. val : 99.69255897370886, Avg. Ret : 63.554120295327984
+Iteration [  153  ]
+Obj. val : 98.2078191576266, Avg. Ret : 61.24519774492052
+Iteration [  154  ]
+Obj. val : 120.24458314345868, Avg. Ret : 57.29818302840996
+Iteration [  155  ]
+Obj. val : 93.2663235439942, Avg. Ret : 62.35315142358865
+Iteration [  156  ]
+Obj. val : 131.54864869777566, Avg. Ret : 56.56207671279533
+Iteration [  157  ]
+Obj. val : 81.80269714814877, Avg. Ret : 61.701449439416585
+Iteration [  158  ]
+Obj. val : 93.29335253759766, Avg. Ret : 59.57455227733257
+Iteration [  159  ]
+Obj. val : 88.69324973502425, Avg. Ret : 61.20146331868936
+Iteration [  160  ]
+Obj. val : 103.23936884987971, Avg. Ret : 63.23332956698696
+Iteration [  161  ]
+Obj. val : 125.53139018988226, Avg. Ret : 61.77255107700252
+Iteration [  162  ]
+Obj. val : 133.2368002003258, Avg. Ret : 58.24193697078735
+Iteration [  163  ]
+Obj. val : 99.65020135997733, Avg. Ret : 60.86896922344203
+Iteration [  164  ]
+Obj. val : 98.5639452892994, Avg. Ret : 58.09319654391909
+Iteration [  165  ]
+Obj. val : 87.29816955402092, Avg. Ret : 56.76790996951772
+Iteration [  166  ]
+Obj. val : 81.78113398348094, Avg. Ret : 59.57681656717093
+Iteration [  167  ]
+Obj. val : 113.57575099894612, Avg. Ret : 61.39817289707916
+Iteration [  168  ]
+Obj. val : 114.33258276423297, Avg. Ret : 64.54448587760393
+Iteration [  169  ]
+Obj. val : 93.5150579544435, Avg. Ret : 63.20078617423757
+Iteration [  170  ]
+Obj. val : 106.64391915340556, Avg. Ret : 59.58727705799734
+Iteration [  171  ]
+Obj. val : 97.76510861413881, Avg. Ret : 61.870575120872076
+Iteration [  172  ]
+Obj. val : 136.76253370955487, Avg. Ret : 61.0471778026655
+Iteration [  173  ]
+Obj. val : 89.9446060697309, Avg. Ret : 62.75821269095553
+Iteration [  174  ]
+Obj. val : 102.38062932956869, Avg. Ret : 59.45083081937787
+Iteration [  175  ]
+Obj. val : 100.88907323945323, Avg. Ret : 62.039617330530064
+Iteration [  176  ]
+Obj. val : 105.29097827269626, Avg. Ret : 60.700044814482865
+Iteration [  177  ]
+Obj. val : 81.9382953861443, Avg. Ret : 64.37767565510036
+Iteration [  178  ]
+Obj. val : 113.28564379958333, Avg. Ret : 60.818940004495865
+Iteration [  179  ]
+Obj. val : 96.76050389886996, Avg. Ret : 65.22228474937509
+Iteration [  180  ]
+Obj. val : 91.07779103332044, Avg. Ret : 56.77156314713706
+Iteration [  181  ]
+Obj. val : 94.18052116574013, Avg. Ret : 66.79499370039728
+Iteration [  182  ]
+Obj. val : 101.63956519792393, Avg. Ret : 58.29207793970606
+Iteration [  183  ]
+Obj. val : 116.08547280748867, Avg. Ret : 61.97533259071092
+Iteration [  184  ]
+Obj. val : 84.66687700492253, Avg. Ret : 60.87861107378931
+Iteration [  185  ]
+Obj. val : 103.61031401734635, Avg. Ret : 61.268372231848325
+Iteration [  186  ]
+Obj. val : 81.98468637439174, Avg. Ret : 55.792654746745036
+Iteration [  187  ]
+Obj. val : 114.93531665649687, Avg. Ret : 61.01504275174395
+Iteration [  188  ]
+Obj. val : 93.76996418485193, Avg. Ret : 57.80248983610396
+Iteration [  189  ]
+Obj. val : 121.11238952413183, Avg. Ret : 59.991331562318734
+Iteration [  190  ]
+Obj. val : 98.77988995432804, Avg. Ret : 61.000842438838305
+Iteration [  191  ]
+Obj. val : 110.12269894998053, Avg. Ret : 69.17710172619499
+Iteration [  192  ]
+Obj. val : 114.77698042600964, Avg. Ret : 62.97096780695163
+Iteration [  193  ]
+Obj. val : 108.6137922587069, Avg. Ret : 64.7361149579953
+Iteration [  194  ]
+Obj. val : 95.84815189493742, Avg. Ret : 55.64745288200233
+Iteration [  195  ]
+Obj. val : 107.35850115606591, Avg. Ret : 62.690875426468736
+Iteration [  196  ]
+Obj. val : 107.73824102770578, Avg. Ret : 61.781601856682244
+Iteration [  197  ]
+Obj. val : 99.68972412319431, Avg. Ret : 60.47507697701582
+Iteration [  198  ]
+Obj. val : 94.32121771440693, Avg. Ret : 62.07479835671344
+Iteration [  199  ]
+Obj. val : 107.30730228353808, Avg. Ret : 54.680547615443245
+checkpoint for objective values, iteration: 200. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_4.csv
+checkpoint for avg return values, iteration: 200. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_4.csv
+Iteration [  200  ]
+Obj. val : 101.3177955832599, Avg. Ret : 60.534111929104704
+Iteration [  201  ]
+Obj. val : 97.79729171597981, Avg. Ret : 66.96728200058352
+Iteration [  202  ]
+Obj. val : 90.24120090398395, Avg. Ret : 53.91696508814016
+Iteration [  203  ]
+Obj. val : 105.33274533683225, Avg. Ret : 60.28092651295628
+Iteration [  204  ]
+Obj. val : 95.37804463563336, Avg. Ret : 63.393515101373
+Iteration [  205  ]
+Obj. val : 126.9363810579012, Avg. Ret : 62.09158146023346
+Iteration [  206  ]
+Obj. val : 121.69207888578111, Avg. Ret : 63.28816657949688
+Iteration [  207  ]
+Obj. val : 120.6959864155368, Avg. Ret : 51.89537567688596
+Iteration [  208  ]
+Obj. val : 99.35434778565546, Avg. Ret : 61.4734355357745
+Iteration [  209  ]
+Obj. val : 94.9284042952838, Avg. Ret : 58.61054242623196
+Iteration [  210  ]
+Obj. val : 95.54552126898245, Avg. Ret : 59.951413491845706
+Iteration [  211  ]
+Obj. val : 128.66799849941233, Avg. Ret : 59.89082850501514
+Iteration [  212  ]
+Obj. val : 101.35507931510062, Avg. Ret : 63.23508652946911
+Iteration [  213  ]
+Obj. val : 131.63343744501614, Avg. Ret : 55.47256328843167
+Iteration [  214  ]
+Obj. val : 95.55691333308965, Avg. Ret : 58.600635120985345
+Iteration [  215  ]
+Obj. val : 112.91545972809794, Avg. Ret : 61.04299397667035
+Iteration [  216  ]
+Obj. val : 99.83820835309925, Avg. Ret : 57.72964633287479
+Iteration [  217  ]
+Obj. val : 94.15800283483817, Avg. Ret : 62.257110693615125
+Iteration [  218  ]
+Obj. val : 108.4355401271678, Avg. Ret : 66.39045773282933
+Iteration [  219  ]
+Obj. val : 92.42268947875603, Avg. Ret : 58.219526559549564
+Iteration [  220  ]
+Obj. val : 108.17153720230691, Avg. Ret : 58.04180535140663
+Iteration [  221  ]
+Obj. val : 147.44057122934367, Avg. Ret : 58.016162957770575
+Iteration [  222  ]
+Obj. val : 100.11733337695476, Avg. Ret : 58.4217954327591
+Iteration [  223  ]
+Obj. val : 108.36107163076396, Avg. Ret : 58.819505751109865
+Iteration [  224  ]
+Obj. val : 101.90529505961524, Avg. Ret : 65.4969368098199
+Iteration [  225  ]
+Obj. val : 98.33833037787144, Avg. Ret : 63.19049304315669
+Iteration [  226  ]
+Obj. val : 117.69387110308, Avg. Ret : 61.99212326133067
+Iteration [  227  ]
+Obj. val : 102.91689569644056, Avg. Ret : 62.91806742466058
+Iteration [  228  ]
+Obj. val : 101.11166597259518, Avg. Ret : 56.33448406744855
+Iteration [  229  ]
+Obj. val : 117.36945648242482, Avg. Ret : 55.06771075729253
+Iteration [  230  ]
+Obj. val : 99.96145588613503, Avg. Ret : 64.4797494682252
+Iteration [  231  ]
+Obj. val : 115.81638852357844, Avg. Ret : 59.15935228628073
+Iteration [  232  ]
+Obj. val : 93.6326367830455, Avg. Ret : 61.363414163263904
+Iteration [  233  ]
+Obj. val : 90.85249465301507, Avg. Ret : 64.24454173565411
+Iteration [  234  ]
+Obj. val : 108.17450316453397, Avg. Ret : 57.11702963142277
+Iteration [  235  ]
+Obj. val : 89.29479150537946, Avg. Ret : 61.622025011786015
+Iteration [  236  ]
+Obj. val : 103.36049307559206, Avg. Ret : 62.511972324869305
+Iteration [  237  ]
+Obj. val : 98.956746451372, Avg. Ret : 61.532127361469364
+Iteration [  238  ]
+Obj. val : 89.76140473715017, Avg. Ret : 51.36554959193531
+Iteration [  239  ]
+Obj. val : 101.8627645284495, Avg. Ret : 57.34090414982684
+Iteration [  240  ]
+Obj. val : 93.98883574185182, Avg. Ret : 59.007941213462466
+Iteration [  241  ]
+Obj. val : 106.97250830220018, Avg. Ret : 64.39547808693337
+Iteration [  242  ]
+Obj. val : 106.36077730318456, Avg. Ret : 60.234354464556134
+Iteration [  243  ]
+Obj. val : 107.74473692606634, Avg. Ret : 61.74779695415286
+Iteration [  244  ]
+Obj. val : 100.9126199087212, Avg. Ret : 59.27157685190572
+Iteration [  245  ]
+Obj. val : 109.24605964241812, Avg. Ret : 67.70232525223525
+Iteration [  246  ]
+Obj. val : 120.87953323180216, Avg. Ret : 60.01884738645536
+Iteration [  247  ]
+Obj. val : 105.93147304906783, Avg. Ret : 62.35464333431576
+Iteration [  248  ]
+Obj. val : 97.42178470396352, Avg. Ret : 63.89486162122503
+Iteration [  249  ]
+Obj. val : 91.03613560834191, Avg. Ret : 63.78468945175135
+Iteration [  250  ]
+Obj. val : 106.97477754321065, Avg. Ret : 60.22284177995093
+Iteration [  251  ]
+Obj. val : 102.10062620550536, Avg. Ret : 59.91027674336757
+Iteration [  252  ]
+Obj. val : 114.48671911174046, Avg. Ret : 58.198424849396844
+Iteration [  253  ]
+Obj. val : 89.07164501749325, Avg. Ret : 59.7382536469602
+Iteration [  254  ]
+Obj. val : 121.94738968104699, Avg. Ret : 60.83587598989664
+Iteration [  255  ]
+Obj. val : 121.59874645433982, Avg. Ret : 56.945613417637745
+Iteration [  256  ]
+Obj. val : 108.3907388638051, Avg. Ret : 58.48887648933861
+Iteration [  257  ]
+Obj. val : 105.8823945264588, Avg. Ret : 63.35191992810633
+Iteration [  258  ]
+Obj. val : 94.69707308143937, Avg. Ret : 61.06752759095776
+Iteration [  259  ]
+Obj. val : 94.50099220532272, Avg. Ret : 56.38125889923051
+Iteration [  260  ]
+Obj. val : 106.14316605556238, Avg. Ret : 58.573459404484964
+Iteration [  261  ]
+Obj. val : 101.68060422366129, Avg. Ret : 55.65036974637165
+Iteration [  262  ]
+Obj. val : 115.32655894151816, Avg. Ret : 61.550981619414685
+Iteration [  263  ]
+Obj. val : 102.00690908102338, Avg. Ret : 60.087809767075214
+Iteration [  264  ]
+Obj. val : 107.61939183698262, Avg. Ret : 59.17059872159452
+Iteration [  265  ]
+Obj. val : 107.83167664627554, Avg. Ret : 62.54399610240521
+Iteration [  266  ]
+Obj. val : 94.48364349731274, Avg. Ret : 58.90285035017227
+Iteration [  267  ]
+Obj. val : 126.42047797651186, Avg. Ret : 57.4972139503648
+Iteration [  268  ]
+Obj. val : 107.41767981110004, Avg. Ret : 63.8332992606275
+Iteration [  269  ]
+Obj. val : 105.27270662804588, Avg. Ret : 55.32966845842553
+Iteration [  270  ]
+Obj. val : 109.00240696174328, Avg. Ret : 54.087140453496914
+Iteration [  271  ]
+Obj. val : 109.58369673380267, Avg. Ret : 59.66245541623497
+Iteration [  272  ]
+Obj. val : 140.90405631562888, Avg. Ret : 58.425426424070764
+Iteration [  273  ]
+Obj. val : 140.98601551458185, Avg. Ret : 59.638662474521844
+Iteration [  274  ]
+Obj. val : 107.8239171305408, Avg. Ret : 57.64917997916529
+Iteration [  275  ]
+Obj. val : 114.17216251685497, Avg. Ret : 58.26250705818681
+Iteration [  276  ]
+Obj. val : 109.0266382795534, Avg. Ret : 53.256083757686795
+Iteration [  277  ]
+Obj. val : 106.92984199339826, Avg. Ret : 53.70590403640289
+Iteration [  278  ]
+Obj. val : 102.31434703523412, Avg. Ret : 61.75819384052326
+Iteration [  279  ]
+Obj. val : 100.97041739589636, Avg. Ret : 57.72430479259118
+Iteration [  280  ]
+Obj. val : 106.66945054262096, Avg. Ret : 57.67932715583026
+Iteration [  281  ]
+Obj. val : 113.92611766110704, Avg. Ret : 62.893527055680096
+Iteration [  282  ]
+Obj. val : 110.58176040657452, Avg. Ret : 60.592127098831455
+Iteration [  283  ]
+Obj. val : 141.54066640501566, Avg. Ret : 60.162142312651696
+Iteration [  284  ]
+Obj. val : 81.91631211537823, Avg. Ret : 64.19654120413395
+Iteration [  285  ]
+Obj. val : 90.12824862947267, Avg. Ret : 56.2658614878913
+Iteration [  286  ]
+Obj. val : 106.57488913022785, Avg. Ret : 58.38902706755366
+Iteration [  287  ]
+Obj. val : 94.45849346751125, Avg. Ret : 61.58974818566251
+Iteration [  288  ]
+Obj. val : 98.32078329311364, Avg. Ret : 58.20947212773198
+Iteration [  289  ]
+Obj. val : 90.08979009002846, Avg. Ret : 57.86964208277196
+Iteration [  290  ]
+Obj. val : 97.52240265365812, Avg. Ret : 63.74060797527768
+Iteration [  291  ]
+Obj. val : 100.18063651833707, Avg. Ret : 57.63061892913396
+Iteration [  292  ]
+Obj. val : 87.46084908520895, Avg. Ret : 55.28303067768743
+Iteration [  293  ]
+Obj. val : 101.4847684195958, Avg. Ret : 60.04775226876448
+Iteration [  294  ]
+Obj. val : 98.83276663712529, Avg. Ret : 61.54480731221162
+Iteration [  295  ]
+Obj. val : 104.89958593773173, Avg. Ret : 62.238054340647274
+Iteration [  296  ]
+Obj. val : 114.13098104284428, Avg. Ret : 58.53756374448088
+Iteration [  297  ]
+Obj. val : 102.03346875094476, Avg. Ret : 57.57883351993004
+Iteration [  298  ]
+Obj. val : 91.55034964811897, Avg. Ret : 59.346568481217346
+Iteration [  299  ]
+Obj. val : 96.7349826993977, Avg. Ret : 57.73958912174673
+checkpoint for objective values, iteration: 300. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_4.csv
+checkpoint for avg return values, iteration: 300. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_4.csv
+Iteration [  300  ]
+Obj. val : 92.80935595353503, Avg. Ret : 60.822483420111524
+Iteration [  301  ]
+Obj. val : 101.25401972394222, Avg. Ret : 56.59509371166271
+Iteration [  302  ]
+Obj. val : 133.7159219026346, Avg. Ret : 60.853486886798926
+Iteration [  303  ]
+Obj. val : 87.07131696595461, Avg. Ret : 58.26496450078743
+Iteration [  304  ]
+Obj. val : 116.88582057353852, Avg. Ret : 57.227604331305265
+Iteration [  305  ]
+Obj. val : 104.46908592996617, Avg. Ret : 62.397097296058526
+Iteration [  306  ]
+Obj. val : 125.48318410133582, Avg. Ret : 56.213153177840596
+Iteration [  307  ]
+Obj. val : 103.15055235967391, Avg. Ret : 60.67595329002496
+Iteration [  308  ]
+Obj. val : 87.32832000272867, Avg. Ret : 61.84394416540941
+Iteration [  309  ]
+Obj. val : 94.1742069153138, Avg. Ret : 56.553780957386444
+Iteration [  310  ]
+Obj. val : 88.22761778384677, Avg. Ret : 60.6404033001469
+Iteration [  311  ]
+Obj. val : 107.3005220740665, Avg. Ret : 62.295155204034664
+Iteration [  312  ]
+Obj. val : 102.60505540417319, Avg. Ret : 58.22020352017039
+Iteration [  313  ]
+Obj. val : 101.38037493838802, Avg. Ret : 57.30130973293854
+Iteration [  314  ]
+Obj. val : 117.05213942757022, Avg. Ret : 64.93092437129054
+Iteration [  315  ]
+Obj. val : 121.93564512929031, Avg. Ret : 62.72796567370653
+Iteration [  316  ]
+Obj. val : 81.21300659931413, Avg. Ret : 61.20383287613348
+Iteration [  317  ]
+Obj. val : 100.94091034663232, Avg. Ret : 58.1215724559272
+Iteration [  318  ]
+Obj. val : 94.97211353549218, Avg. Ret : 61.20247697669969
+Iteration [  319  ]
+Obj. val : 107.83601324836431, Avg. Ret : 59.8482913691561
+Iteration [  320  ]
+Obj. val : 94.54777760351163, Avg. Ret : 57.880550793559
+Iteration [  321  ]
+Obj. val : 94.25025818366382, Avg. Ret : 57.812641679592886
+Iteration [  322  ]
+Obj. val : 118.83716898919435, Avg. Ret : 56.201818367205576
+Iteration [  323  ]
+Obj. val : 102.22130960379332, Avg. Ret : 59.121865876438086
+Iteration [  324  ]
+Obj. val : 115.6471325928486, Avg. Ret : 59.38059623730668
+Iteration [  325  ]
+Obj. val : 100.1552488283242, Avg. Ret : 63.820751250332975
+Iteration [  326  ]
+Obj. val : 106.50804356018165, Avg. Ret : 57.72630980231251
+Iteration [  327  ]
+Obj. val : 90.85020830262464, Avg. Ret : 54.89378111777245
+Iteration [  328  ]
+Obj. val : 94.52379506812241, Avg. Ret : 62.11593602942119
+Iteration [  329  ]
+Obj. val : 92.47123864849554, Avg. Ret : 58.724814595730486
+Iteration [  330  ]
+Obj. val : 102.82611027310166, Avg. Ret : 52.18405698140396
+Iteration [  331  ]
+Obj. val : 114.91515387590408, Avg. Ret : 59.27867385674578
+Iteration [  332  ]
+Obj. val : 96.77274774034032, Avg. Ret : 61.75481051950679
+Iteration [  333  ]
+Obj. val : 90.85315735628518, Avg. Ret : 56.745177740623305
+Iteration [  334  ]
+Obj. val : 100.71984373309904, Avg. Ret : 61.53021335524063
+Iteration [  335  ]
+Obj. val : 89.08358818914547, Avg. Ret : 61.3158350312134
+Iteration [  336  ]
+Obj. val : 123.17815782989175, Avg. Ret : 56.130133031341174
+Iteration [  337  ]
+Obj. val : 95.76662972624581, Avg. Ret : 54.436159303840704
+Iteration [  338  ]
+Obj. val : 102.30260542037767, Avg. Ret : 59.73351706315645
+Iteration [  339  ]
+Obj. val : 102.59291964273798, Avg. Ret : 57.66661898658604
+Iteration [  340  ]
+Obj. val : 135.1529330841334, Avg. Ret : 59.10231666245006
+Iteration [  341  ]
+Obj. val : 95.40305292927366, Avg. Ret : 56.70971621096892
+Iteration [  342  ]
+Obj. val : 120.6829331824014, Avg. Ret : 60.540176014607475
+Iteration [  343  ]
+Obj. val : 108.43402720749694, Avg. Ret : 59.697368343223474
+Iteration [  344  ]
+Obj. val : 119.6550237356526, Avg. Ret : 56.150607389567185
+Iteration [  345  ]
+Obj. val : 115.21517892681379, Avg. Ret : 55.79715983217173
+Iteration [  346  ]
+Obj. val : 93.34530959250382, Avg. Ret : 59.52342924795916
+Iteration [  347  ]
+Obj. val : 100.67496896135214, Avg. Ret : 58.21328083563364
+Iteration [  348  ]
+Obj. val : 96.79922044546171, Avg. Ret : 61.75227576197414
+Iteration [  349  ]
+Obj. val : 105.79720320798373, Avg. Ret : 60.49324544729626
+Iteration [  350  ]
+Obj. val : 102.58616909628168, Avg. Ret : 59.43019377917247
+Iteration [  351  ]
+Obj. val : 100.41971740646112, Avg. Ret : 55.95321128223831
+Iteration [  352  ]
+Obj. val : 102.79546261633794, Avg. Ret : 62.217039895578075
+Iteration [  353  ]
+Obj. val : 93.78951336061965, Avg. Ret : 59.56620983826213
+Iteration [  354  ]
+Obj. val : 93.97924570987108, Avg. Ret : 58.24148085945177
+Iteration [  355  ]
+Obj. val : 100.61530645644355, Avg. Ret : 60.48922027884848
+Iteration [  356  ]
+Obj. val : 102.41330323668922, Avg. Ret : 61.294216402540535
+Iteration [  357  ]
+Obj. val : 124.07008231324954, Avg. Ret : 58.38814498953936
+Iteration [  358  ]
+Obj. val : 95.27989941730398, Avg. Ret : 59.91723738737732
+Iteration [  359  ]
+Obj. val : 122.87126408495823, Avg. Ret : 58.80825237385765
+Iteration [  360  ]
+Obj. val : 95.25178442001551, Avg. Ret : 57.44759867924187
+Iteration [  361  ]
+Obj. val : 101.20990751016987, Avg. Ret : 55.20608700132717
+Iteration [  362  ]
+Obj. val : 93.90310498370488, Avg. Ret : 58.066294046537585
+Iteration [  363  ]
+Obj. val : 95.40545815116216, Avg. Ret : 55.79210289691557
+Iteration [  364  ]
+Obj. val : 108.74989613110495, Avg. Ret : 57.71424339594425
+Iteration [  365  ]
+Obj. val : 110.3613076919607, Avg. Ret : 58.62387212822512
+Iteration [  366  ]
+Obj. val : 91.4557277895558, Avg. Ret : 59.14315421390026
+Iteration [  367  ]
+Obj. val : 119.71651753434766, Avg. Ret : 57.71265874128193
+Iteration [  368  ]
+Obj. val : 115.23266567572949, Avg. Ret : 59.36887838878458
+Iteration [  369  ]
+Obj. val : 116.13964277582554, Avg. Ret : 55.84906677959746
+Iteration [  370  ]
+Obj. val : 87.80163584152893, Avg. Ret : 61.4577064292689
+Iteration [  371  ]
+Obj. val : 123.36238960596015, Avg. Ret : 61.06164708745422
+Iteration [  372  ]
+Obj. val : 97.54881041063652, Avg. Ret : 55.79281379613626
+Iteration [  373  ]
+Obj. val : 109.8951975677326, Avg. Ret : 56.95447847187879
+Iteration [  374  ]
+Obj. val : 104.92191570711327, Avg. Ret : 59.19410253579438
+Iteration [  375  ]
+Obj. val : 100.70368809030003, Avg. Ret : 57.483989381065946
+Iteration [  376  ]
+Obj. val : 89.92520646882237, Avg. Ret : 67.31544886866087
+Iteration [  377  ]
+Obj. val : 89.97400445130384, Avg. Ret : 57.13267163442581
+Iteration [  378  ]
+Obj. val : 107.29990198774938, Avg. Ret : 59.39906146465367
+Iteration [  379  ]
+Obj. val : 93.31570845172786, Avg. Ret : 54.10317639544317
+Iteration [  380  ]
+Obj. val : 88.80039771570416, Avg. Ret : 57.31613694228755
+Iteration [  381  ]
+Obj. val : 104.65358264453428, Avg. Ret : 61.8294184547502
+Iteration [  382  ]
+Obj. val : 115.20073549736847, Avg. Ret : 53.862351941152134
+Iteration [  383  ]
+Obj. val : 94.84305974680136, Avg. Ret : 58.32778181603024
+Iteration [  384  ]
+Obj. val : 109.53297806403064, Avg. Ret : 61.7774948208661
+Iteration [  385  ]
+Obj. val : 89.98297992117756, Avg. Ret : 58.58929303604141
+Iteration [  386  ]
+Obj. val : 114.02629746038033, Avg. Ret : 56.00423692445351
+Iteration [  387  ]
+Obj. val : 115.6014176320293, Avg. Ret : 57.329795407153796
+Iteration [  388  ]
+Obj. val : 111.40886488084905, Avg. Ret : 64.74660370781503
+Iteration [  389  ]
+Obj. val : 105.63867946298208, Avg. Ret : 57.493787228806994
+Iteration [  390  ]
+Obj. val : 140.29950706393618, Avg. Ret : 60.5848876577018
+Iteration [  391  ]
+Obj. val : 101.83746314562862, Avg. Ret : 58.96741543575481
+Iteration [  392  ]
+Obj. val : 126.88723845454774, Avg. Ret : 56.35716354181698
+Iteration [  393  ]
+Obj. val : 107.2911025454484, Avg. Ret : 59.03239234350222
+Iteration [  394  ]
+Obj. val : 115.64640698976794, Avg. Ret : 58.177190692862595
+Iteration [  395  ]
+Obj. val : 93.86949433135293, Avg. Ret : 56.710663955904835
+Iteration [  396  ]
+Obj. val : 118.19891903921473, Avg. Ret : 56.778872571714494
+Iteration [  397  ]
+Obj. val : 101.8691486607154, Avg. Ret : 62.14198042854543
+Iteration [  398  ]
+Obj. val : 105.14464109390993, Avg. Ret : 58.37072180836871
+Iteration [  399  ]
+Obj. val : 91.5279062706508, Avg. Ret : 61.036310435278914
+checkpoint for objective values, iteration: 400. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_4.csv
+checkpoint for avg return values, iteration: 400. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_4.csv
+Iteration [  400  ]
+Obj. val : 97.18130871563113, Avg. Ret : 60.02799381787203
+Iteration [  401  ]
+Obj. val : 95.11227598588762, Avg. Ret : 57.0777212396135
+Iteration [  402  ]
+Obj. val : 96.59149244372527, Avg. Ret : 61.7375558806186
+Iteration [  403  ]
+Obj. val : 110.11037760659734, Avg. Ret : 55.983340897304004
+Iteration [  404  ]
+Obj. val : 102.10369395601387, Avg. Ret : 57.695689797961606
+Iteration [  405  ]
+Obj. val : 111.90237443691097, Avg. Ret : 57.644735757184925
+Iteration [  406  ]
+Obj. val : 101.87763401289557, Avg. Ret : 56.89328746070737
+Iteration [  407  ]
+Obj. val : 101.90320572720626, Avg. Ret : 57.65714150619834
+Iteration [  408  ]
+Obj. val : 102.94181559646857, Avg. Ret : 57.89110375272763
+Iteration [  409  ]
+Obj. val : 94.09303504273714, Avg. Ret : 57.5074476657417
+Iteration [  410  ]
+Obj. val : 94.34954956664363, Avg. Ret : 57.31594377818744
+Iteration [  411  ]
+Obj. val : 119.33543160295588, Avg. Ret : 58.73846972940964
+Iteration [  412  ]
+Obj. val : 93.43488254958865, Avg. Ret : 56.69601010000616
+Iteration [  413  ]
+Obj. val : 109.19963327518367, Avg. Ret : 59.3188204838326
+Iteration [  414  ]
+Obj. val : 107.85427576529376, Avg. Ret : 61.018785298387805
+Iteration [  415  ]
+Obj. val : 101.76991537083174, Avg. Ret : 64.91087947262551
+Iteration [  416  ]
+Obj. val : 114.45368876000862, Avg. Ret : 58.195401366717114
+Iteration [  417  ]
+Obj. val : 115.96572995720064, Avg. Ret : 57.96419723921216
+Iteration [  418  ]
+Obj. val : 130.66002582363762, Avg. Ret : 58.24531694168913
+Iteration [  419  ]
+Obj. val : 112.82433710011844, Avg. Ret : 60.85681813163747
+Iteration [  420  ]
+Obj. val : 102.11126164404997, Avg. Ret : 57.515539820914384
+Iteration [  421  ]
+Obj. val : 91.61906525491759, Avg. Ret : 58.03187906240687
+Iteration [  422  ]
+Obj. val : 100.15115751471956, Avg. Ret : 56.7728022711433
+Iteration [  423  ]
+Obj. val : 107.54015070338455, Avg. Ret : 60.71349857353229
+Iteration [  424  ]
+Obj. val : 108.4190224784996, Avg. Ret : 62.40390181469441
+Iteration [  425  ]
+Obj. val : 101.89730978169314, Avg. Ret : 60.35380919220366
+Iteration [  426  ]
+Obj. val : 101.82636851379499, Avg. Ret : 62.36402665038472
+Iteration [  427  ]
+Obj. val : 102.87035368914506, Avg. Ret : 56.23824576373365
+Iteration [  428  ]
+Obj. val : 114.70491303965278, Avg. Ret : 57.07774198003202
+Iteration [  429  ]
+Obj. val : 98.67695443324341, Avg. Ret : 60.50440065332461
+Iteration [  430  ]
+Obj. val : 109.42924811890619, Avg. Ret : 59.60550743451782
+Iteration [  431  ]
+Obj. val : 124.59733634875303, Avg. Ret : 54.27722115770556
+Iteration [  432  ]
+Obj. val : 129.13689789674396, Avg. Ret : 55.199763482077614
+Iteration [  433  ]
+Obj. val : 113.66761387309934, Avg. Ret : 59.10784557538554
+Iteration [  434  ]
+Obj. val : 93.45063962393499, Avg. Ret : 54.674160413866524
+Iteration [  435  ]
+Obj. val : 97.5363569065648, Avg. Ret : 58.403740218287965
+Iteration [  436  ]
+Obj. val : 116.76514545305486, Avg. Ret : 57.84764912083249
+Iteration [  437  ]
+Obj. val : 95.9732582391812, Avg. Ret : 58.1554075987971
+Iteration [  438  ]
+Obj. val : 126.49023677353732, Avg. Ret : 57.45244252293811
+Iteration [  439  ]
+Obj. val : 94.2217995577035, Avg. Ret : 58.16827091689054
+Iteration [  440  ]
+Obj. val : 124.52904573313394, Avg. Ret : 59.18656380487576
+Iteration [  441  ]
+Obj. val : 87.7446682447021, Avg. Ret : 65.2723162611843
+Iteration [  442  ]
+Obj. val : 117.45185295801647, Avg. Ret : 58.99724702234371
+Iteration [  443  ]
+Obj. val : 98.7609238498871, Avg. Ret : 59.38397377193417
+Iteration [  444  ]
+Obj. val : 101.5812854537393, Avg. Ret : 58.94619215718776
+Iteration [  445  ]
+Obj. val : 94.64319899853315, Avg. Ret : 70.3469678607629
+Iteration [  446  ]
+Obj. val : 103.00831177158777, Avg. Ret : 58.40609193590018
+Iteration [  447  ]
+Obj. val : 90.9113880874591, Avg. Ret : 62.46565573618026
+Iteration [  448  ]
+Obj. val : 115.54499745838359, Avg. Ret : 65.85706023092058
+Iteration [  449  ]
+Obj. val : 113.48625675311362, Avg. Ret : 56.59092390963174
+Iteration [  450  ]
+Obj. val : 95.61110926837831, Avg. Ret : 57.49637310133451
+Iteration [  451  ]
+Obj. val : 97.67268657137927, Avg. Ret : 57.83328346595617
+Iteration [  452  ]
+Obj. val : 103.9429978286571, Avg. Ret : 60.61925147725937
+Iteration [  453  ]
+Obj. val : 109.17405973335549, Avg. Ret : 60.492750908598445
+Iteration [  454  ]
+Obj. val : 113.54520959185295, Avg. Ret : 61.245801915446165
+Iteration [  455  ]
+Obj. val : 97.22953330667767, Avg. Ret : 56.408942406609604
+Iteration [  456  ]
+Obj. val : 125.53119915037058, Avg. Ret : 61.115223655354285
+Iteration [  457  ]
+Obj. val : 90.02994644085874, Avg. Ret : 65.27854040126611
+Iteration [  458  ]
+Obj. val : 94.8770460533208, Avg. Ret : 58.02771147398643
+Iteration [  459  ]
+Obj. val : 95.36820912321939, Avg. Ret : 58.99121070944495
+Iteration [  460  ]
+Obj. val : 95.1760761007877, Avg. Ret : 64.68389199149746
+Iteration [  461  ]
+Obj. val : 123.20941950173844, Avg. Ret : 58.79440173483209
+Iteration [  462  ]
+Obj. val : 109.79326863007468, Avg. Ret : 58.24854644834913
+Iteration [  463  ]
+Obj. val : 107.98925357612896, Avg. Ret : 64.71476104350309
+Iteration [  464  ]
+Obj. val : 111.10066899634288, Avg. Ret : 58.293131201444474
+Iteration [  465  ]
+Obj. val : 91.61016150478721, Avg. Ret : 62.16300748608305
+Iteration [  466  ]
+Obj. val : 102.34125113228144, Avg. Ret : 67.08563004385033
+Iteration [  467  ]
+Obj. val : 97.67421424062118, Avg. Ret : 60.46224405227465
+Iteration [  468  ]
+Obj. val : 95.0095650580878, Avg. Ret : 60.448560652065254
+Iteration [  469  ]
+Obj. val : 102.96035398432674, Avg. Ret : 62.72969214949441
+Iteration [  470  ]
+Obj. val : 110.05834220765283, Avg. Ret : 63.180296377877106
+Iteration [  471  ]
+Obj. val : 108.17124569361825, Avg. Ret : 68.87983625585174
+Iteration [  472  ]
+Obj. val : 115.66900958782625, Avg. Ret : 56.793999931697506
+Iteration [  473  ]
+Obj. val : 124.80600689044206, Avg. Ret : 58.620280094929036
+Iteration [  474  ]
+Obj. val : 96.87481965030898, Avg. Ret : 55.141266638369736
+Iteration [  475  ]
+Obj. val : 121.30649165238913, Avg. Ret : 68.30620876163378
+Iteration [  476  ]
+Obj. val : 110.63787409638621, Avg. Ret : 61.96463177434853
+Iteration [  477  ]
+Obj. val : 94.4998238168211, Avg. Ret : 66.29073934416905
+Iteration [  478  ]
+Obj. val : 113.89237957465978, Avg. Ret : 56.00615252792374
+Iteration [  479  ]
+Obj. val : 108.76441054920582, Avg. Ret : 58.060433602483634
+Iteration [  480  ]
+Obj. val : 96.27329035803427, Avg. Ret : 66.00198691259186
+Iteration [  481  ]
+Obj. val : 95.44945379910403, Avg. Ret : 61.374792529238604
+Iteration [  482  ]
+Obj. val : 116.22633315019006, Avg. Ret : 58.79523720233946
+Iteration [  483  ]
+Obj. val : 117.50644913273516, Avg. Ret : 66.16739054837208
+Iteration [  484  ]
+Obj. val : 120.665444285741, Avg. Ret : 59.178550693883345
+Iteration [  485  ]
+Obj. val : 113.89595963065855, Avg. Ret : 58.24175891015714
+Iteration [  486  ]
+Obj. val : 115.33505004948636, Avg. Ret : 68.37844646945796
+Iteration [  487  ]
+Obj. val : 102.06804166706348, Avg. Ret : 57.63685746027211
+Iteration [  488  ]
+Obj. val : 110.70608539940268, Avg. Ret : 57.6512545738934
+Iteration [  489  ]
+Obj. val : 88.73790347966958, Avg. Ret : 56.293021895070666
+Iteration [  490  ]
+Obj. val : 122.685326907198, Avg. Ret : 68.69688769803317
+Iteration [  491  ]
+Obj. val : 120.92807209451263, Avg. Ret : 61.29405259431948
+Iteration [  492  ]
+Obj. val : 108.1112685871245, Avg. Ret : 68.22676518896986
+Iteration [  493  ]
+Obj. val : 87.77745169422639, Avg. Ret : 62.99150707833949
+Iteration [  494  ]
+Obj. val : 108.05647141848976, Avg. Ret : 56.57751500785204
+Iteration [  495  ]
+Obj. val : 105.40487558913279, Avg. Ret : 66.25215805216466
+Iteration [  496  ]
+Obj. val : 113.73651329283149, Avg. Ret : 60.40601851045044
+Iteration [  497  ]
+Obj. val : 90.0573146972412, Avg. Ret : 61.5368687664782
+Iteration [  498  ]
+Obj. val : 102.98263028025312, Avg. Ret : 58.443526863498555
+Iteration [  499  ]
+Obj. val : 94.86615948215508, Avg. Ret : 70.5887862123684
+checkpoint for objective values, iteration: 500. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_obj_4.csv
+checkpoint for objective values, iteration: 500. Saved at  ./tests/invpenddouble/alpha_0_1/ evar_ret_4.csv
